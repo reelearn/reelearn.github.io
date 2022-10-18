@@ -150,4 +150,9 @@
     .hp-service-card.personalization .verticle-line2{right:-20px;height:40%}
     .hp-service-card.goal-setting:before{bottom:143px;left:-56px}
     .hp-team-name{font-size:1.5rem}
+    .hp-service-card.goal-setting .hp-service-img-wrap{width: 164px;}
+}
+
+@media only screen and (min-width: 1600px) {
+    .hp-service-card.goal-setting .hp-service-img-wrap{width: 142px;}
 }
