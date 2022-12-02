@@ -5,10 +5,24 @@ $(function () {
     $('.dwr-close').on('click', function () {
         $(this).closest('.drawer').removeClass('open');
     });
-    $('.get-started-btn').on('click', function () {
+
+    var secName;
+    // For Desktop
+    $('.hd-nav-desktop-list .section-nav-link').on('click', function () {
+        secName = $(this).attr('data-section');
         $('html,body').animate({
-            scrollTop: $(".hp-form-section").offset().top
-        },
-            'slow');
+            scrollTop: $("#"+ secName).offset().top
+        },'slow');
+    });
+
+    // For Mobile
+    $('.hamburger-dwr .dwr-nav-link ').on('click', function () {
+        $(this).closest('.drawer').removeClass('open');
+    });
+    $('.hamburger-dwr .mobile-section-nav-link').on('click', function () {        
+        secName = $(this).attr('data-section');
+        $('html,body').animate({
+            scrollTop: $("#"+ secName).offset().top
+        },'slow');
     });
 });
