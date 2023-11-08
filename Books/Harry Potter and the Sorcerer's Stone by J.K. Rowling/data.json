@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "type": "POSTER",
+      "content": {
+        "poster": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Sorcerer's%20Stone/icon.jpg",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "titleColor": "#fff",
+        "bgColor": "#222024"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 1: The Boy Who Lived",
+        "text": "Harry Potter, an orphan living with his abusive aunt, uncle, and cousin, discovers on his eleventh birthday that he is a wizard. He is invited to attend Hogwarts School of Witchcraft and Wizardry, where he learns about the magical world and his parents' legacy. Harry meets Ron Weasley and Hermione Granger, who become his best friends. Together, they navigate the challenges of their first year at Hogwarts, including facing a three-headed dog guarding a hidden trapdoor."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 2: The Philosopher's Stone",
+        "text": "Harry, Ron, and Hermione suspect that someone is trying to steal the Philosopher's Stone, a powerful magical artifact that grants immortality. They discover that the stone is being protected by various enchantments, including a deadly game of chess. With their courage and intelligence, they manage to reach the final chamber, where they encounter Professor Quirrell, who is possessed by Lord Voldemort. Harry manages to retrieve the stone and defeat Quirrell, but Voldemort escapes."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 3: The Mirror of Erised",
+        "text": "Harry comes across the Mirror of Erised, which shows the viewer their deepest desires. He sees his deceased parents and becomes obsessed with the mirror, spending hours gazing into it. Dumbledore, the headmaster of Hogwarts, explains that the mirror shows the heart's truest desire but warns Harry not to dwell on it. Harry learns about the Sorcerer's Stone and its potential to bring back the dead. He realizes that Voldemort is after the stone and becomes determined to stop him."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 4: The Forbidden Forest",
+        "text": "Harry, Ron, and Hermione venture into the Forbidden Forest to serve detention with Hagrid, the gamekeeper. They encounter a giant spider named Aragog, who reveals that Hagrid was innocent of opening the Chamber of Secrets fifty years ago. They also encounter Voldemort's loyal servant, Professor Quirrell, who tries to kill Harry. Harry is saved by a centaur named Firenze. The trio learns that Voldemort is planning to return and seeks to regain his full power."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 5: The Philosopher's Stone's Protection",
+        "text": "Harry discovers that the Philosopher's Stone is hidden in Hogwarts and that Snape, a professor at the school, is trying to protect it from Voldemort. Harry, Ron, and Hermione suspect that Snape is the one trying to steal the stone. They use their knowledge and skills to overcome various obstacles, including a deadly plant and a series of logic puzzles. In the end, they discover that it is actually Defense Against the Dark Arts teacher, Professor Quirrell, who is working for Voldemort."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 6: The Final Battle",
+        "text": "Harry confronts Quirrell and Voldemort in the final battle. He realizes that his mother's love protects him from Voldemort's power and sacrifices himself to save his friends. This act of selflessness weakens Voldemort, allowing Harry to defeat him. Harry's self-sacrifice also destroys the last remaining piece of Voldemort's soul within him. With Voldemort defeated, Harry is hailed as a hero and returns to the Dursleys for the summer, knowing that his adventures at Hogwarts are far from over."
+      }
+    }
+  ],
+  "user": {
+    "name": "J.K. Rowling"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "type": "POSTER",
+      "content": {
+        "poster": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Half-Blood%20Prince/icon.jpg",
+        "title": "Harry Potter and the Half-Blood Prince",
+        "titleColor": "#fff",
+        "bgColor": "#222024"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 1: The Dark Times Return",
+        "text": "In the sixth installment of the Harry Potter series, the story picks up with Harry spending his summer holidays at the Dursleys' house. However, the wizarding world is not safe anymore. Lord Voldemort and his Death Eaters are gaining power and causing chaos. The Ministry of Magic is in denial about Voldemort's return, leaving Harry and Dumbledore to fight against the Dark forces on their own. As the Dark Times return, Harry realizes that he must prepare for the ultimate battle that lies ahead."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 2: Hogwarts and Horcruxes",
+        "text": "Back at Hogwarts School of Witchcraft and Wizardry, Harry becomes the star of the Gryffindor Quidditch team as their new Seeker. Meanwhile, Dumbledore starts giving Harry private lessons to teach him about Voldemort's past and the Horcruxes. Horcruxes are objects in which Voldemort has hidden pieces of his soul, making him nearly immortal. Harry learns that he must find and destroy these Horcruxes to weaken Voldemort's power. Together, Harry and Dumbledore embark on a dangerous journey to uncover the truth and locate the Horcruxes."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 3: Love and Jealousy",
+        "text": "Amidst the growing darkness, love and jealousy also take center stage. Harry discovers that Ron and Hermione have developed feelings for each other, which leads to tension within their friendship. Meanwhile, Harry himself starts developing feelings for Ron's sister, Ginny. However, he struggles with the fear of putting her in danger because of his connection to Voldemort. As the relationships between the characters become more complicated, they must navigate their emotions while also facing the imminent threat of Voldemort's forces."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 4: The Potion's Prince",
+        "text": "Harry finds an old potions textbook in the school's storage room, which once belonged to a mysterious student known as the Half-Blood Prince. The book contains handwritten notes and spells that greatly improve Harry's potion-making skills. With the help of the Half-Blood Prince's instructions, Harry excels in his potions class and gains the attention of his professor, Horace Slughorn. However, as Harry delves deeper into the book, he begins to question the true identity and intentions of the enigmatic Half-Blood Prince."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 5: Betrayal and Tragedy",
+        "text": "As the year progresses, the wizarding world is struck by betrayal and tragedy. Hogwarts is no longer a safe haven, as Death Eaters infiltrate the school under the disguise of new teachers and staff members. The Death Eaters' ultimate goal is to kill Dumbledore and take control of the wizarding world. In a shocking turn of events, a trusted ally betrays Dumbledore, leading to a devastating tragedy. Harry and his friends are left shattered and must come to terms with the loss while continuing to fight against Voldemort's forces."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 6: The Battle Begins",
+        "text": "With Dumbledore gone, Harry and his friends are more determined than ever to stop Voldemort. They form a secret group called the Order of the Phoenix and start planning for the inevitable battle. Harry, Ron, and Hermione set out on a dangerous mission to find and destroy the remaining Horcruxes. Along the way, they face numerous obstacles and encounter old friends and enemies. As the Battle of Hogwarts approaches, Harry realizes that he is the chosen one who must face Voldemort in a final showdown, where the fate of the wizarding world will be decided."
+      }
+    }
+  ],
+  "user": {
+    "name": "J.K. Rowling"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "type": "POSTER",
+      "content": {
+        "poster": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban/icon.jpg",
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "titleColor": "#fff",
+        "bgColor": "#222024"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 1: The Escape of Sirius Black",
+        "text": "Harry Potter is spending another miserable summer with his aunt, uncle, and cousin when he receives a letter from Hogwarts School of Witchcraft and Wizardry. This year, Harry is in his third year at Hogwarts and learns about the notorious prisoner, Sirius Black, who has escaped from Azkaban, a wizarding prison. The Dementors, dark creatures that guard Azkaban, are stationed at Hogwarts to prevent Black from entering the school. Harry also learns about the new Defense Against the Dark Arts teacher, Professor Lupin, who seems to have a mysterious connection to Black."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 2: The Marauder's Map",
+        "text": "Harry and his friends, Ron and Hermione, attend their classes and encounter various challenges. Harry receives a special gift, the Marauder's Map, which shows the location of everyone at Hogwarts. With the help of the map, Harry sneaks into Hogsmeade, a nearby wizarding village, despite not having permission. During his visit, Harry overhears a conversation about Sirius Black and learns that he is his godfather. This revelation shakes Harry's world, as he starts to question everything he knows about his parents' deaths."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 3: Buckbeak's Trial",
+        "text": "As the year progresses, tensions rise at Hogwarts. Draco Malfoy, Harry's rival, is attacked by a Hippogriff named Buckbeak, and his father demands the creature's execution. Harry, Ron, and Hermione try to save Buckbeak by using a Time-Turner, a device that allows them to travel back in time. They successfully rescue Buckbeak and witness the events of the past, including the rescue of Sirius Black by Harry's father and his friends, who were the creators of the Marauder's Map."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 4: The Truth About Sirius Black",
+        "text": "Harry confronts Sirius Black, who reveals that he is innocent and was framed for the crimes he was imprisoned for. Sirius explains that Peter Pettigrew, Harry's father's friend, betrayed Harry's parents and framed Sirius for their murder. Harry, Ron, and Hermione help Sirius escape, but their actions lead to a dangerous encounter with the Dementors. Harry successfully repels the Dementors using the Patronus Charm, a powerful defensive spell."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 5: The Time-Turner",
+        "text": "In a shocking twist, Hermione reveals that she has been using a Time-Turner to attend multiple classes and help Harry and Ron. They use the Time-Turner to save Buckbeak and Sirius, ensuring their escape. However, they must be careful not to be seen by their past selves. With the help of the Time-Turner, they manage to alter the events of the night and save both Buckbeak and Sirius."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 6: The Final Confrontation",
+        "text": "Harry, Ron, and Hermione learn the truth about Peter Pettigrew, who has been hiding in plain sight as Ron's pet rat, Scabbers. They confront Pettigrew and Sirius, and a battle ensues. In the chaos, Pettigrew escapes, but Sirius is captured by the Dementors. Harry and Hermione manage to rescue Sirius with the help of a powerful Patronus. They also discover that Lupin is a werewolf and help him in his transformation. The book ends with Harry receiving a Firebolt, a top-of-the-line broomstick, as a gift from Sirius, and looking forward to his fourth year at Hogwarts."
+      }
+    }
+  ],
+  "user": {
+    "name": "J. K. Rowling"
+  }
+}

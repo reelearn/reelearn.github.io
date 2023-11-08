@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "type": "POSTER",
+      "content": {
+        "poster": "https://www.reelearn.ai/Books/The%20Alchemist/icon.jpg",
+        "title": "The Alchemist",
+        "titleColor": "#fff",
+        "bgColor": "#222024"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 1: The Journey Begins",
+        "text": "The Alchemist is a captivating novel that takes readers on a journey of self-discovery and the pursuit of one's dreams. The story follows Santiago, a young shepherd boy who embarks on a quest to find his personal legend. Santiago meets a wise old king named Melchizedek, who encourages him to follow his dreams and listen to his heart. Santiago decides to sell his sheep and sets off on a journey to Egypt, where he believes he will find a hidden treasure. This marks the beginning of Santiago's transformative journey."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 2: The Meeting with the Alchemist",
+        "text": "During his journey, Santiago encounters various obstacles and meets several interesting characters. One of the most significant encounters is with an Englishman who is searching for the secret of alchemy. The Englishman introduces Santiago to the concept of the Soul of the World and the Language of the Universe. Santiago also meets an alchemist who teaches him important life lessons and helps him understand the true meaning of his quest. The alchemist guides Santiago through the desert and imparts wisdom about the importance of listening to one's heart."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 3: The Pursuit of Personal Legend",
+        "text": "As Santiago continues his journey, he learns to trust his instincts and follow the signs that the universe presents to him. He encounters challenges and setbacks but remains determined to pursue his personal legend. Along the way, Santiago falls in love with a girl named Fatima and faces the dilemma of choosing between his love for her and his desire to fulfill his dreams. Through his experiences, Santiago learns that love and the pursuit of one's dreams can coexist and complement each other."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 4: The Revelation of the Treasure",
+        "text": "After enduring many trials and tribulations, Santiago finally reaches the Egyptian pyramids, the location of the hidden treasure. However, he is captured by a group of thieves who demand that he reveal the location of the treasure. Santiago realizes that the real treasure he was searching for was not the material wealth but the knowledge and wisdom he gained throughout his journey. He manages to escape and returns to the place where he started his journey, only to discover that the treasure was buried beneath a tree in his hometown. This revelation signifies the importance of self-discovery and the realization that sometimes what we seek is right in front of us."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 5: The Return Home",
+        "text": "With the treasure in hand, Santiago returns to his hometown a changed man. He shares his wisdom and experiences with others and inspires them to pursue their dreams. Santiago reunites with Fatima and together they build a life filled with love and fulfillment. The story emphasizes the importance of following one's dreams and listening to one's heart, as well as the power of perseverance and self-belief."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 6: The Alchemist's Message",
+        "text": "In the final part of the book, Santiago meets the alchemist one last time. The alchemist reveals that he knew all along that Santiago would find the treasure in his hometown. He explains that the journey was necessary for Santiago to learn valuable lessons and discover his true potential. The alchemist's message is that the universe conspires to help those who pursue their dreams with passion and determination. Santiago realizes that his journey was not just about finding treasure but about finding himself and his purpose in life."
+      }
+    }
+  ],
+  "user": {
+    "name": "Paulo Coelho"
+  }
+}

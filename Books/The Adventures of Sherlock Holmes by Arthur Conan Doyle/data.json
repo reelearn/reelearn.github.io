@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "type": "POSTER",
+      "content": {
+        "poster": "https://www.reelearn.ai/Books/The%20Adventures%20of%20Sherlock%20Holmes/icon.jpg",
+        "title": "The Adventures of Sherlock Holmes",
+        "titleColor": "#fff",
+        "bgColor": "#222024"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 1: Introduction to Sherlock Holmes",
+        "text": "In the first part of 'The Adventures of Sherlock Holmes', we are introduced to the brilliant detective Sherlock Holmes and his loyal companion Dr. John Watson. Holmes is known for his incredible deductive reasoning skills and his ability to solve even the most complex cases. The story begins with Watson moving into 221B Baker Street and becoming fascinated by Holmes' unique personality and methods. Holmes' first case involves a young woman named Miss Mary Morstan who seeks his help in solving the mysterious disappearance of her father. Holmes takes on the case and begins his investigation, using his keen observation and analytical skills to uncover the truth."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 2: The Red-Headed League",
+        "text": "In the second part, Holmes and Watson are approached by a man named Jabez Wilson who seeks their assistance in a bizarre case involving the 'Red-Headed League'. Wilson had been employed by the League, which promised him a generous salary for performing simple tasks. However, the League suddenly dissolves, leaving Wilson confused and seeking answers. Holmes takes on the case and uncovers a clever plot orchestrated by a criminal mastermind. Through his deductive reasoning, Holmes is able to solve the case and bring the culprits to justice."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 3: A Scandal in Bohemia",
+        "text": "In the third part, Holmes is approached by the King of Bohemia who seeks his help in retrieving a compromising photograph that could ruin his impending marriage. The photograph is in the possession of Irene Adler, a talented opera singer and the King's former lover. Holmes takes on the challenge and devises an elaborate plan to retrieve the photograph. However, Adler proves to be a formidable opponent, outsmarting Holmes and escaping with the photograph. Although Holmes is unable to recover the photograph, he gains a newfound respect for Adler's intelligence and resourcefulness."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 4: The Speckled Band",
+        "text": "In the fourth part, Holmes is visited by a young woman named Helen Stoner who fears for her life. Her twin sister had died under mysterious circumstances, and Helen believes that she is also in danger. Holmes investigates the case and discovers a sinister plot involving a stepfather who is determined to inherit the family fortune. With his sharp observation skills, Holmes uncovers the truth behind the mysterious death and saves Helen from a similar fate."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 5: The Five Orange Pips",
+        "text": "In the fifth part, Holmes receives a mysterious letter containing five orange pips, which is a symbol of death. The letter is connected to a series of deaths in the same family, and Holmes is determined to uncover the truth behind the curse. Through his investigation, Holmes discovers a secret society called the Ku Klux Klan, which is responsible for the deaths. With his quick thinking and bravery, Holmes is able to stop the Klan's plans and bring them to justice."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 6: The Final Problem",
+        "text": "In the final part, Holmes faces his greatest challenge yet when he encounters his arch-nemesis, Professor Moriarty. The two engage in a deadly game of cat and mouse, culminating in a final showdown at the Reichenbach Falls. In a thrilling climax, Holmes sacrifices himself to defeat Moriarty and save Watson's life. The world believes that Holmes is dead, but his legacy lives on. This marks the end of 'The Adventures of Sherlock Holmes', leaving readers in awe of Holmes' brilliance and determination."
+      }
+    }
+  ],
+  "user": {
+    "name": "Arthur Conan Doyle"
+  }
+}

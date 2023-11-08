@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "type": "POSTER",
+      "content": {
+        "poster": "https://www.reelearn.ai/Books/The%20Little%20Prince/icon.jpg",
+        "title": "The Little Prince",
+        "titleColor": "#fff",
+        "bgColor": "#222024"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 1: The Little Prince's Journey",
+        "text": "The Little Prince is a heartwarming tale written by Antoine de Saint-Exupéry. The story begins with a pilot who crash-lands in the Sahara Desert. There, he meets a young boy, the Little Prince, who claims to have come from a distant asteroid. As the pilot repairs his plane, the Little Prince shares his adventures and encounters with various characters on different planets. Through these encounters, the Little Prince learns important life lessons and gains a deeper understanding of the world."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 2: The Lessons from the Fox",
+        "text": "On one planet, the Little Prince meets a wise fox who teaches him about the importance of human connections. The fox explains that taming is about creating bonds and taking responsibility for those we care about. The Little Prince realizes that his rose, whom he left behind on his asteroid, is unique and special to him because of the time and effort he has invested in her. This encounter teaches the Little Prince the value of love, friendship, and loyalty."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 3: The Encounter with the Snake",
+        "text": "As the Little Prince continues his journey, he arrives on a planet inhabited by a snake. The snake claims to have the power to send the Little Prince back to his asteroid. However, the snake also reveals that its bite can bring death. The Little Prince, unafraid of death, decides to confront the snake in order to return home and reunite with his beloved rose. This encounter explores the themes of mortality and sacrifice."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 4: Meeting the Aviator",
+        "text": "Eventually, the Little Prince lands on Earth and meets an aviator who has crash-landed in the desert. The aviator, the narrator of the story, learns about the Little Prince's journey and becomes deeply touched by his innocence and wisdom. The aviator realizes that adults have lost touch with their inner child and the ability to appreciate the simple wonders of life. Through the Little Prince, the aviator rediscovers the importance of imagination, curiosity, and creativity."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 5: The Little Prince's Departure",
+        "text": "As the Little Prince spends time on Earth, he becomes increasingly homesick and yearns to return to his asteroid. The aviator helps him build a new, improved plane to fly back home. Before leaving, the Little Prince tells the aviator that he will look after the stars and that his laughter will be like a little bell in the night. The Little Prince's departure leaves the aviator with a bittersweet feeling, but he is grateful for the time they spent together."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 6: The Essence of the Little Prince",
+        "text": "In the final part, the aviator reflects on the lessons he has learned from the Little Prince. He realizes that the Little Prince symbolizes the purity, innocence, and imagination that exist within each person. The aviator understands that it is important to hold onto these qualities and not let the pressures and responsibilities of adulthood diminish them. The Little Prince's journey serves as a reminder to cherish the simple joys of life and to never lose sight of what truly matters."
+      }
+    }
+  ],
+  "user": {
+    "name": "Antoine de Saint-Exupéry"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "type": "POSTER",
+      "content": {
+        "poster": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix/icon.jpg",
+        "title": "Harry Potter and the Order of the Phoenix",
+        "titleColor": "#fff",
+        "bgColor": "#222024"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 1: The Rise of Voldemort",
+        "text": "In the fifth installment of the Harry Potter series, 'Harry Potter and the Order of the Phoenix', we see Harry dealing with the aftermath of the return of Lord Voldemort. The story begins with Harry feeling isolated and frustrated as the Ministry of Magic refuses to acknowledge Voldemort's return. He is also plagued by disturbing dreams and visions. We are introduced to a new character, Dolores Umbridge, who becomes the Defense Against the Dark Arts teacher at Hogwarts. She quickly establishes a reign of terror, implementing strict rules and punishing students."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 2: Dumbledore's Army",
+        "text": "As Hogwarts becomes more oppressive, Harry, Ron, and Hermione decide to take matters into their own hands. They form 'Dumbledore's Army', a secret group where they teach their fellow students defensive magic. Under Harry's leadership, they learn and practice spells to prepare themselves for the coming battle against Voldemort and his Death Eaters. This part of the book showcases the power of unity and the importance of standing up against injustice."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 3: The Battle at the Ministry",
+        "text": "In this thrilling part of the story, Harry has a vision that his godfather, Sirius Black, is being held captive in the Department of Mysteries at the Ministry of Magic. Harry, along with his friends and members of the Order of the Phoenix, infiltrates the Ministry to rescue Sirius. However, they fall into a trap set by Voldemort. A fierce battle ensues, resulting in the tragic death of Sirius. This part highlights the sacrifices made in the fight against evil."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 4: Dumbledore's Revelation",
+        "text": "After the battle at the Ministry, Dumbledore finally reveals the truth to Harry. He explains the connection between himself, Voldemort, and Harry. Harry learns about the prophecy that foretold his role in defeating Voldemort. Dumbledore also shares his regrets and mistakes, emphasizing the importance of learning from the past and making choices based on love and compassion."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 5: The Hogwarts Rebellion",
+        "text": "As the Ministry gains more control over Hogwarts, Umbridge becomes the High Inquisitor, giving her even more power. Frustrated with her tyranny, the students, led by Harry and his friends, organize a rebellion. They resist Umbridge's oppressive rule and create chaos within the school. This part showcases the bravery and resilience of the students as they fight for their rights and the truth."
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 6: The Battle of the Department of Mysteries",
+        "text": "In the climactic final part of the book, Harry and his friends return to the Department of Mysteries to retrieve a mysterious object that Voldemort desires. They are confronted by Death Eaters and engage in a fierce battle. The fight leads them to the prophecy room, where Harry learns the full contents of the prophecy. The battle ends with the arrival of members of the Order of the Phoenix, who help defeat the Death Eaters. However, Harry is faced with a shocking revelation about one of his closest friends, setting the stage for the next installment of the series."
+      }
+    }
+  ],
+  "user": {
+    "name": "J.K. Rowling"
+  }
+}
