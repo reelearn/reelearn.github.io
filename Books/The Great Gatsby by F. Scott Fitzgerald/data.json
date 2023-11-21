@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "type": "POSTER",
+      "content": {
+        "poster": "https://www.reelearn.ai/Books/The%20Great%20Gatsby/icon.jpg",
+        "title": "The Great Gatsby",
+        "titleColor": "#fff",
+        "bgColor": "#222024"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 1: The Roaring Twenties",
+        "text": "The Great Gatsby is set in the 1920s, a period known as the Roaring Twenties. It was a time of economic prosperity, social change, and excess. The novel explores the lives of wealthy individuals living in Long Island, New York, who attend lavish parties and indulge in materialistic pursuits. The main character, Jay Gatsby, is a mysterious millionaire who throws extravagant parties in hopes of winning back his lost love, Daisy Buchanan. The first part of the book introduces us to the vibrant atmosphere of the 1920s and sets the stage for the story to unfold.",
+        "audioSrc": "https://www.reelearn.ai/Books/The%20Great%20Gatsby%20by%20F.%20Scott%20Fitzgerald/1.mp3"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 2: The American Dream",
+        "text": "One of the central themes in The Great Gatsby is the American Dream. Gatsby, who comes from a humble background, has achieved great wealth and success, but his ultimate goal is to win Daisy's love and be accepted into the upper class. Through Gatsby's pursuit of the American Dream, Fitzgerald explores the corrupting influence of wealth and the illusion of happiness it can create. Part two delves deeper into Gatsby's background and his relentless pursuit of his dream, highlighting the stark contrast between his idealized vision and the harsh reality of his situation.",
+        "audioSrc": "https://www.reelearn.ai/Books/The%20Great%20Gatsby%20by%20F.%20Scott%20Fitzgerald/2.mp3"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 3: Love and Obsession",
+        "text": "Love and obsession play a significant role in The Great Gatsby. Gatsby's love for Daisy is all-consuming, and he becomes obsessed with the idea of winning her back. However, their relationship is complicated by Daisy's marriage to Tom Buchanan, a wealthy and powerful man. Part three of the book explores the complexities of love, the destructive nature of obsession, and the consequences of pursuing an unattainable ideal. It also delves into the theme of betrayal, as the characters' relationships become entangled in a web of lies and deceit.",
+        "audioSrc": "https://www.reelearn.ai/Books/The%20Great%20Gatsby%20by%20F.%20Scott%20Fitzgerald/3.mp3"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 4: The Illusion of the Past",
+        "text": "Throughout the novel, there is a sense of longing for the past and a desire to recreate it. Gatsby's parties, with their extravagant displays of wealth and opulence, are attempts to recreate the past and recapture a sense of love and happiness that is forever lost. Part four examines the theme of the illusion of the past, as the characters grapple with the consequences of their actions and the realization that they can never truly go back to the way things were. It highlights the emptiness and hollowness of the materialistic society they live in.",
+        "audioSrc": "https://www.reelearn.ai/Books/The%20Great%20Gatsby%20by%20F.%20Scott%20Fitzgerald/4.mp3"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 5: The Fall of the American Dream",
+        "text": "As the story progresses, the facade of the American Dream begins to crumble. The characters' pursuit of wealth and happiness leads to moral decay, corruption, and tragedy. Part five explores the downfall of the American Dream, as Gatsby's illusions are shattered and the true nature of the society he aspires to be a part of is revealed. It reflects the disillusionment and emptiness that can come from pursuing materialistic ideals and serves as a critique of the American Dream itself.",
+        "audioSrc": "https://www.reelearn.ai/Books/The%20Great%20Gatsby%20by%20F.%20Scott%20Fitzgerald/5.mp3"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 6: The Tragic Ending",
+        "text": "The Great Gatsby concludes with a tragic ending that exposes the emptiness and shallowness of the characters' lives. Without giving away too much, part six delves into the events leading up to the climax and the aftermath of the tragic events. It explores the themes of fate, the consequences of one's actions, and the fleeting nature of happiness. The tragic ending serves as a reflection of the moral decay and corruption that permeate the world of the novel, leaving the reader with a sense of melancholy and a deeper understanding of the characters' motivations and flaws.",
+        "audioSrc": "https://www.reelearn.ai/Books/The%20Great%20Gatsby%20by%20F.%20Scott%20Fitzgerald/6.mp3"
+      }
+    }
+  ],
+  "user": {
+    "name": "F. Scott Fitzgerald"
+  }
+}

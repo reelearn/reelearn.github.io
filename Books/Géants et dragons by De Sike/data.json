@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "type": "POSTER",
+      "content": {
+        "poster": "https://www.reelearn.ai/Books/Géants%20et%20dragons/icon.jpg",
+        "title": "Géants et dragons",
+        "titleColor": "#fff",
+        "bgColor": "#222024"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 1: The World of Giants and Dragons",
+        "text": "In the first part of Géants et dragons, the author introduces us to the fascinating world of giants and dragons. We learn about the different types of giants and dragons that exist in this fantastical realm. Giants are enormous beings, often depicted as having great strength and power. Dragons, on the other hand, are majestic creatures with wings and the ability to breathe fire. The author explains how these mythical beings have been a part of human folklore and mythology for centuries, captivating our imaginations and inspiring countless stories and legends.",
+        "audioSrc": "https://www.reelearn.ai/Books/Géants%20et%20dragons%20by%20De%20Sike/1.mp3"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 2: The Origins and Legends",
+        "text": "In the second part, De Sike delves into the origins and legends surrounding giants and dragons. We discover that these creatures have been featured in various ancient mythologies and folklore from different cultures around the world. The author explores the stories and beliefs associated with giants and dragons, including their roles as protectors, guardians, or fearsome adversaries. We also learn about the symbolism and metaphorical meanings attributed to these creatures, such as representing the forces of nature or embodying human fears and desires.",
+        "audioSrc": "https://www.reelearn.ai/Books/Géants%20et%20dragons%20by%20De%20Sike/2.mp3"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 3: Giants and Dragons in Literature",
+        "text": "The third part of Géants et dragons focuses on the presence of giants and dragons in literature. De Sike explores how these mythical creatures have been depicted in famous works of literature, such as J.R.R. Tolkien's The Lord of the Rings and George R.R. Martin's A Song of Ice and Fire series. The author discusses the different ways in which giants and dragons are portrayed in these stories, highlighting their significance to the plot and the themes they represent. We also learn about the impact of these literary giants and dragons on popular culture.",
+        "audioSrc": "https://www.reelearn.ai/Books/Géants%20et%20dragons%20by%20De%20Sike/3.mp3"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 4: Giants and Dragons in Art and Film",
+        "text": "In the fourth part, De Sike explores the visual representation of giants and dragons in art and film. We discover how artists throughout history have depicted these creatures in paintings, sculptures, and other forms of visual art. The author also discusses the use of giants and dragons in film, from classic movies like King Kong to modern blockbusters like Game of Thrones. We learn about the challenges and techniques involved in bringing these mythical beings to life on the big screen, and how they continue to captivate audiences with their awe-inspiring presence.",
+        "audioSrc": "https://www.reelearn.ai/Books/Géants%20et%20dragons%20by%20De%20Sike/4.mp3"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 5: Giants and Dragons in Popular Culture",
+        "text": "The fifth part of Géants et dragons examines the influence of giants and dragons in popular culture. De Sike explores how these mythical creatures have become iconic symbols in various forms of media, including video games, comic books, and role-playing games. The author discusses the enduring popularity of giants and dragons among fans, and how they continue to inspire new stories and adaptations. We also learn about the different interpretations and variations of giants and dragons in popular culture, showcasing their adaptability and timeless appeal.",
+        "audioSrc": "https://www.reelearn.ai/Books/Géants%20et%20dragons%20by%20De%20Sike/5.mp3"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 6: The Legacy of Giants and Dragons",
+        "text": "In the final part of the book, De Sike reflects on the legacy of giants and dragons. We explore the enduring fascination with these mythical creatures and their impact on our collective imagination. The author discusses the cultural significance of giants and dragons, from their representation in ancient civilizations to their continued presence in contemporary art and literature. We also contemplate the deeper meanings and lessons that giants and dragons can teach us, such as the exploration of power, the triumph of good over evil, and the importance of imagination in our lives.",
+        "audioSrc": "https://www.reelearn.ai/Books/Géants%20et%20dragons%20by%20De%20Sike/6.mp3"
+      }
+    }
+  ],
+  "user": {
+    "name": "De Sike"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "type": "POSTER",
+      "content": {
+        "poster": "https://www.reelearn.ai/Books/Schools%20That%20Learn/icon.jpg",
+        "title": "Schools That Learn",
+        "titleColor": "#fff",
+        "bgColor": "#222024"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 1: A New Vision for Education",
+        "text": "In the first part of 'Schools That Learn,' Peter Senge presents a new vision for education. He emphasizes the need for schools to adapt and evolve in order to meet the changing needs of students and society. Senge argues that traditional education systems are outdated and fail to prepare students for the complexities of the modern world. He advocates for a shift towards a learning organization model, where schools become dynamic learning communities that foster creativity, critical thinking, and collaboration among students and teachers. Senge highlights the importance of systems thinking and the need to address the underlying structures and mental models that shape our educational systems.",
+        "audioSrc": "https://www.reelearn.ai/Books/Schools%20That%20Learn%20by%20Peter%20Senge/1.mp3"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 2: Building a Shared Vision",
+        "text": "In the second part of the book, Senge explores the concept of building a shared vision within educational organizations. He emphasizes the importance of creating a compelling vision that inspires and motivates all stakeholders, including students, teachers, parents, and administrators. Senge provides practical strategies for developing a shared vision, such as engaging in dialogue, fostering collective aspirations, and aligning individual goals with the larger organizational vision. He also discusses the role of leadership in nurturing and sustaining a shared vision, highlighting the need for leaders who can effectively communicate and empower others to contribute to the vision.",
+        "audioSrc": "https://www.reelearn.ai/Books/Schools%20That%20Learn%20by%20Peter%20Senge/2.mp3"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 3: Personal Mastery and Learning",
+        "text": "The third part of 'Schools That Learn' focuses on personal mastery and individual learning. Senge argues that for schools to truly become learning organizations, it is essential for individuals within the organization to cultivate personal mastery. Personal mastery involves continuously developing one's skills, expanding knowledge, and deepening understanding. Senge explores various practices and strategies that can support personal mastery, such as reflection, goal setting, feedback, and continuous learning. He emphasizes the importance of creating a supportive learning environment where individuals feel safe to take risks, make mistakes, and grow.",
+        "audioSrc": "https://www.reelearn.ai/Books/Schools%20That%20Learn%20by%20Peter%20Senge/3.mp3"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 4: Mental Models and Mindsets",
+        "text": "In part four, Senge delves into the concept of mental models and mindsets and their impact on learning and organizational change. He explains that mental models are the deeply ingrained assumptions, beliefs, and values that shape our thinking and behavior. Senge argues that to create meaningful change in education, it is crucial to challenge and transform limiting mental models and adopt new, more expansive mindsets. He provides practical strategies for identifying and shifting mental models, such as engaging in reflective inquiry, embracing diversity of perspectives, and fostering a culture of continuous learning and improvement.",
+        "audioSrc": "https://www.reelearn.ai/Books/Schools%20That%20Learn%20by%20Peter%20Senge/4.mp3"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 5: Team Learning and Collaboration",
+        "text": "The fifth part of the book explores the importance of team learning and collaboration in creating effective learning organizations. Senge emphasizes that learning is a collective process that occurs through dialogue, shared inquiry, and collaboration among team members. He provides practical tools and techniques for fostering team learning, such as creating a safe and trusting environment, encouraging open communication, and promoting collective problem-solving. Senge also highlights the role of effective facilitation in supporting team learning and collaboration.",
+        "audioSrc": "https://www.reelearn.ai/Books/Schools%20That%20Learn%20by%20Peter%20Senge/5.mp3"
+      }
+    },
+    {
+      "type": "TEXT",
+      "content": {
+        "textColor": "black",
+        "bgColor": "white",
+        "title": "Part 6: Systems Thinking for Education",
+        "text": "In the final part of 'Schools That Learn,' Senge introduces the concept of systems thinking and its application to education. He argues that education is a complex system with interconnected elements and feedback loops. Senge emphasizes the need for educators to develop systems thinking skills to understand the underlying dynamics and leverage points for change within the educational system. He provides examples of how systems thinking can be applied to address various educational challenges, such as improving student performance, reducing dropout rates, and promoting equity and inclusivity in education.",
+        "audioSrc": "https://www.reelearn.ai/Books/Schools%20That%20Learn%20by%20Peter%20Senge/6.mp3"
+      }
+    }
+  ],
+  "user": {
+    "name": "Peter Senge"
+  }
+}
