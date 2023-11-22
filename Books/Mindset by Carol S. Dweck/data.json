@@ -1,0 +1,64 @@
+{
+  "name": "Mindset",
+  "id": "OL23002324M",
+  "pages": [
+    {
+      "type": "POSTER",
+      "poster": "https://www.reelearn.ai/Books/Mindset%20by%20Carol%20S.%20Dweck/icon.jpg",
+      "title": "Mindset",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: The Power of Mindset",
+      "text": "In the first part of Mindset, Carol S. Dweck introduces the concept of mindset and its impact on our lives. She explains that people generally have one of two mindsets: a fixed mindset or a growth mindset. Those with a fixed mindset believe that their abilities and intelligence are fixed traits, while those with a growth mindset believe that they can develop and improve their abilities through effort and learning. Dweck argues that having a growth mindset is crucial for personal and professional growth, as it allows individuals to embrace challenges, learn from failures, and ultimately reach their full potential.",
+      "audioSrc": "https://www.reelearn.ai/Books/Mindset%20by%20Carol%20S.%20Dweck/1.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: The Fixed Mindset",
+      "text": "In this part, Dweck delves deeper into the fixed mindset and its negative consequences. She explains that individuals with a fixed mindset tend to avoid challenges, give up easily in the face of obstacles, and see effort as fruitless. They also tend to feel threatened by the success of others and may become defensive or jealous. Dweck emphasizes that a fixed mindset limits personal and professional growth, as individuals are less likely to take risks or seek opportunities for improvement. She provides examples from various domains, such as sports and relationships, to illustrate the detrimental effects of a fixed mindset.",
+      "audioSrc": "https://www.reelearn.ai/Books/Mindset%20by%20Carol%20S.%20Dweck/2.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: The Growth Mindset",
+      "text": "Dweck explores the growth mindset in this part and highlights its advantages. Individuals with a growth mindset embrace challenges, persist in the face of setbacks, and see effort as a necessary part of learning and development. They also find inspiration in the success of others and are motivated to learn from them. Dweck emphasizes that a growth mindset leads to resilience, perseverance, and a love of learning. She provides examples of individuals with a growth mindset who have achieved remarkable success in their fields, demonstrating the power of this mindset in unlocking human potential.",
+      "audioSrc": "https://www.reelearn.ai/Books/Mindset%20by%20Carol%20S.%20Dweck/3.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Nurturing a Growth Mindset in Children",
+      "text": "In this part, Dweck focuses on the importance of fostering a growth mindset in children. She explains that children are not born with a fixed or growth mindset, but rather develop one based on their experiences and the messages they receive from adults. Dweck provides practical strategies for parents, educators, and coaches to help children develop a growth mindset. These strategies include praising effort and persistence, providing constructive feedback, and encouraging a love of learning. Dweck emphasizes that nurturing a growth mindset in children sets them up for success and resilience in the future.",
+      "audioSrc": "https://www.reelearn.ai/Books/Mindset%20by%20Carol%20S.%20Dweck/4.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Cultivating a Growth Mindset in Relationships",
+      "text": "Dweck explores the impact of mindset on relationships in this part. She explains that individuals with a fixed mindset may struggle in relationships, as they tend to view conflicts as personal attacks and are less likely to take responsibility for their actions. On the other hand, those with a growth mindset are more open to feedback, willing to learn from their mistakes, and able to navigate conflicts in a constructive manner. Dweck provides strategies for cultivating a growth mindset in relationships, such as fostering open communication, embracing vulnerability, and valuing personal growth. She emphasizes that a growth mindset can lead to healthier and more fulfilling relationships.",
+      "audioSrc": "https://www.reelearn.ai/Books/Mindset%20by%20Carol%20S.%20Dweck/5.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Applying the Growth Mindset to Leadership and Success",
+      "text": "In the final part of Mindset, Dweck explores the application of the growth mindset to leadership and achieving success. She argues that leaders with a growth mindset are more effective in motivating and developing their team members. They prioritize learning and improvement, encourage innovation and risk-taking, and provide support and guidance. Dweck also discusses the importance of embracing failure as a learning opportunity and maintaining a growth mindset in the face of setbacks. She concludes by emphasizing that the growth mindset is not only beneficial for personal growth but also for creating a more resilient and successful society.",
+      "audioSrc": "https://www.reelearn.ai/Books/Mindset%20by%20Carol%20S.%20Dweck/6.mp3"
+    }
+  ],
+  "user": {
+    "name": "Carol S. Dweck"
+  }
+}

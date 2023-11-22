@@ -2,75 +2,63 @@
   "pages": [
     {
       "type": "POSTER",
-      "content": {
-        "poster": "https://www.reelearn.ai/Books/Leggetts'%20Antiques%20Atlas/icon.jpg",
-        "title": "Leggetts' Antiques Atlas",
-        "titleColor": "#fff",
-        "bgColor": "#222024"
-      }
+      "poster": "https://www.reelearn.ai/Books/Leggetts'%20Antiques%20Atlas%20by%20Kim%20Leggett/icon.jpg",
+      "title": "Leggetts' Antiques Atlas",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 1: The World of Antiques",
-        "text": "In the first part of Leggetts' Antiques Atlas, author Kim Leggett takes us into the fascinating world of antiques. She shares her passion for collecting and the joy of finding unique pieces with a story to tell. Leggett explains the importance of understanding different styles and periods in order to appreciate and evaluate antiques. She also provides valuable tips on how to identify authentic pieces and avoid common pitfalls when buying antiques.",
-        "audioSrc": "https://www.reelearn.ai/Books/Leggetts'%20Antiques%20Atlas%20by%20Kim%20Leggett/1.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: The World of Antiques",
+      "text": "In the first part of Leggetts' Antiques Atlas, author Kim Leggett takes us into the fascinating world of antiques. She shares her passion for collecting and the joy of finding unique pieces with a story to tell. Leggett explains the importance of understanding different styles and periods in order to appreciate and evaluate antiques. She also provides valuable tips on how to identify authentic pieces and avoid common pitfalls when buying antiques.",
+      "audioSrc": "https://www.reelearn.ai/Books/Leggetts'%20Antiques%20Atlas%20by%20Kim%20Leggett/1.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 2: Exploring Different Styles",
-        "text": "In this part, Leggett delves into the various styles of antiques, from traditional to contemporary. She discusses the characteristics of each style and highlights key elements to look for when identifying pieces. Leggett also provides examples and anecdotes from her own collection, giving readers a visual understanding of the different styles and their significance in the world of antiques.",
-        "audioSrc": "https://www.reelearn.ai/Books/Leggetts'%20Antiques%20Atlas%20by%20Kim%20Leggett/2.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Exploring Different Styles",
+      "text": "In this part, Leggett delves into the various styles of antiques, from traditional to contemporary. She discusses the characteristics of each style and highlights key elements to look for when identifying pieces. Leggett also provides examples and anecdotes from her own collection, giving readers a visual understanding of the different styles and their significance in the world of antiques.",
+      "audioSrc": "https://www.reelearn.ai/Books/Leggetts'%20Antiques%20Atlas%20by%20Kim%20Leggett/2.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 3: The Art of Restoration",
-        "text": "Restoration is a crucial aspect of preserving and enhancing the beauty of antiques. Leggett explores the art of restoration in this part, sharing insights into the techniques and processes involved. She emphasizes the importance of finding skilled professionals who can restore antiques while maintaining their integrity. Leggett also provides practical advice on how to care for and maintain antiques to ensure their longevity.",
-        "audioSrc": "https://www.reelearn.ai/Books/Leggetts'%20Antiques%20Atlas%20by%20Kim%20Leggett/3.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: The Art of Restoration",
+      "text": "Restoration is a crucial aspect of preserving and enhancing the beauty of antiques. Leggett explores the art of restoration in this part, sharing insights into the techniques and processes involved. She emphasizes the importance of finding skilled professionals who can restore antiques while maintaining their integrity. Leggett also provides practical advice on how to care for and maintain antiques to ensure their longevity.",
+      "audioSrc": "https://www.reelearn.ai/Books/Leggetts'%20Antiques%20Atlas%20by%20Kim%20Leggett/3.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 4: Collecting with Purpose",
-        "text": "Collecting antiques is not just about acquiring beautiful objects; it can also be a way to connect with history and preserve cultural heritage. In this part, Leggett discusses the significance of collecting with purpose. She encourages readers to consider the stories behind the pieces they collect and the impact they can have on future generations. Leggett also shares her personal experiences of collecting with purpose and the joy it brings.",
-        "audioSrc": "https://www.reelearn.ai/Books/Leggetts'%20Antiques%20Atlas%20by%20Kim%20Leggett/4.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Collecting with Purpose",
+      "text": "Collecting antiques is not just about acquiring beautiful objects; it can also be a way to connect with history and preserve cultural heritage. In this part, Leggett discusses the significance of collecting with purpose. She encourages readers to consider the stories behind the pieces they collect and the impact they can have on future generations. Leggett also shares her personal experiences of collecting with purpose and the joy it brings.",
+      "audioSrc": "https://www.reelearn.ai/Books/Leggetts'%20Antiques%20Atlas%20by%20Kim%20Leggett/4.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 5: Showcasing Antiques in Your Home",
-        "text": "Once you've acquired a collection of antiques, the next step is to showcase them in your home. Leggett provides valuable insights and practical tips on how to display antiques in a way that enhances their beauty and tells a cohesive story. She discusses the importance of creating focal points, balancing different styles, and incorporating antiques into modern interiors. Leggett's advice empowers readers to create unique and visually stunning spaces that reflect their personal style.",
-        "audioSrc": "https://www.reelearn.ai/Books/Leggetts'%20Antiques%20Atlas%20by%20Kim%20Leggett/5.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Showcasing Antiques in Your Home",
+      "text": "Once you've acquired a collection of antiques, the next step is to showcase them in your home. Leggett provides valuable insights and practical tips on how to display antiques in a way that enhances their beauty and tells a cohesive story. She discusses the importance of creating focal points, balancing different styles, and incorporating antiques into modern interiors. Leggett's advice empowers readers to create unique and visually stunning spaces that reflect their personal style.",
+      "audioSrc": "https://www.reelearn.ai/Books/Leggetts'%20Antiques%20Atlas%20by%20Kim%20Leggett/5.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 6: The Future of Antiques",
-        "text": "In the final part of the book, Leggett reflects on the future of antiques in a rapidly changing world. She discusses the challenges and opportunities faced by the antique industry and shares her optimism for its continued relevance and appeal. Leggett encourages readers to embrace the timeless beauty and craftsmanship of antiques and to become stewards of history. She reminds us that antiques are not just objects, but gateways to the past and connections to our shared heritage.",
-        "audioSrc": "https://www.reelearn.ai/Books/Leggetts'%20Antiques%20Atlas%20by%20Kim%20Leggett/6.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: The Future of Antiques",
+      "text": "In the final part of the book, Leggett reflects on the future of antiques in a rapidly changing world. She discusses the challenges and opportunities faced by the antique industry and shares her optimism for its continued relevance and appeal. Leggett encourages readers to embrace the timeless beauty and craftsmanship of antiques and to become stewards of history. She reminds us that antiques are not just objects, but gateways to the past and connections to our shared heritage.",
+      "audioSrc": "https://www.reelearn.ai/Books/Leggetts'%20Antiques%20Atlas%20by%20Kim%20Leggett/6.mp3"
     }
   ],
   "user": {
     "name": "Kim Leggett"
-  }
+  },
+  "name": "Leggetts' Antiques Atlas",
+  "id": "OL24653223M"
 }

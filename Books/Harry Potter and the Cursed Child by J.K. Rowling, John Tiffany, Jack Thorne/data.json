@@ -2,75 +2,63 @@
   "pages": [
     {
       "type": "POSTER",
-      "content": {
-        "poster": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Cursed%20Child/icon.jpg",
-        "title": "Harry Potter and the Cursed Child",
-        "titleColor": "#fff",
-        "bgColor": "#222024"
-      }
+      "poster": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Cursed%20Child%20by%20J.K.%20Rowling,%20John%20Tiffany,%20Jack%20Thorne/icon.jpg",
+      "title": "Harry Potter and the Cursed Child",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 1: The Next Generation Begins",
-        "text": "In the first part of 'Harry Potter and the Cursed Child', we are introduced to the next generation of wizards and witches. The story picks up where the epilogue of 'Harry Potter and the Deathly Hallows' left off, with Harry Potter, now an adult, sending his son Albus off to Hogwarts School of Witchcraft and Wizardry. Albus befriends Scorpius Malfoy, Draco Malfoy's son, and together they embark on a journey that will test their friendship and challenge the legacy of their fathers. We also see familiar faces like Ron Weasley and Hermione Granger, who are now married and have important roles in the Ministry of Magic.",
-        "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Cursed%20Child%20by%20J.K.%20Rowling,%20John%20Tiffany,%20Jack%20Thorne/1.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: The Next Generation Begins",
+      "text": "In the first part of 'Harry Potter and the Cursed Child', we are introduced to the next generation of wizards and witches. The story picks up where the epilogue of 'Harry Potter and the Deathly Hallows' left off, with Harry Potter, now an adult, sending his son Albus off to Hogwarts School of Witchcraft and Wizardry. Albus befriends Scorpius Malfoy, Draco Malfoy's son, and together they embark on a journey that will test their friendship and challenge the legacy of their fathers. We also see familiar faces like Ron Weasley and Hermione Granger, who are now married and have important roles in the Ministry of Magic.",
+      "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Cursed%20Child%20by%20J.K.%20Rowling,%20John%20Tiffany,%20Jack%20Thorne/1.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 2: The Time-Turning Adventure",
-        "text": "In the second part, Albus and Scorpius discover a Time-Turner hidden at the Ministry of Magic. They decide to use it to change the past and save Cedric Diggory, a former Hogwarts student who died during the Triwizard Tournament. However, their actions have unintended consequences and they find themselves in an alternate reality where Voldemort has won the Battle of Hogwarts. They must find a way to restore the timeline and undo the damage they have caused.",
-        "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Cursed%20Child%20by%20J.K.%20Rowling,%20John%20Tiffany,%20Jack%20Thorne/2.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: The Time-Turning Adventure",
+      "text": "In the second part, Albus and Scorpius discover a Time-Turner hidden at the Ministry of Magic. They decide to use it to change the past and save Cedric Diggory, a former Hogwarts student who died during the Triwizard Tournament. However, their actions have unintended consequences and they find themselves in an alternate reality where Voldemort has won the Battle of Hogwarts. They must find a way to restore the timeline and undo the damage they have caused.",
+      "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Cursed%20Child%20by%20J.K.%20Rowling,%20John%20Tiffany,%20Jack%20Thorne/2.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 3: The Secrets of Delphi",
-        "text": "In the third part, Albus and Scorpius learn about Delphi Diggory, a mysterious girl who claims to be Cedric Diggory's cousin. They suspect that she may have ulterior motives and is manipulating events to ensure Voldemort's victory. With the help of their friends, they uncover the truth about Delphi and her connection to the past. They must confront her and stop her from altering the course of history.",
-        "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Cursed%20Child%20by%20J.K.%20Rowling,%20John%20Tiffany,%20Jack%20Thorne/3.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: The Secrets of Delphi",
+      "text": "In the third part, Albus and Scorpius learn about Delphi Diggory, a mysterious girl who claims to be Cedric Diggory's cousin. They suspect that she may have ulterior motives and is manipulating events to ensure Voldemort's victory. With the help of their friends, they uncover the truth about Delphi and her connection to the past. They must confront her and stop her from altering the course of history.",
+      "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Cursed%20Child%20by%20J.K.%20Rowling,%20John%20Tiffany,%20Jack%20Thorne/3.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 4: The Battle of Hogwarts Revisited",
-        "text": "In the fourth part, Albus and Scorpius return to the Battle of Hogwarts to prevent Delphi from interfering and changing the outcome. They encounter their parents and other familiar characters who are fighting against Voldemort's forces. Together, they must find a way to defeat Delphi and ensure that the events of the original timeline are preserved.",
-        "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Cursed%20Child%20by%20J.K.%20Rowling,%20John%20Tiffany,%20Jack%20Thorne/4.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: The Battle of Hogwarts Revisited",
+      "text": "In the fourth part, Albus and Scorpius return to the Battle of Hogwarts to prevent Delphi from interfering and changing the outcome. They encounter their parents and other familiar characters who are fighting against Voldemort's forces. Together, they must find a way to defeat Delphi and ensure that the events of the original timeline are preserved.",
+      "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Cursed%20Child%20by%20J.K.%20Rowling,%20John%20Tiffany,%20Jack%20Thorne/4.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 5: The Power of Friendship and Sacrifice",
-        "text": "In the fifth part, Albus and Scorpius realize that they cannot change the past and must accept the consequences of their actions. They learn the importance of friendship and sacrifice as they make difficult choices to protect their loved ones. Their bravery and determination ultimately lead to the defeat of Delphi and the restoration of the original timeline.",
-        "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Cursed%20Child%20by%20J.K.%20Rowling,%20John%20Tiffany,%20Jack%20Thorne/5.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: The Power of Friendship and Sacrifice",
+      "text": "In the fifth part, Albus and Scorpius realize that they cannot change the past and must accept the consequences of their actions. They learn the importance of friendship and sacrifice as they make difficult choices to protect their loved ones. Their bravery and determination ultimately lead to the defeat of Delphi and the restoration of the original timeline.",
+      "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Cursed%20Child%20by%20J.K.%20Rowling,%20John%20Tiffany,%20Jack%20Thorne/5.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 6: The Legacy Continues",
-        "text": "In the final part, we see the aftermath of the events and how they have shaped the characters' lives. Albus and Scorpius have grown and matured through their experiences, and Harry and his friends reflect on the importance of love, forgiveness, and the power of the next generation. The story ends with a sense of hope and the knowledge that the legacy of Harry Potter will continue to inspire future generations.",
-        "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Cursed%20Child%20by%20J.K.%20Rowling,%20John%20Tiffany,%20Jack%20Thorne/6.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: The Legacy Continues",
+      "text": "In the final part, we see the aftermath of the events and how they have shaped the characters' lives. Albus and Scorpius have grown and matured through their experiences, and Harry and his friends reflect on the importance of love, forgiveness, and the power of the next generation. The story ends with a sense of hope and the knowledge that the legacy of Harry Potter will continue to inspire future generations.",
+      "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Cursed%20Child%20by%20J.K.%20Rowling,%20John%20Tiffany,%20Jack%20Thorne/6.mp3"
     }
   ],
   "user": {
     "name": "J.K. Rowling, John Tiffany, Jack Thorne"
-  }
+  },
+  "name": "Harry Potter and the Cursed Child",
+  "id": "OL32050621M"
 }

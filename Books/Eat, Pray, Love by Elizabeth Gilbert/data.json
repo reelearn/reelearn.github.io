@@ -1,0 +1,64 @@
+{
+  "name": "Eat, Pray, Love",
+  "id": "OL28512037M",
+  "pages": [
+    {
+      "type": "POSTER",
+      "poster": "https://www.reelearn.ai/Books/Eat,%20Pray,%20Love%20by%20Elizabeth%20Gilbert/icon.jpg",
+      "title": "Eat, Pray, Love",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: Eat",
+      "text": "In the first part of Eat, Pray, Love, Elizabeth Gilbert takes us on a journey of self-discovery through the art of eating. After a painful divorce, Gilbert finds herself lost and unhappy. She decides to embark on a year-long adventure to Italy, where she indulges in the pleasure of food. Through her vivid descriptions, we are transported to the streets of Rome, where she devours pasta, gelato, and other delicious Italian delicacies. Gilbert learns to savor each bite and appreciate the joy that food brings to her life. This part of the book teaches us the importance of nourishing our bodies and finding joy in the simple act of eating.",
+      "audioSrc": "https://www.reelearn.ai/Books/Eat,%20Pray,%20Love%20by%20Elizabeth%20Gilbert/1.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Pray",
+      "text": "In the second part of Eat, Pray, Love, Elizabeth Gilbert travels to India in search of spiritual enlightenment. She spends four months in an ashram, immersing herself in the practice of meditation and self-reflection. Through her encounters with gurus and fellow seekers, Gilbert explores the depths of her own spirituality. She learns to let go of her past and embrace the present moment. This part of the book teaches us the power of prayer and the importance of connecting with our inner selves.",
+      "audioSrc": "https://www.reelearn.ai/Books/Eat,%20Pray,%20Love%20by%20Elizabeth%20Gilbert/2.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Love",
+      "text": "In the third part of Eat, Pray, Love, Elizabeth Gilbert arrives in Bali, where she finds love and healing. She meets a medicine man who helps her confront her fears and insecurities. Through her relationship with a Brazilian man named Felipe, Gilbert learns to open her heart again and trust in love. She discovers that love can be found in unexpected places and that it has the power to heal and transform. This part of the book teaches us the importance of love in our lives and the healing power it can bring.",
+      "audioSrc": "https://www.reelearn.ai/Books/Eat,%20Pray,%20Love%20by%20Elizabeth%20Gilbert/3.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Self-Discovery",
+      "text": "In the fourth part of Eat, Pray, Love, Elizabeth Gilbert reflects on her journey and the lessons she has learned along the way. She realizes that true happiness comes from within and that we have the power to create our own destinies. Gilbert encourages us to embrace our passions, follow our dreams, and live life to the fullest. This part of the book teaches us the importance of self-discovery and finding our own paths in life.",
+      "audioSrc": "https://www.reelearn.ai/Books/Eat,%20Pray,%20Love%20by%20Elizabeth%20Gilbert/4.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Balance",
+      "text": "In the fifth part of Eat, Pray, Love, Elizabeth Gilbert explores the concept of balance. She learns that in order to live a fulfilling life, we need to find a balance between work and play, solitude and connection, and indulgence and discipline. Gilbert shares her insights on how to create a harmonious life that nourishes the mind, body, and soul. This part of the book teaches us the importance of finding balance in all aspects of our lives.",
+      "audioSrc": "https://www.reelearn.ai/Books/Eat,%20Pray,%20Love%20by%20Elizabeth%20Gilbert/5.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Gratitude",
+      "text": "In the final part of Eat, Pray, Love, Elizabeth Gilbert expresses her gratitude for the transformative journey she has been on. She reflects on the people she has met, the lessons she has learned, and the growth she has experienced. Gilbert reminds us to be grateful for the simple joys in life and to appreciate the beauty that surrounds us. This part of the book teaches us the power of gratitude and the importance of counting our blessings.",
+      "audioSrc": "https://www.reelearn.ai/Books/Eat,%20Pray,%20Love%20by%20Elizabeth%20Gilbert/6.mp3"
+    }
+  ],
+  "user": {
+    "name": "Elizabeth Gilbert"
+  }
+}

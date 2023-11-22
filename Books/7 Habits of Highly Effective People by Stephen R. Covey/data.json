@@ -1,0 +1,64 @@
+{
+  "name": "7 Habits of Highly Effective People",
+  "id": "OL29828085M",
+  "pages": [
+    {
+      "type": "POSTER",
+      "poster": "https://www.reelearn.ai/Books/7%20Habits%20of%20Highly%20Effective%20People%20by%20Stephen%20R.%20Covey/icon.jpg",
+      "title": "7 Habits of Highly Effective People",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: Be Proactive",
+      "text": "In the first part of the book, Covey introduces the concept of being proactive. He emphasizes the importance of taking responsibility for our own lives and actions. Covey explains that proactive people focus on things they can control and influence, rather than wasting energy on things they cannot. He encourages readers to shift their mindset from being reactive to being proactive, by taking initiative and making conscious choices.",
+      "audioSrc": "https://www.reelearn.ai/Books/7%20Habits%20of%20Highly%20Effective%20People%20by%20Stephen%20R.%20Covey/1.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Begin with the End in Mind",
+      "text": "In this part, Covey emphasizes the significance of having a clear vision and purpose in life. He suggests that effective people start with the end in mind, meaning they have a clear understanding of their goals and values. Covey encourages readers to create a personal mission statement that aligns with their values and guides their actions. He explains that by having a clear vision, individuals can make decisions and prioritize their time based on what truly matters to them.",
+      "audioSrc": "https://www.reelearn.ai/Books/7%20Habits%20of%20Highly%20Effective%20People%20by%20Stephen%20R.%20Covey/2.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Put First Things First",
+      "text": "Covey introduces the concept of time management in this part. He explains that effective people prioritize their activities based on importance and urgency. Covey introduces the Time Management Matrix, which categorizes tasks into four quadrants: important and urgent, important but not urgent, not important but urgent, and not important and not urgent. He encourages readers to focus on activities that are important but not urgent, as they align with long-term goals and values.",
+      "audioSrc": "https://www.reelearn.ai/Books/7%20Habits%20of%20Highly%20Effective%20People%20by%20Stephen%20R.%20Covey/3.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Think Win-Win",
+      "text": "In this part, Covey explores the importance of having a win-win mindset in relationships and interactions. He explains that effective people seek mutually beneficial solutions that consider the needs and interests of all parties involved. Covey emphasizes the power of collaboration and synergy, where the whole is greater than the sum of its parts. He encourages readers to cultivate an abundance mentality, believing that there are enough resources and opportunities for everyone to succeed.",
+      "audioSrc": "https://www.reelearn.ai/Books/7%20Habits%20of%20Highly%20Effective%20People%20by%20Stephen%20R.%20Covey/4.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Seek First to Understand, Then to Be Understood",
+      "text": "Covey highlights the importance of effective communication in this part. He explains that listening is a crucial skill that allows individuals to understand others deeply. Covey introduces the concept of empathic listening, where the listener seeks to understand the speaker's perspective and emotions. He encourages readers to suspend their own judgments and genuinely empathize with others before expressing their own thoughts and opinions.",
+      "audioSrc": "https://www.reelearn.ai/Books/7%20Habits%20of%20Highly%20Effective%20People%20by%20Stephen%20R.%20Covey/5.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Synergize",
+      "text": "In the final part of the book, Covey explores the concept of synergy, which he defines as the whole being greater than the sum of its parts. He explains that synergy is achieved through valuing and appreciating differences, as well as seeking to understand and leverage each other's strengths. Covey encourages readers to embrace diversity and collaborate with others to create innovative and effective solutions. He emphasizes the power of synergy in personal and professional relationships, as it leads to higher levels of creativity and productivity.",
+      "audioSrc": "https://www.reelearn.ai/Books/7%20Habits%20of%20Highly%20Effective%20People%20by%20Stephen%20R.%20Covey/6.mp3"
+    }
+  ],
+  "user": {
+    "name": "Stephen R. Covey"
+  }
+}

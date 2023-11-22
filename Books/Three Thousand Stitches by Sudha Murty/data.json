@@ -1,0 +1,64 @@
+{
+  "name": "Three Thousand Stitches",
+  "id": "OL32786967M",
+  "pages": [
+    {
+      "type": "POSTER",
+      "poster": "https://www.reelearn.ai/Books/Three%20Thousand%20Stitches%20by%20Sudha%20Murty/icon.jpg",
+      "title": "Three Thousand Stitches",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: The Power of Education",
+      "text": "In the first part of 'Three Thousand Stitches' by Sudha Murty, we are introduced to the author's journey of empowering women through education. Sudha Murty, a renowned social worker and writer, shares her experiences of working with underprivileged women in rural India. She believes that education is the key to breaking the cycle of poverty and discrimination. Through her stories, she highlights the transformative power of education and how it can change lives. Murty's dedication to providing quality education to girls and women is truly inspiring.",
+      "audioSrc": "https://www.reelearn.ai/Books/Three%20Thousand%20Stitches%20by%20Sudha%20Murty/1.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: The Importance of Financial Independence",
+      "text": "In this part, Sudha Murty emphasizes the significance of financial independence for women. She believes that economic empowerment is crucial for women to gain respect and equal rights in society. Murty shares stories of women who have overcome obstacles and become financially independent through various means, such as starting their own businesses or pursuing higher education. These stories serve as a reminder that financial independence not only improves the lives of women but also has a positive impact on their families and communities.",
+      "audioSrc": "https://www.reelearn.ai/Books/Three%20Thousand%20Stitches%20by%20Sudha%20Murty/2.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: The Strength of Women",
+      "text": "The third part of 'Three Thousand Stitches' focuses on the strength and resilience of women. Sudha Murty shares stories of women who have faced adversity and triumphed against all odds. These women have shown incredible courage and determination in the face of challenges such as poverty, domestic violence, and societal norms. Murty's stories highlight the importance of supporting and uplifting women, as they have the potential to achieve great things when given the opportunity.",
+      "audioSrc": "https://www.reelearn.ai/Books/Three%20Thousand%20Stitches%20by%20Sudha%20Murty/3.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: The Power of Giving Back",
+      "text": "In this part, Sudha Murty talks about the importance of giving back to society. She believes that those who have been fortunate in life should help those in need. Murty shares stories of individuals who have dedicated their lives to serving others and making a positive impact on society. These stories serve as a reminder that even small acts of kindness can make a big difference in someone's life.",
+      "audioSrc": "https://www.reelearn.ai/Books/Three%20Thousand%20Stitches%20by%20Sudha%20Murty/4.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Overcoming Prejudice and Discrimination",
+      "text": "The fifth part of 'Three Thousand Stitches' explores the theme of prejudice and discrimination faced by women. Sudha Murty shares stories of women who have defied societal expectations and challenged gender stereotypes. These women have broken barriers and proved that they are capable of achieving anything they set their minds to. Murty's stories encourage us to question and challenge the biases that hold women back and work towards creating a more inclusive society.",
+      "audioSrc": "https://www.reelearn.ai/Books/Three%20Thousand%20Stitches%20by%20Sudha%20Murty/5.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Inspiring Change",
+      "text": "The final part of the book is all about inspiring change. Sudha Murty believes that each individual has the power to make a difference in the world. She shares stories of ordinary people who have taken extraordinary steps to bring about positive change in their communities. Through these stories, Murty motivates us to take action and contribute to the betterment of society. 'Three Thousand Stitches' serves as a reminder that change starts with us and that we all have the ability to create a more just and equal world.",
+      "audioSrc": "https://www.reelearn.ai/Books/Three%20Thousand%20Stitches%20by%20Sudha%20Murty/6.mp3"
+    }
+  ],
+  "user": {
+    "name": "Sudha Murty"
+  }
+}

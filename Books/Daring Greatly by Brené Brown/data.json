@@ -1,0 +1,64 @@
+{
+  "name": "Daring Greatly",
+  "id": "OL26630004M",
+  "pages": [
+    {
+      "type": "POSTER",
+      "poster": "https://www.reelearn.ai/Books/Daring%20Greatly%20by%20Brené%20Brown/icon.jpg",
+      "title": "Daring Greatly",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: The Power of Vulnerability",
+      "text": "In the first part of Daring Greatly, Brené Brown introduces the concept of vulnerability and explains its power in our lives. She argues that vulnerability is not a weakness, but rather a strength that allows us to connect with others on a deeper level. Brown shares her research findings on vulnerability and discusses how it impacts various aspects of our lives, including relationships, work, and personal growth. She emphasizes the importance of embracing vulnerability and encourages readers to step out of their comfort zones to experience true connection and fulfillment.",
+      "audioSrc": "https://www.reelearn.ai/Books/Daring%20Greatly%20by%20Brené%20Brown/1.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: The Armor We Use",
+      "text": "In the second part of the book, Brown explores the various ways we protect ourselves from vulnerability by using armor. She identifies common strategies such as perfectionism, numbing, and cynicism that we employ to shield ourselves from emotional risks. Brown explains how these armor strategies may provide temporary relief, but ultimately prevent us from fully engaging with life and experiencing true joy. She encourages readers to recognize their own armor and offers strategies for dismantling it, allowing for greater authenticity and connection.",
+      "audioSrc": "https://www.reelearn.ai/Books/Daring%20Greatly%20by%20Brené%20Brown/2.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Shame and Empathy",
+      "text": "Part three delves into the topics of shame and empathy. Brown defines shame as the intensely painful feeling of believing that we are flawed and unworthy of love and belonging. She explores the detrimental effects of shame on our lives and relationships, and highlights the importance of empathy as an antidote to shame. Brown provides insights into cultivating empathy and offers practical tips for developing empathy skills. She emphasizes the power of empathy in creating a more compassionate and connected society.",
+      "audioSrc": "https://www.reelearn.ai/Books/Daring%20Greatly%20by%20Brené%20Brown/3.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: The Courage to Be Vulnerable",
+      "text": "In this part, Brown discusses the courage it takes to embrace vulnerability and live wholeheartedly. She explores the fears and doubts that often hold us back from being vulnerable and offers guidance on how to overcome them. Brown shares stories of individuals who have dared greatly and reaped the rewards of living authentically. She encourages readers to cultivate self-compassion and resilience as they navigate the challenges of vulnerability, and reminds us that the greatest rewards come from taking risks and showing up as our true selves.",
+      "audioSrc": "https://www.reelearn.ai/Books/Daring%20Greatly%20by%20Brené%20Brown/4.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Cultivating Meaningful Connections",
+      "text": "In part five, Brown explores the importance of cultivating meaningful connections in our lives. She discusses the role of vulnerability in building trust and deepening relationships, both personally and professionally. Brown provides insights into the qualities of wholehearted individuals who are able to create and sustain authentic connections. She offers practical advice on how to nurture these connections and create a sense of belonging in our communities. Brown emphasizes that true connection requires vulnerability and encourages readers to prioritize meaningful relationships in their lives.",
+      "audioSrc": "https://www.reelearn.ai/Books/Daring%20Greatly%20by%20Brené%20Brown/5.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Living a Wholehearted Life",
+      "text": "The final part of Daring Greatly focuses on living a wholehearted life. Brown explores the concept of wholeheartedness and describes it as embracing imperfections, cultivating self-compassion, and embracing vulnerability as a way of life. She discusses the importance of setting boundaries and practicing self-care to maintain a wholehearted life. Brown shares strategies for overcoming shame and perfectionism, and encourages readers to embrace their true selves and live with authenticity. She concludes by reminding us that living a wholehearted life requires ongoing commitment and practice.",
+      "audioSrc": "https://www.reelearn.ai/Books/Daring%20Greatly%20by%20Brené%20Brown/6.mp3"
+    }
+  ],
+  "user": {
+    "name": "Brené Brown"
+  }
+}

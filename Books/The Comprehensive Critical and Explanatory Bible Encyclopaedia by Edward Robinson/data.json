@@ -2,75 +2,63 @@
   "pages": [
     {
       "type": "POSTER",
-      "content": {
-        "poster": "https://www.reelearn.ai/Books/The%20Comprehensive%20Critical%20and%20Explanatory%20Bible%20Encyclopaedia/icon.jpg",
-        "title": "The Comprehensive Critical and Explanatory Bible Encyclopaedia",
-        "titleColor": "#fff",
-        "bgColor": "#222024"
-      }
+      "poster": "https://www.reelearn.ai/Books/The%20Comprehensive%20Critical%20and%20Explanatory%20Bible%20Encyclopaedia%20by%20Edward%20Robinson/icon.jpg",
+      "title": "The Comprehensive Critical and Explanatory Bible Encyclopaedia",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 1: Introduction and Overview",
-        "text": "The Comprehensive Critical and Explanatory Bible Encyclopaedia is a valuable resource for anyone seeking a deeper understanding of religious terms and the life and teachings of Jesus. Written by Edward Robinson, this encyclopaedia provides comprehensive definitions and explanations of religious concepts, along with an illustrated history of Jesus' words and works. It serves as a guide for readers to navigate the complex world of biblical studies and gain a clearer understanding of the Bible's teachings.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Comprehensive%20Critical%20and%20Explanatory%20Bible%20Encyclopaedia%20by%20Edward%20Robinson/1.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: Introduction and Overview",
+      "text": "The Comprehensive Critical and Explanatory Bible Encyclopaedia is a valuable resource for anyone seeking a deeper understanding of religious terms and the life and teachings of Jesus. Written by Edward Robinson, this encyclopaedia provides comprehensive definitions and explanations of religious concepts, along with an illustrated history of Jesus' words and works. It serves as a guide for readers to navigate the complex world of biblical studies and gain a clearer understanding of the Bible's teachings.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Comprehensive%20Critical%20and%20Explanatory%20Bible%20Encyclopaedia%20by%20Edward%20Robinson/1.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 2: Religious Terms and Definitions",
-        "text": "In this part, Robinson delves into the definitions and explanations of various religious terms. He covers a wide range of topics, including theological concepts, biblical figures, religious rituals, and more. Each term is thoroughly explored, providing readers with a comprehensive understanding of its meaning and significance within the context of the Bible. This section serves as a valuable reference for anyone studying or researching religious texts and traditions.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Comprehensive%20Critical%20and%20Explanatory%20Bible%20Encyclopaedia%20by%20Edward%20Robinson/2.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Religious Terms and Definitions",
+      "text": "In this part, Robinson delves into the definitions and explanations of various religious terms. He covers a wide range of topics, including theological concepts, biblical figures, religious rituals, and more. Each term is thoroughly explored, providing readers with a comprehensive understanding of its meaning and significance within the context of the Bible. This section serves as a valuable reference for anyone studying or researching religious texts and traditions.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Comprehensive%20Critical%20and%20Explanatory%20Bible%20Encyclopaedia%20by%20Edward%20Robinson/2.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 3: Illustrated History of Jesus' Words",
-        "text": "Here, Robinson presents an illustrated history of Jesus' words in chronological order. He meticulously examines the teachings of Jesus, providing insights into their historical and cultural context. By organizing Jesus' words in a chronological manner, readers can gain a deeper understanding of the progression and development of his teachings throughout his life. This section offers a unique perspective on Jesus' ministry and serves as a valuable resource for those interested in the life and teachings of Jesus.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Comprehensive%20Critical%20and%20Explanatory%20Bible%20Encyclopaedia%20by%20Edward%20Robinson/3.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Illustrated History of Jesus' Words",
+      "text": "Here, Robinson presents an illustrated history of Jesus' words in chronological order. He meticulously examines the teachings of Jesus, providing insights into their historical and cultural context. By organizing Jesus' words in a chronological manner, readers can gain a deeper understanding of the progression and development of his teachings throughout his life. This section offers a unique perspective on Jesus' ministry and serves as a valuable resource for those interested in the life and teachings of Jesus.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Comprehensive%20Critical%20and%20Explanatory%20Bible%20Encyclopaedia%20by%20Edward%20Robinson/3.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 4: Illustrated History of Jesus' Works",
-        "text": "Building upon the previous section, Robinson now focuses on the works of Jesus. Through detailed descriptions and illustrations, he explores the miracles, healings, and other significant acts performed by Jesus during his ministry. By presenting these works in a chronological order, readers can follow the progression of Jesus' actions and their impact on the people around him. This section provides valuable insights into the miracles and works of Jesus and their significance in the overall narrative of the Bible.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Comprehensive%20Critical%20and%20Explanatory%20Bible%20Encyclopaedia%20by%20Edward%20Robinson/4.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Illustrated History of Jesus' Works",
+      "text": "Building upon the previous section, Robinson now focuses on the works of Jesus. Through detailed descriptions and illustrations, he explores the miracles, healings, and other significant acts performed by Jesus during his ministry. By presenting these works in a chronological order, readers can follow the progression of Jesus' actions and their impact on the people around him. This section provides valuable insights into the miracles and works of Jesus and their significance in the overall narrative of the Bible.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Comprehensive%20Critical%20and%20Explanatory%20Bible%20Encyclopaedia%20by%20Edward%20Robinson/4.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 5: Analysis and Interpretation",
-        "text": "In this part, Robinson offers analysis and interpretation of key biblical passages and teachings. He provides insights into the historical and cultural context, as well as the theological implications of these passages. By examining the deeper meanings and implications of the Bible's teachings, readers can gain a richer understanding of its messages and apply them to their own lives. This section serves as a valuable tool for biblical scholars, theologians, and anyone seeking a deeper understanding of the Bible.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Comprehensive%20Critical%20and%20Explanatory%20Bible%20Encyclopaedia%20by%20Edward%20Robinson/5.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Analysis and Interpretation",
+      "text": "In this part, Robinson offers analysis and interpretation of key biblical passages and teachings. He provides insights into the historical and cultural context, as well as the theological implications of these passages. By examining the deeper meanings and implications of the Bible's teachings, readers can gain a richer understanding of its messages and apply them to their own lives. This section serves as a valuable tool for biblical scholars, theologians, and anyone seeking a deeper understanding of the Bible.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Comprehensive%20Critical%20and%20Explanatory%20Bible%20Encyclopaedia%20by%20Edward%20Robinson/5.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 6: Conclusion and Final Thoughts",
-        "text": "In the final part of the encyclopaedia, Robinson concludes with his final thoughts and reflections. He summarizes the key points and highlights the importance of studying the Bible and understanding its teachings. Robinson's concluding remarks serve as a reminder of the significance of religious studies and the value of seeking knowledge and wisdom from the Bible. This section provides a fitting end to the encyclopaedia, leaving readers with a sense of fulfillment and a deeper appreciation for the religious texts and traditions they have explored.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Comprehensive%20Critical%20and%20Explanatory%20Bible%20Encyclopaedia%20by%20Edward%20Robinson/6.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Conclusion and Final Thoughts",
+      "text": "In the final part of the encyclopaedia, Robinson concludes with his final thoughts and reflections. He summarizes the key points and highlights the importance of studying the Bible and understanding its teachings. Robinson's concluding remarks serve as a reminder of the significance of religious studies and the value of seeking knowledge and wisdom from the Bible. This section provides a fitting end to the encyclopaedia, leaving readers with a sense of fulfillment and a deeper appreciation for the religious texts and traditions they have explored.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Comprehensive%20Critical%20and%20Explanatory%20Bible%20Encyclopaedia%20by%20Edward%20Robinson/6.mp3"
     }
   ],
   "user": {
     "name": "Edward Robinson"
-  }
+  },
+  "name": "The Comprehensive Critical and Explanatory Bible Encyclopaedia",
+  "id": "OL24653091M"
 }

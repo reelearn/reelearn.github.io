@@ -1,0 +1,64 @@
+{
+  "name": "Untamed",
+  "id": "OL28902037M",
+  "pages": [
+    {
+      "type": "POSTER",
+      "poster": "https://www.reelearn.ai/Books/Untamed%20by%20Glennon%20Doyle%20Melton/icon.jpg",
+      "title": "Untamed",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: The Caged Life",
+      "text": "In the first part of Untamed, Glennon Doyle Melton shares her personal journey of living a caged life. She describes how she followed society's expectations and tried to fit into the mold of a perfect wife and mother. She recounts the moment she realized that she was living a lie and decided to break free from societal norms. This awakening led her to question everything she had been taught about what it means to be a woman and to live an authentic life.",
+      "audioSrc": "https://www.reelearn.ai/Books/Untamed%20by%20Glennon%20Doyle%20Melton/1.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Embracing the Wild",
+      "text": "In the second part, Melton explores the concept of embracing the wild within ourselves. She encourages readers to listen to their inner voice and trust their instincts. She shares her own experiences of learning to trust herself and make decisions that align with her true desires. Melton also emphasizes the importance of self-care and self-love, reminding readers that they are worthy of their own time and attention.",
+      "audioSrc": "https://www.reelearn.ai/Books/Untamed%20by%20Glennon%20Doyle%20Melton/2.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Unlearning and Relearning",
+      "text": "The third part of Untamed focuses on the process of unlearning and relearning. Melton discusses how societal conditioning and expectations can limit our potential and prevent us from living authentically. She encourages readers to question the beliefs and values they have been taught and to challenge the status quo. Melton shares her own journey of unlearning and relearning, highlighting the transformative power of embracing new perspectives and letting go of old narratives.",
+      "audioSrc": "https://www.reelearn.ai/Books/Untamed%20by%20Glennon%20Doyle%20Melton/3.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Finding Your Brave",
+      "text": "In part four, Melton explores the concept of bravery and encourages readers to step outside of their comfort zones. She shares stories of her own acts of bravery, such as leaving her marriage and starting a new relationship. Melton reminds readers that bravery is not the absence of fear, but rather the willingness to take action despite fear. She inspires readers to embrace their own bravery and take risks in pursuit of their dreams and desires.",
+      "audioSrc": "https://www.reelearn.ai/Books/Untamed%20by%20Glennon%20Doyle%20Melton/4.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Motherhood and Identity",
+      "text": "The fifth part of Untamed delves into the complex relationship between motherhood and identity. Melton shares her experiences of navigating the expectations and pressures placed on mothers, and how she learned to redefine her own identity outside of societal norms. She encourages mothers to prioritize their own well-being and dreams, reminding them that they are more than just caregivers.",
+      "audioSrc": "https://www.reelearn.ai/Books/Untamed%20by%20Glennon%20Doyle%20Melton/5.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Living Untamed",
+      "text": "In the final part of the book, Melton offers guidance on how to live an untamed life. She encourages readers to trust themselves, follow their passions, and surround themselves with people who support their authentic selves. Melton emphasizes the importance of self-acceptance and staying true to one's own values and desires. She concludes by reminding readers that living untamed is a lifelong journey of self-discovery and growth.",
+      "audioSrc": "https://www.reelearn.ai/Books/Untamed%20by%20Glennon%20Doyle%20Melton/6.mp3"
+    }
+  ],
+  "user": {
+    "name": "Glennon Doyle Melton"
+  }
+}

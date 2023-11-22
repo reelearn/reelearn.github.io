@@ -1,0 +1,64 @@
+{
+  "name": "Do Epic Shit",
+  "id": "OL36659662M",
+  "pages": [
+    {
+      "type": "POSTER",
+      "poster": "https://www.reelearn.ai/Books/Do%20Epic%20Shit%20by%20Ankur%20Warikoo/icon.jpg",
+      "title": "Do Epic Shit",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: The Power of Mindset",
+      "text": "In the first part of 'Do Epic Shit', Ankur Warikoo emphasizes the importance of having the right mindset. He shares his own journey and how he overcame challenges by adopting a growth mindset. Warikoo explains that a growth mindset allows us to believe in our potential for growth and development, and it enables us to take risks and embrace failure as a learning opportunity. He encourages readers to shift their mindset from a fixed mindset to a growth mindset in order to unlock their full potential and achieve epic things in life.",
+      "audioSrc": "https://www.reelearn.ai/Books/Do%20Epic%20Shit%20by%20Ankur%20Warikoo/1.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Identifying Your Passion",
+      "text": "In the second part, Warikoo guides readers on how to identify their passion. He believes that passion is the driving force behind doing epic things. Warikoo suggests reflecting on our childhood dreams, exploring our interests, and experimenting with different activities to discover our true passion. He emphasizes the importance of aligning our passion with our skills and values to create a meaningful and fulfilling journey towards doing epic shit. Warikoo also shares personal anecdotes and exercises to help readers uncover their passion and pursue it with dedication and enthusiasm.",
+      "audioSrc": "https://www.reelearn.ai/Books/Do%20Epic%20Shit%20by%20Ankur%20Warikoo/2.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Setting Clear Goals",
+      "text": "Part three focuses on setting clear goals to achieve epic shit. Warikoo highlights the significance of having specific, measurable, attainable, relevant, and time-bound (SMART) goals. He explains that setting clear goals provides direction, motivation, and a sense of purpose. Warikoo provides practical tips on how to set SMART goals and break them down into smaller actionable steps. He emphasizes the importance of tracking progress, making adjustments, and celebrating milestones along the way. Warikoo's insights and strategies empower readers to set clear goals that align with their passion and propel them towards doing epic shit.",
+      "audioSrc": "https://www.reelearn.ai/Books/Do%20Epic%20Shit%20by%20Ankur%20Warikoo/3.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Overcoming Fear and Taking Action",
+      "text": "In the fourth part, Warikoo addresses the common obstacles of fear and procrastination. He shares his personal experiences and provides practical advice on overcoming fear and taking action. Warikoo encourages readers to embrace fear as a natural part of growth and to cultivate the habit of taking small, consistent actions towards their goals. He emphasizes the importance of building resilience, facing rejection, and learning from failures. Warikoo's insights inspire readers to overcome their fears and take bold steps towards doing epic shit.",
+      "audioSrc": "https://www.reelearn.ai/Books/Do%20Epic%20Shit%20by%20Ankur%20Warikoo/4.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Building a Support System",
+      "text": "Part five focuses on the significance of building a support system. Warikoo emphasizes the power of surrounding ourselves with like-minded individuals who believe in our vision and provide encouragement and support. He suggests seeking mentors, joining communities, and networking with people who inspire and challenge us. Warikoo also highlights the importance of giving back and helping others on their journey. By building a strong support system, readers can leverage the collective wisdom and energy to achieve epic shit and make a positive impact.",
+      "audioSrc": "https://www.reelearn.ai/Books/Do%20Epic%20Shit%20by%20Ankur%20Warikoo/5.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Embracing Failure and Learning",
+      "text": "The final part of 'Do Epic Shit' delves into the importance of embracing failure and learning from it. Warikoo shares his own failures and how he used them as stepping stones towards success. He emphasizes the need to shift our perspective on failure and view it as an opportunity for growth and improvement. Warikoo provides practical strategies on how to learn from failures, extract valuable lessons, and bounce back stronger. By embracing failure and adopting a growth mindset, readers can overcome setbacks and continue their journey towards doing epic shit.",
+      "audioSrc": "https://www.reelearn.ai/Books/Do%20Epic%20Shit%20by%20Ankur%20Warikoo/6.mp3"
+    }
+  ],
+  "user": {
+    "name": "Ankur Warikoo"
+  }
+}

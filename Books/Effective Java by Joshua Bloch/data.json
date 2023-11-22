@@ -2,75 +2,63 @@
   "pages": [
     {
       "type": "POSTER",
-      "content": {
-        "poster": "https://www.reelearn.ai/Books/Effective%20Java/icon.jpg",
-        "title": "Effective Java",
-        "titleColor": "#fff",
-        "bgColor": "#222024"
-      }
+      "poster": "https://www.reelearn.ai/Books/Effective%20Java%20by%20Joshua%20Bloch/icon.jpg",
+      "title": "Effective Java",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 1: Introduction to Effective Java",
-        "text": "Effective Java is a book written by Joshua Bloch, a renowned software engineer. The book aims to provide practical advice on how to write better Java code and avoid common pitfalls. It covers a wide range of topics, including object creation, classes and interfaces, generics, and concurrency. In this part, Bloch introduces the importance of writing effective code and sets the foundation for the rest of the book.",
-        "audioSrc": "https://www.reelearn.ai/Books/Effective%20Java%20by%20Joshua%20Bloch/1.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: Introduction to Effective Java",
+      "text": "Effective Java is a book written by Joshua Bloch, a renowned software engineer. The book aims to provide practical advice on how to write better Java code and avoid common pitfalls. It covers a wide range of topics, including object creation, classes and interfaces, generics, and concurrency. In this part, Bloch introduces the importance of writing effective code and sets the foundation for the rest of the book.",
+      "audioSrc": "https://www.reelearn.ai/Books/Effective%20Java%20by%20Joshua%20Bloch/1.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 2: Creating and Destroying Objects",
-        "text": "This part focuses on the best practices for creating and destroying objects in Java. Bloch discusses the use of constructors, static factory methods, and the importance of avoiding unnecessary object creation. He also covers the use of builders and singletons, as well as the proper way to handle finalizers and cleaners. By following the guidelines presented in this part, developers can improve the performance and maintainability of their code.",
-        "audioSrc": "https://www.reelearn.ai/Books/Effective%20Java%20by%20Joshua%20Bloch/2.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Creating and Destroying Objects",
+      "text": "This part focuses on the best practices for creating and destroying objects in Java. Bloch discusses the use of constructors, static factory methods, and the importance of avoiding unnecessary object creation. He also covers the use of builders and singletons, as well as the proper way to handle finalizers and cleaners. By following the guidelines presented in this part, developers can improve the performance and maintainability of their code.",
+      "audioSrc": "https://www.reelearn.ai/Books/Effective%20Java%20by%20Joshua%20Bloch/2.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 3: Methods Common to All Objects",
-        "text": "In this part, Bloch explores the methods that are common to all objects in Java, such as equals, hashCode, and toString. He explains the importance of correctly implementing these methods and provides guidelines for doing so. Bloch also discusses the use of the Comparable interface for defining natural ordering of objects. By understanding and applying the concepts in this part, developers can ensure the correctness and consistency of their code when working with objects.",
-        "audioSrc": "https://www.reelearn.ai/Books/Effective%20Java%20by%20Joshua%20Bloch/3.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Methods Common to All Objects",
+      "text": "In this part, Bloch explores the methods that are common to all objects in Java, such as equals, hashCode, and toString. He explains the importance of correctly implementing these methods and provides guidelines for doing so. Bloch also discusses the use of the Comparable interface for defining natural ordering of objects. By understanding and applying the concepts in this part, developers can ensure the correctness and consistency of their code when working with objects.",
+      "audioSrc": "https://www.reelearn.ai/Books/Effective%20Java%20by%20Joshua%20Bloch/3.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 4: Classes and Interfaces",
-        "text": "This part delves into the best practices for designing classes and interfaces in Java. Bloch covers topics such as immutability, inheritance, and composition. He also discusses the use of interfaces and abstract classes, as well as the principles of effective method design. By following the guidelines presented in this part, developers can create robust and flexible class hierarchies that are easy to understand and maintain.",
-        "audioSrc": "https://www.reelearn.ai/Books/Effective%20Java%20by%20Joshua%20Bloch/4.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Classes and Interfaces",
+      "text": "This part delves into the best practices for designing classes and interfaces in Java. Bloch covers topics such as immutability, inheritance, and composition. He also discusses the use of interfaces and abstract classes, as well as the principles of effective method design. By following the guidelines presented in this part, developers can create robust and flexible class hierarchies that are easy to understand and maintain.",
+      "audioSrc": "https://www.reelearn.ai/Books/Effective%20Java%20by%20Joshua%20Bloch/4.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 5: Generics",
-        "text": "Generics are a powerful feature in Java that allow for type-safe programming. In this part, Bloch explains the benefits and limitations of generics and provides guidelines for using them effectively. He covers topics such as bounded wildcards, type inference, and the proper use of generic methods and classes. By mastering the concepts in this part, developers can write more flexible and reusable code that is less prone to errors.",
-        "audioSrc": "https://www.reelearn.ai/Books/Effective%20Java%20by%20Joshua%20Bloch/5.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Generics",
+      "text": "Generics are a powerful feature in Java that allow for type-safe programming. In this part, Bloch explains the benefits and limitations of generics and provides guidelines for using them effectively. He covers topics such as bounded wildcards, type inference, and the proper use of generic methods and classes. By mastering the concepts in this part, developers can write more flexible and reusable code that is less prone to errors.",
+      "audioSrc": "https://www.reelearn.ai/Books/Effective%20Java%20by%20Joshua%20Bloch/5.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 6: Enums and Annotations",
-        "text": "Enums and annotations are two important language features introduced in Java 5. In this final part, Bloch explores the best practices for using enums and annotations effectively. He discusses topics such as enum constants, instance fields, and methods. Bloch also covers the use of annotations for generating code, documenting code, and enforcing compile-time checks. By understanding the concepts in this part, developers can leverage the full power of enums and annotations in their Java projects.",
-        "audioSrc": "https://www.reelearn.ai/Books/Effective%20Java%20by%20Joshua%20Bloch/6.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Enums and Annotations",
+      "text": "Enums and annotations are two important language features introduced in Java 5. In this final part, Bloch explores the best practices for using enums and annotations effectively. He discusses topics such as enum constants, instance fields, and methods. Bloch also covers the use of annotations for generating code, documenting code, and enforcing compile-time checks. By understanding the concepts in this part, developers can leverage the full power of enums and annotations in their Java projects.",
+      "audioSrc": "https://www.reelearn.ai/Books/Effective%20Java%20by%20Joshua%20Bloch/6.mp3"
     }
   ],
   "user": {
     "name": "Joshua Bloch"
-  }
+  },
+  "name": "Effective Java",
+  "id": "OL35476951M"
 }

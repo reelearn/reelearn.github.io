@@ -2,75 +2,63 @@
   "pages": [
     {
       "type": "POSTER",
-      "content": {
-        "poster": "https://www.reelearn.ai/Books/Ideal%20World%20Prophet/icon.jpg",
-        "title": "Ideal World Prophet",
-        "titleColor": "#fff",
-        "bgColor": "#222024"
-      }
+      "poster": "https://www.reelearn.ai/Books/Ideal%20World%20Prophet%20by%20Fazlul%20Karim/icon.jpg",
+      "title": "Ideal World Prophet",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 1: Introduction",
-        "text": "In the book 'Ideal World Prophet' by Fazlul Karim, we are introduced to a visionary tale of a utopian society. The story takes place in a future where humanity has achieved a state of harmony and prosperity. The protagonist, a young man named Adam, embarks on a journey to discover the secrets of this ideal world. As he explores, he encounters various characters who guide him and reveal the principles that govern their society.",
-        "audioSrc": "https://www.reelearn.ai/Books/Ideal%20World%20Prophet%20by%20Fazlul%20Karim/1.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: Introduction",
+      "text": "In the book 'Ideal World Prophet' by Fazlul Karim, we are introduced to a visionary tale of a utopian society. The story takes place in a future where humanity has achieved a state of harmony and prosperity. The protagonist, a young man named Adam, embarks on a journey to discover the secrets of this ideal world. As he explores, he encounters various characters who guide him and reveal the principles that govern their society.",
+      "audioSrc": "https://www.reelearn.ai/Books/Ideal%20World%20Prophet%20by%20Fazlul%20Karim/1.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 2: The Foundation of the Ideal World",
-        "text": "In this part, Adam learns about the foundation of the ideal world. The society is built upon the principles of equality, justice, and sustainability. There is no discrimination based on race, gender, or social status. Everyone is treated with respect and has equal opportunities. The economy is based on a fair distribution of resources, and the environment is protected and preserved for future generations. Adam is inspired by these principles and begins to question the flaws of his own world.",
-        "audioSrc": "https://www.reelearn.ai/Books/Ideal%20World%20Prophet%20by%20Fazlul%20Karim/2.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: The Foundation of the Ideal World",
+      "text": "In this part, Adam learns about the foundation of the ideal world. The society is built upon the principles of equality, justice, and sustainability. There is no discrimination based on race, gender, or social status. Everyone is treated with respect and has equal opportunities. The economy is based on a fair distribution of resources, and the environment is protected and preserved for future generations. Adam is inspired by these principles and begins to question the flaws of his own world.",
+      "audioSrc": "https://www.reelearn.ai/Books/Ideal%20World%20Prophet%20by%20Fazlul%20Karim/2.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 3: Education and Enlightenment",
-        "text": "Education plays a crucial role in the ideal world. Adam discovers that education is not limited to academic knowledge but also focuses on character development and moral values. The purpose of education is to nurture individuals who are not only intellectually capable but also compassionate and responsible. Adam witnesses the impact of this holistic education on the people of the ideal world, and he realizes the importance of a well-rounded education in shaping a better society.",
-        "audioSrc": "https://www.reelearn.ai/Books/Ideal%20World%20Prophet%20by%20Fazlul%20Karim/3.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Education and Enlightenment",
+      "text": "Education plays a crucial role in the ideal world. Adam discovers that education is not limited to academic knowledge but also focuses on character development and moral values. The purpose of education is to nurture individuals who are not only intellectually capable but also compassionate and responsible. Adam witnesses the impact of this holistic education on the people of the ideal world, and he realizes the importance of a well-rounded education in shaping a better society.",
+      "audioSrc": "https://www.reelearn.ai/Books/Ideal%20World%20Prophet%20by%20Fazlul%20Karim/3.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 4: Governance and Decision-Making",
-        "text": "In this part, Adam delves into the governance system of the ideal world. He learns that the society is governed through a participatory democracy, where every citizen has a voice in decision-making. The leaders are chosen based on their merit and ability to serve the community. Transparency and accountability are key principles in the governance system, ensuring that the interests of the people are always prioritized. Adam is amazed by the efficiency and fairness of this system and wonders how it can be implemented in his own world.",
-        "audioSrc": "https://www.reelearn.ai/Books/Ideal%20World%20Prophet%20by%20Fazlul%20Karim/4.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Governance and Decision-Making",
+      "text": "In this part, Adam delves into the governance system of the ideal world. He learns that the society is governed through a participatory democracy, where every citizen has a voice in decision-making. The leaders are chosen based on their merit and ability to serve the community. Transparency and accountability are key principles in the governance system, ensuring that the interests of the people are always prioritized. Adam is amazed by the efficiency and fairness of this system and wonders how it can be implemented in his own world.",
+      "audioSrc": "https://www.reelearn.ai/Books/Ideal%20World%20Prophet%20by%20Fazlul%20Karim/4.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 5: Social Harmony and Cooperation",
-        "text": "Social harmony and cooperation are fundamental pillars of the ideal world. Adam discovers that people in this society value collaboration over competition. They work together to solve problems and support each other in times of need. There is a strong sense of community and empathy, which fosters a peaceful and harmonious environment. Adam realizes the importance of unity and cooperation in building a better society and wonders how he can contribute to creating such a world.",
-        "audioSrc": "https://www.reelearn.ai/Books/Ideal%20World%20Prophet%20by%20Fazlul%20Karim/5.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Social Harmony and Cooperation",
+      "text": "Social harmony and cooperation are fundamental pillars of the ideal world. Adam discovers that people in this society value collaboration over competition. They work together to solve problems and support each other in times of need. There is a strong sense of community and empathy, which fosters a peaceful and harmonious environment. Adam realizes the importance of unity and cooperation in building a better society and wonders how he can contribute to creating such a world.",
+      "audioSrc": "https://www.reelearn.ai/Books/Ideal%20World%20Prophet%20by%20Fazlul%20Karim/5.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 6: The Call to Action",
-        "text": "In the final part of the book, Adam is called to action. He realizes that the ideal world he has discovered is not just a fantasy but a vision that can be realized. Inspired by the principles and values he has learned, Adam decides to share his experiences with others and work towards creating a better world. The book ends with a message of hope and the belief that by embracing the ideals of the ideal world, we can make a positive change in our own lives and society.",
-        "audioSrc": "https://www.reelearn.ai/Books/Ideal%20World%20Prophet%20by%20Fazlul%20Karim/6.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: The Call to Action",
+      "text": "In the final part of the book, Adam is called to action. He realizes that the ideal world he has discovered is not just a fantasy but a vision that can be realized. Inspired by the principles and values he has learned, Adam decides to share his experiences with others and work towards creating a better world. The book ends with a message of hope and the belief that by embracing the ideals of the ideal world, we can make a positive change in our own lives and society.",
+      "audioSrc": "https://www.reelearn.ai/Books/Ideal%20World%20Prophet%20by%20Fazlul%20Karim/6.mp3"
     }
   ],
   "user": {
     "name": "Fazlul Karim"
-  }
+  },
+  "name": "Ideal World Prophet",
+  "id": "OL2544M"
 }

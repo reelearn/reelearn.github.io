@@ -1,0 +1,64 @@
+{
+  "name": "Lean In",
+  "id": "OL28513923M",
+  "pages": [
+    {
+      "type": "POSTER",
+      "poster": "https://www.reelearn.ai/Books/Lean%20In%20by%20Sheryl%20Sandberg/icon.jpg",
+      "title": "Lean In",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: Introduction - The Leadership Ambition Gap",
+      "text": "In the introduction of 'Lean In,' Sheryl Sandberg addresses the issue of the leadership ambition gap that exists between men and women. She shares her personal experiences and highlights the societal factors that contribute to this gap. Sandberg emphasizes the importance of women leaning in and pursuing their ambitions, both in their careers and personal lives. She encourages women to challenge the stereotypes and biases that hold them back, and to strive for leadership positions with confidence and determination. Sandberg sets the stage for the book by highlighting the need for women to take charge of their own destinies and create a more equal world.",
+      "audioSrc": "https://www.reelearn.ai/Books/Lean%20In%20by%20Sheryl%20Sandberg/1.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Sit at the Table",
+      "text": "In this part, Sandberg discusses the importance of women sitting at the table and actively participating in decision-making processes. She encourages women to overcome their self-doubt and imposter syndrome, and to believe in their own abilities. Sandberg provides practical advice on how women can assert themselves in meetings and negotiations, and shares anecdotes from her own career to illustrate her points. She emphasizes the importance of taking risks, seeking challenges, and seizing opportunities. Sandberg empowers women to claim their seat at the table and make their voices heard.",
+      "audioSrc": "https://www.reelearn.ai/Books/Lean%20In%20by%20Sheryl%20Sandberg/2.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Success and Likeability",
+      "text": "Sandberg delves into the issue of likeability and how it affects women's success in this part. She highlights the double standards that exist for men and women when it comes to being assertive and ambitious. Sandberg encourages women to prioritize their own goals and aspirations, rather than worrying about being liked by everyone. She emphasizes the importance of being authentic and true to oneself, even if it means going against societal expectations. Sandberg challenges women to redefine success on their own terms and to break free from the constraints of likeability.",
+      "audioSrc": "https://www.reelearn.ai/Books/Lean%20In%20by%20Sheryl%20Sandberg/3.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: It's a Jungle Gym, Not a Ladder",
+      "text": "In this part, Sandberg introduces the concept of the jungle gym as a metaphor for career growth. She encourages women to embrace nonlinear career paths and to be open to new opportunities and experiences. Sandberg shares her own career trajectory, which involved various shifts and detours, to illustrate the benefits of a flexible mindset. She encourages women to take risks, seek mentors, and build diverse networks. Sandberg empowers women to navigate their careers with agility and embrace the unexpected twists and turns along the way.",
+      "audioSrc": "https://www.reelearn.ai/Books/Lean%20In%20by%20Sheryl%20Sandberg/4.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Are You My Mentor?",
+      "text": "Sandberg addresses the topic of mentorship in this part, highlighting its importance in career development. She emphasizes the need for women to actively seek out mentors and sponsors who can provide guidance, support, and opportunities. Sandberg provides practical advice on how to approach potential mentors and build meaningful relationships. She also emphasizes the importance of being a mentor to others and paying it forward. Sandberg encourages women to create a culture of mentorship and support, both within their organizations and in their personal lives.",
+      "audioSrc": "https://www.reelearn.ai/Books/Lean%20In%20by%20Sheryl%20Sandberg/5.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Let's Start Talking About It",
+      "text": "In the final part of 'Lean In,' Sandberg calls for a more open and honest conversation about gender equality. She highlights the importance of men's involvement in the fight for gender equality and encourages them to become allies. Sandberg shares personal stories and research findings to shed light on the challenges women face in the workplace and society. She calls for policy changes, cultural shifts, and individual actions to create a more equal and inclusive world. Sandberg empowers women to speak up, share their stories, and work together towards a more equitable future.",
+      "audioSrc": "https://www.reelearn.ai/Books/Lean%20In%20by%20Sheryl%20Sandberg/6.mp3"
+    }
+  ],
+  "user": {
+    "name": "Sheryl Sandberg"
+  }
+}

@@ -2,75 +2,63 @@
   "pages": [
     {
       "type": "POSTER",
-      "content": {
-        "poster": "https://www.reelearn.ai/Books/Business%20Reports%20for%20Busy%20People/icon.jpg",
-        "title": "Business Reports for Busy People",
-        "titleColor": "#fff",
-        "bgColor": "#222024"
-      }
+      "poster": "https://www.reelearn.ai/Books/Business%20Reports%20for%20Busy%20People%20by%20Greg%20Holden/icon.jpg",
+      "title": "Business Reports for Busy People",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 1: Understanding Business Reports",
-        "text": "In the first part of 'Business Reports for Busy People', author Greg Holden introduces the importance of business reports and how they can provide valuable insights for decision-making. He explains that business reports are documents that summarize information and data related to a specific business topic or issue. These reports help managers and executives understand the current state of their business and make informed decisions. Holden emphasizes that clear and concise communication is crucial when creating business reports, as they need to be easily understandable by busy professionals.",
-        "audioSrc": "https://www.reelearn.ai/Books/Business%20Reports%20for%20Busy%20People%20by%20Greg%20Holden/1.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: Understanding Business Reports",
+      "text": "In the first part of 'Business Reports for Busy People', author Greg Holden introduces the importance of business reports and how they can provide valuable insights for decision-making. He explains that business reports are documents that summarize information and data related to a specific business topic or issue. These reports help managers and executives understand the current state of their business and make informed decisions. Holden emphasizes that clear and concise communication is crucial when creating business reports, as they need to be easily understandable by busy professionals.",
+      "audioSrc": "https://www.reelearn.ai/Books/Business%20Reports%20for%20Busy%20People%20by%20Greg%20Holden/1.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 2: Types of Business Reports",
-        "text": "Part two of the book delves into the different types of business reports that exist. Holden explains that there are various types of reports, including operational reports, financial reports, and analytical reports. Operational reports focus on day-to-day activities and provide updates on performance and progress. Financial reports, on the other hand, provide information on the financial health of a business, including balance sheets and income statements. Analytical reports analyze data and provide insights and recommendations for improving business performance. Understanding the different types of reports is essential for creating the right report for the right purpose.",
-        "audioSrc": "https://www.reelearn.ai/Books/Business%20Reports%20for%20Busy%20People%20by%20Greg%20Holden/2.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Types of Business Reports",
+      "text": "Part two of the book delves into the different types of business reports that exist. Holden explains that there are various types of reports, including operational reports, financial reports, and analytical reports. Operational reports focus on day-to-day activities and provide updates on performance and progress. Financial reports, on the other hand, provide information on the financial health of a business, including balance sheets and income statements. Analytical reports analyze data and provide insights and recommendations for improving business performance. Understanding the different types of reports is essential for creating the right report for the right purpose.",
+      "audioSrc": "https://www.reelearn.ai/Books/Business%20Reports%20for%20Busy%20People%20by%20Greg%20Holden/2.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 3: Structuring a Business Report",
-        "text": "In this section, Holden discusses the structure of a business report. He explains that a typical report consists of an introduction, body, and conclusion. The introduction provides background information and sets the context for the report. The body contains the main findings, analysis, and supporting evidence. The conclusion summarizes the key points and recommendations. Holden emphasizes the importance of using headings, subheadings, and bullet points to make the report more reader-friendly. He also provides tips on organizing information effectively and using visual aids to enhance understanding.",
-        "audioSrc": "https://www.reelearn.ai/Books/Business%20Reports%20for%20Busy%20People%20by%20Greg%20Holden/3.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Structuring a Business Report",
+      "text": "In this section, Holden discusses the structure of a business report. He explains that a typical report consists of an introduction, body, and conclusion. The introduction provides background information and sets the context for the report. The body contains the main findings, analysis, and supporting evidence. The conclusion summarizes the key points and recommendations. Holden emphasizes the importance of using headings, subheadings, and bullet points to make the report more reader-friendly. He also provides tips on organizing information effectively and using visual aids to enhance understanding.",
+      "audioSrc": "https://www.reelearn.ai/Books/Business%20Reports%20for%20Busy%20People%20by%20Greg%20Holden/3.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 4: Writing Style and Tone",
-        "text": "Part four focuses on the importance of writing style and tone in business reports. Holden highlights the need for using clear and concise language to convey information effectively. He advises against using jargon or technical terms that may confuse the reader. Instead, the writing should be straightforward and to the point. Holden also emphasizes the importance of maintaining a professional tone throughout the report. He provides examples of both good and bad writing styles to illustrate the dos and don'ts of report writing.",
-        "audioSrc": "https://www.reelearn.ai/Books/Business%20Reports%20for%20Busy%20People%20by%20Greg%20Holden/4.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Writing Style and Tone",
+      "text": "Part four focuses on the importance of writing style and tone in business reports. Holden highlights the need for using clear and concise language to convey information effectively. He advises against using jargon or technical terms that may confuse the reader. Instead, the writing should be straightforward and to the point. Holden also emphasizes the importance of maintaining a professional tone throughout the report. He provides examples of both good and bad writing styles to illustrate the dos and don'ts of report writing.",
+      "audioSrc": "https://www.reelearn.ai/Books/Business%20Reports%20for%20Busy%20People%20by%20Greg%20Holden/4.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 5: Presenting Data and Visuals",
-        "text": "In this part, Holden explores the best practices for presenting data and visuals in business reports. He explains that visuals such as charts, graphs, and tables can help readers understand complex information more easily. Holden provides tips on choosing the right type of visual representation for different types of data and how to effectively label and title them. He also discusses the importance of data accuracy and integrity when presenting information. Holden emphasizes the need to clearly explain the significance of the data and how it relates to the report's objectives.",
-        "audioSrc": "https://www.reelearn.ai/Books/Business%20Reports%20for%20Busy%20People%20by%20Greg%20Holden/5.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Presenting Data and Visuals",
+      "text": "In this part, Holden explores the best practices for presenting data and visuals in business reports. He explains that visuals such as charts, graphs, and tables can help readers understand complex information more easily. Holden provides tips on choosing the right type of visual representation for different types of data and how to effectively label and title them. He also discusses the importance of data accuracy and integrity when presenting information. Holden emphasizes the need to clearly explain the significance of the data and how it relates to the report's objectives.",
+      "audioSrc": "https://www.reelearn.ai/Books/Business%20Reports%20for%20Busy%20People%20by%20Greg%20Holden/5.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 6: Reviewing and Editing",
-        "text": "The final part of the book focuses on reviewing and editing business reports. Holden emphasizes the importance of proofreading and checking for errors in grammar, spelling, and punctuation. He advises readers to take a break before reviewing their reports to gain a fresh perspective. Holden also provides tips on seeking feedback from colleagues or supervisors to improve the quality of the report. He concludes by reminding readers that reviewing and editing is an ongoing process that should not be overlooked, as it can greatly impact the overall effectiveness of the report.",
-        "audioSrc": "https://www.reelearn.ai/Books/Business%20Reports%20for%20Busy%20People%20by%20Greg%20Holden/6.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Reviewing and Editing",
+      "text": "The final part of the book focuses on reviewing and editing business reports. Holden emphasizes the importance of proofreading and checking for errors in grammar, spelling, and punctuation. He advises readers to take a break before reviewing their reports to gain a fresh perspective. Holden also provides tips on seeking feedback from colleagues or supervisors to improve the quality of the report. He concludes by reminding readers that reviewing and editing is an ongoing process that should not be overlooked, as it can greatly impact the overall effectiveness of the report.",
+      "audioSrc": "https://www.reelearn.ai/Books/Business%20Reports%20for%20Busy%20People%20by%20Greg%20Holden/6.mp3"
     }
   ],
   "user": {
     "name": "Greg Holden"
-  }
+  },
+  "name": "Business Reports for Busy People",
+  "id": "OL24524875M"
 }

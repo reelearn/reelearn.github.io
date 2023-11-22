@@ -2,75 +2,63 @@
   "pages": [
     {
       "type": "POSTER",
-      "content": {
-        "poster": "https://www.reelearn.ai/Books/The%20Catcher%20in%20the%20Rye/icon.jpg",
-        "title": "The Catcher in the Rye",
-        "titleColor": "#fff",
-        "bgColor": "#222024"
-      }
+      "poster": "https://www.reelearn.ai/Books/The%20Catcher%20in%20the%20Rye%20by%20J.D.%20Salinger/icon.jpg",
+      "title": "The Catcher in the Rye",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 1: Holden Caulfield's Disillusionment",
-        "text": "The story begins with Holden Caulfield, a 16-year-old boy who has been expelled from his prep school. Feeling alienated and disillusioned with the adult world, Holden decides to leave school early and spend a few days in New York City before returning home. Throughout his journey, Holden encounters various people and situations that further deepen his sense of disillusionment. He struggles with the phoniness and hypocrisy he sees in the adult world, longing for a genuine connection with others.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Catcher%20in%20the%20Rye%20by%20J.D.%20Salinger/1.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: Holden Caulfield's Disillusionment",
+      "text": "The story begins with Holden Caulfield, a 16-year-old boy who has been expelled from his prep school. Feeling alienated and disillusioned with the adult world, Holden decides to leave school early and spend a few days in New York City before returning home. Throughout his journey, Holden encounters various people and situations that further deepen his sense of disillusionment. He struggles with the phoniness and hypocrisy he sees in the adult world, longing for a genuine connection with others.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Catcher%20in%20the%20Rye%20by%20J.D.%20Salinger/1.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 2: Holden's Quest for Innocence",
-        "text": "Holden's quest for innocence is a recurring theme in the book. He is obsessed with protecting the innocence of children, symbolized by his desire to be a 'catcher in the rye' who saves children from falling off a cliff into the corrupt adult world. Holden's encounters with his younger sister Phoebe and a former classmate, Jane Gallagher, highlight his desire to preserve their innocence and shield them from the harsh realities of life.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Catcher%20in%20the%20Rye%20by%20J.D.%20Salinger/2.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Holden's Quest for Innocence",
+      "text": "Holden's quest for innocence is a recurring theme in the book. He is obsessed with protecting the innocence of children, symbolized by his desire to be a 'catcher in the rye' who saves children from falling off a cliff into the corrupt adult world. Holden's encounters with his younger sister Phoebe and a former classmate, Jane Gallagher, highlight his desire to preserve their innocence and shield them from the harsh realities of life.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Catcher%20in%20the%20Rye%20by%20J.D.%20Salinger/2.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 3: Holden's Loneliness and Isolation",
-        "text": "Throughout the story, Holden experiences profound feelings of loneliness and isolation. He struggles to connect with others and often feels misunderstood. His attempts to reach out to people are often met with disappointment or rejection, further fueling his sense of alienation. Holden's loneliness is a reflection of his deep dissatisfaction with the world around him and his inability to find genuine connection and understanding.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Catcher%20in%20the%20Rye%20by%20J.D.%20Salinger/3.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Holden's Loneliness and Isolation",
+      "text": "Throughout the story, Holden experiences profound feelings of loneliness and isolation. He struggles to connect with others and often feels misunderstood. His attempts to reach out to people are often met with disappointment or rejection, further fueling his sense of alienation. Holden's loneliness is a reflection of his deep dissatisfaction with the world around him and his inability to find genuine connection and understanding.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Catcher%20in%20the%20Rye%20by%20J.D.%20Salinger/3.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 4: Holden's Inner Turmoil and Identity Crisis",
-        "text": "Holden grapples with an inner turmoil and identity crisis throughout the book. He is torn between his desire to rebel against societal expectations and his longing for acceptance and belonging. Holden's conflicting emotions and thoughts lead to erratic behavior and a constant search for meaning and purpose in his life. His struggle to find his place in the world is a central theme that drives the narrative.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Catcher%20in%20the%20Rye%20by%20J.D.%20Salinger/4.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Holden's Inner Turmoil and Identity Crisis",
+      "text": "Holden grapples with an inner turmoil and identity crisis throughout the book. He is torn between his desire to rebel against societal expectations and his longing for acceptance and belonging. Holden's conflicting emotions and thoughts lead to erratic behavior and a constant search for meaning and purpose in his life. His struggle to find his place in the world is a central theme that drives the narrative.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Catcher%20in%20the%20Rye%20by%20J.D.%20Salinger/4.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 5: The Symbolism of the Red Hunting Hat",
-        "text": "Holden's red hunting hat is a recurring symbol in the story. It represents his uniqueness and individuality, providing him with a sense of comfort and protection. The hat serves as a barrier between Holden and the outside world, shielding him from judgment and allowing him to retreat into his own thoughts. The symbolism of the red hunting hat reflects Holden's desire to maintain his authenticity in a world that he perceives as phony.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Catcher%20in%20the%20Rye%20by%20J.D.%20Salinger/5.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: The Symbolism of the Red Hunting Hat",
+      "text": "Holden's red hunting hat is a recurring symbol in the story. It represents his uniqueness and individuality, providing him with a sense of comfort and protection. The hat serves as a barrier between Holden and the outside world, shielding him from judgment and allowing him to retreat into his own thoughts. The symbolism of the red hunting hat reflects Holden's desire to maintain his authenticity in a world that he perceives as phony.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Catcher%20in%20the%20Rye%20by%20J.D.%20Salinger/5.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 6: The Ambiguous Ending and Holden's Growth",
-        "text": "The book concludes with an ambiguous ending, leaving the reader to interpret Holden's future. Despite his struggles and disillusionment, there are hints of growth and maturity in Holden's character. He begins to realize the importance of connection and acknowledges his need for human interaction. The open-ended nature of the ending invites readers to reflect on Holden's journey and consider the potential for personal growth and change.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Catcher%20in%20the%20Rye%20by%20J.D.%20Salinger/6.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: The Ambiguous Ending and Holden's Growth",
+      "text": "The book concludes with an ambiguous ending, leaving the reader to interpret Holden's future. Despite his struggles and disillusionment, there are hints of growth and maturity in Holden's character. He begins to realize the importance of connection and acknowledges his need for human interaction. The open-ended nature of the ending invites readers to reflect on Holden's journey and consider the potential for personal growth and change.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Catcher%20in%20the%20Rye%20by%20J.D.%20Salinger/6.mp3"
     }
   ],
   "user": {
     "name": "J.D. Salinger"
-  }
+  },
+  "name": "The Catcher in the Rye",
+  "id": "OL47773871M"
 }

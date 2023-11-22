@@ -1,0 +1,64 @@
+{
+  "name": "You Are a Badass",
+  "id": "OL29759141M",
+  "pages": [
+    {
+      "type": "POSTER",
+      "poster": "https://www.reelearn.ai/Books/You%20Are%20a%20Badass%20by%20Jen%20Sincero/icon.jpg",
+      "title": "You Are a Badass",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: Embracing Your Inner Badass",
+      "text": "In the first part of 'You Are a Badass', Jen Sincero introduces the concept of embracing your inner badass. She emphasizes the importance of recognizing and owning your personal power. Sincero encourages readers to let go of self-doubt and limiting beliefs that hold them back from achieving their goals. She provides practical tips on how to overcome fear and develop a positive mindset. Sincero also emphasizes the significance of taking responsibility for your life and making the necessary changes to create the life you desire.",
+      "audioSrc": "https://www.reelearn.ai/Books/You%20Are%20a%20Badass%20by%20Jen%20Sincero/1.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Mastering Your Mind",
+      "text": "In the second part of the book, Sincero dives deeper into the power of the mind. She highlights the importance of self-awareness and understanding the thoughts and beliefs that shape our reality. Sincero provides strategies for reprogramming negative thought patterns and cultivating a positive mindset. She emphasizes the power of affirmations and visualizations in manifesting our desires. Sincero also discusses the role of gratitude and how it can transform our lives. She encourages readers to practice mindfulness and focus on the present moment.",
+      "audioSrc": "https://www.reelearn.ai/Books/You%20Are%20a%20Badass%20by%20Jen%20Sincero/2.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: The G-Word",
+      "text": "In the third part of 'You Are a Badass', Sincero explores the concept of the 'G-Word' - God, the Universe, or whatever higher power you believe in. She emphasizes the importance of surrendering to a higher power and trusting in the divine guidance. Sincero encourages readers to let go of control and have faith in the process. She shares personal stories and anecdotes to illustrate the power of surrender and how it can lead to miraculous outcomes. Sincero also discusses the role of intuition and how to tap into it to make aligned decisions.",
+      "audioSrc": "https://www.reelearn.ai/Books/You%20Are%20a%20Badass%20by%20Jen%20Sincero/3.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: How to Get Over Your B.S. Already",
+      "text": "In the fourth part of the book, Sincero addresses the common barriers that prevent people from living their best lives. She explores the concept of 'B.S.' - belief systems that limit our potential. Sincero provides practical strategies for identifying and overcoming these limiting beliefs. She encourages readers to challenge their negative self-talk and replace it with empowering beliefs. Sincero also emphasizes the importance of taking action and stepping out of our comfort zones to create meaningful change.",
+      "audioSrc": "https://www.reelearn.ai/Books/You%20Are%20a%20Badass%20by%20Jen%20Sincero/4.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: How to Kick Some Ass",
+      "text": "In the fifth part of 'You Are a Badass', Sincero dives into the practical steps for taking control of your life and achieving your goals. She provides guidance on setting clear intentions, creating action plans, and staying committed to your goals. Sincero emphasizes the importance of persistence, resilience, and embracing failure as a stepping stone to success. She also discusses the role of gratitude and celebration in maintaining a positive mindset. Sincero shares personal stories and examples to inspire readers to take massive action and create the life they desire.",
+      "audioSrc": "https://www.reelearn.ai/Books/You%20Are%20a%20Badass%20by%20Jen%20Sincero/5.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Love the One You Is",
+      "text": "In the final part of the book, Sincero focuses on self-love and acceptance. She emphasizes the importance of embracing your authentic self and letting go of comparison and judgment. Sincero provides practical strategies for cultivating self-love, such as practicing self-care, setting boundaries, and surrounding yourself with supportive people. She also explores the concept of forgiveness and how it can free us from past hurts. Sincero encourages readers to love themselves unconditionally and embrace their unique qualities and talents.",
+      "audioSrc": "https://www.reelearn.ai/Books/You%20Are%20a%20Badass%20by%20Jen%20Sincero/6.mp3"
+    }
+  ],
+  "user": {
+    "name": "Jen Sincero"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "12 Rules for Life",
+  "id": "OL27371038M",
+  "pages": [
+    {
+      "type": "POSTER",
+      "poster": "https://www.reelearn.ai/Books/12%20Rules%20for%20Life%20by%20Jordan%20B.%20Peterson/icon.jpg",
+      "title": "12 Rules for Life",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: Introduction",
+      "text": "In the introduction of '12 Rules for Life', Jordan B. Peterson sets the stage for the book by discussing the importance of finding meaning and purpose in life. He emphasizes the chaos and suffering that exist in the world and suggests that individuals can overcome these challenges by adopting a responsible and disciplined approach to life. Peterson introduces the concept of 'order' and argues that it is essential for personal growth and societal harmony. He also highlights the significance of mythology and its role in shaping human behavior and beliefs.",
+      "audioSrc": "https://www.reelearn.ai/Books/12%20Rules%20for%20Life%20by%20Jordan%20B.%20Peterson/1.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Rule 1: Stand up straight with your shoulders back",
+      "text": "The first rule outlined by Peterson is to 'stand up straight with your shoulders back'. He explains that this rule is not just about physical posture, but also about adopting a confident and assertive attitude towards life. Peterson argues that by displaying dominance and confidence, individuals can navigate the social hierarchies more effectively and improve their self-esteem. He delves into the evolutionary biology behind dominance hierarchies and explains how they are deeply ingrained in human and animal behavior. By following this rule, Peterson suggests that individuals can improve their mental and physical well-being.",
+      "audioSrc": "https://www.reelearn.ai/Books/12%20Rules%20for%20Life%20by%20Jordan%20B.%20Peterson/2.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Rule 2: Treat yourself like someone you are responsible for helping",
+      "text": "Rule 2 focuses on the importance of self-care and self-compassion. Peterson argues that individuals often neglect their own well-being and prioritize the needs of others. He suggests that by treating oneself with the same care and compassion as they would treat a loved one, individuals can improve their overall quality of life. Peterson explores the concept of 'self-deception' and how it can hinder personal growth. He emphasizes the need for individuals to take responsibility for their own lives and make choices that align with their long-term well-being.",
+      "audioSrc": "https://www.reelearn.ai/Books/12%20Rules%20for%20Life%20by%20Jordan%20B.%20Peterson/3.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Rule 3: Make friends with people who want the best for you",
+      "text": "In Rule 3, Peterson emphasizes the importance of surrounding oneself with positive and supportive people. He argues that the company we keep greatly influences our behavior and mindset. Peterson encourages individuals to seek out relationships with people who genuinely care about their well-being and want to see them succeed. He warns against toxic relationships that can drain one's energy and hinder personal growth. By choosing friends who have a positive influence, Peterson suggests that individuals can create a supportive network that helps them navigate the challenges of life.",
+      "audioSrc": "https://www.reelearn.ai/Books/12%20Rules%20for%20Life%20by%20Jordan%20B.%20Peterson/4.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Rule 4: Compare yourself to who you were yesterday, not to who someone else is today",
+      "text": "Rule 4 focuses on the dangers of constant comparison to others. Peterson argues that comparing oneself to others often leads to feelings of inadequacy and unhappiness. Instead, he suggests that individuals should focus on their own personal growth and strive to become a better version of themselves each day. Peterson explores the concept of 'hierarchy of values' and how individuals can define their own measures of success. By embracing personal progress rather than comparing oneself to others, Peterson believes individuals can find greater fulfillment and meaning in life.",
+      "audioSrc": "https://www.reelearn.ai/Books/12%20Rules%20for%20Life%20by%20Jordan%20B.%20Peterson/5.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Rule 5: Do not let your children do anything that makes you dislike them",
+      "text": "The fifth rule outlined by Peterson is directed towards parents. He argues that it is crucial for parents to set appropriate boundaries and discipline their children effectively. Peterson suggests that permissive parenting can lead to negative consequences, both for the child and the parent-child relationship. He encourages parents to teach their children responsibility and respect for others. By instilling discipline and guidance, Peterson believes parents can raise well-adjusted individuals who contribute positively to society.",
+      "audioSrc": "https://www.reelearn.ai/Books/12%20Rules%20for%20Life%20by%20Jordan%20B.%20Peterson/6.mp3"
+    }
+  ],
+  "user": {
+    "name": "Jordan B. Peterson"
+  }
+}

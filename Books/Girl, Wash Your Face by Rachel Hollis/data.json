@@ -1,0 +1,64 @@
+{
+  "name": "Girl, Wash Your Face",
+  "id": "OL27335784M",
+  "pages": [
+    {
+      "type": "POSTER",
+      "poster": "https://www.reelearn.ai/Books/Girl,%20Wash%20Your%20Face%20by%20Rachel%20Hollis/icon.jpg",
+      "title": "Girl, Wash Your Face",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: The Lies We Tell Ourselves",
+      "text": "In the first part of Girl, Wash Your Face, Rachel Hollis addresses the lies we tell ourselves. She shares her personal experiences and challenges the common misconceptions that hold us back. She emphasizes the importance of taking ownership of our lives and not letting these lies define us. Hollis encourages readers to identify the lies they believe and replace them with empowering truths.",
+      "audioSrc": "https://www.reelearn.ai/Books/Girl,%20Wash%20Your%20Face%20by%20Rachel%20Hollis/1.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Embracing Your Imperfections",
+      "text": "In the second part, Hollis discusses the importance of embracing our imperfections. She shares her own struggles with body image and self-worth, and offers practical advice on how to overcome these insecurities. Hollis reminds readers that they are worthy of love and acceptance, regardless of their flaws. She encourages self-love and self-care, emphasizing the importance of prioritizing our own well-being.",
+      "audioSrc": "https://www.reelearn.ai/Books/Girl,%20Wash%20Your%20Face%20by%20Rachel%20Hollis/2.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Letting Go of Other People's Expectations",
+      "text": "In this part, Hollis explores the impact of other people's expectations on our lives. She encourages readers to let go of the need for external validation and to focus on their own dreams and goals. Hollis shares personal stories of societal pressure and offers strategies for setting boundaries and living authentically. She reminds readers that their worth is not determined by other people's opinions.",
+      "audioSrc": "https://www.reelearn.ai/Books/Girl,%20Wash%20Your%20Face%20by%20Rachel%20Hollis/3.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Cultivating Healthy Relationships",
+      "text": "The fourth part of the book focuses on cultivating healthy relationships. Hollis discusses the importance of surrounding ourselves with supportive and uplifting people. She emphasizes the need to set boundaries and prioritize our own well-being in relationships. Hollis also explores the impact of toxic relationships and provides guidance on how to navigate them or let go when necessary.",
+      "audioSrc": "https://www.reelearn.ai/Books/Girl,%20Wash%20Your%20Face%20by%20Rachel%20Hollis/4.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Embracing the Chaos",
+      "text": "In this part, Hollis addresses the chaos and unpredictability of life. She shares personal stories of facing challenges and offers strategies for finding strength and resilience. Hollis encourages readers to embrace the chaos and see it as an opportunity for growth. She reminds us that we have the power to overcome any obstacle and create a life of purpose and fulfillment.",
+      "audioSrc": "https://www.reelearn.ai/Books/Girl,%20Wash%20Your%20Face%20by%20Rachel%20Hollis/5.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Living with Passion and Purpose",
+      "text": "The final part of the book focuses on living with passion and purpose. Hollis encourages readers to identify their passions and pursue them wholeheartedly. She shares her own journey of finding her purpose and offers practical advice on how to align our actions with our values. Hollis reminds readers that they have the power to create a life they love and deserve.",
+      "audioSrc": "https://www.reelearn.ai/Books/Girl,%20Wash%20Your%20Face%20by%20Rachel%20Hollis/6.mp3"
+    }
+  ],
+  "user": {
+    "name": "Rachel Hollis"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Grandma's Bag of Stories",
+  "id": "OL34758427M",
+  "pages": [
+    {
+      "type": "POSTER",
+      "poster": "https://www.reelearn.ai/Books/Grandma's%20Bag%20of%20Stories%20by%20Sudha%20Murthy/icon.jpg",
+      "title": "Grandma's Bag of Stories",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: The Magical Bag",
+      "text": "Grandma's Bag of Stories is a heartwarming collection of tales written by Sudha Murthy. The book begins with the introduction of a lively and imaginative grandmother who possesses a magical bag. This bag is filled with stories that have the power to transport the listeners to different worlds and teach them valuable life lessons. The bag becomes the centerpiece of the book, as the children eagerly gather around their grandmother to hear the enchanting stories.",
+      "audioSrc": "https://www.reelearn.ai/Books/Grandma's%20Bag%20of%20Stories%20by%20Sudha%20Murthy/1.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: The Adventures Begin",
+      "text": "In this part, the children, Meena, Mohan, Ravi, and Mridula, visit their grandmother during their summer vacation. Excitedly, they ask their grandmother to tell them a story from her magical bag. She agrees and starts weaving a tale about a mischievous monkey named Kapi. The children are captivated by the story and eagerly await the next one. As the days pass, they are introduced to various characters and settings, each story leaving them with valuable lessons and a thirst for more.",
+      "audioSrc": "https://www.reelearn.ai/Books/Grandma's%20Bag%20of%20Stories%20by%20Sudha%20Murthy/2.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: The Power of Imagination",
+      "text": "As the children continue to spend time with their grandmother, they realize the power of imagination. Through the stories, they are transported to different places and eras, experiencing the adventures alongside the characters. They learn about the importance of kindness, honesty, and bravery. The stories also teach them about different cultures and traditions, expanding their horizons and nurturing their creativity.",
+      "audioSrc": "https://www.reelearn.ai/Books/Grandma's%20Bag%20of%20Stories%20by%20Sudha%20Murthy/3.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Lessons for Life",
+      "text": "In this part, the stories in Grandma's magical bag teach the children important life lessons. They learn about the value of hard work and perseverance through the story of a poor cobbler who becomes successful through his dedication. They also understand the significance of friendship and compassion through tales of animals and humans helping each other. Each story leaves a lasting impact on the children, shaping their values and attitudes.",
+      "audioSrc": "https://www.reelearn.ai/Books/Grandma's%20Bag%20of%20Stories%20by%20Sudha%20Murthy/4.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: The Bond between Generations",
+      "text": "As the children spend more time with their grandmother, a strong bond forms between the generations. The stories become a medium through which the children connect with their grandmother and learn about their family history. The grandmother's wisdom and love shine through each story, making the children cherish their time together even more.",
+      "audioSrc": "https://www.reelearn.ai/Books/Grandma's%20Bag%20of%20Stories%20by%20Sudha%20Murthy/5.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: The Legacy of Grandma's Bag",
+      "text": "In the final part of the book, the children return home, carrying the memories and lessons from their time with their grandmother. They realize the importance of storytelling and decide to continue the tradition in their own lives. They understand that the stories from Grandma's magical bag have not only entertained them but also shaped their values and perspectives. The legacy of the bag lives on as the children share the stories with their friends and future generations, passing on the wisdom and joy they received.",
+      "audioSrc": "https://www.reelearn.ai/Books/Grandma's%20Bag%20of%20Stories%20by%20Sudha%20Murthy/6.mp3"
+    }
+  ],
+  "user": {
+    "name": "Sudha Murthy"
+  }
+}

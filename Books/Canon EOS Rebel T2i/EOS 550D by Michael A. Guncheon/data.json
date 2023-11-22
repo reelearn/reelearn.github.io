@@ -2,75 +2,63 @@
   "pages": [
     {
       "type": "POSTER",
-      "content": {
-        "poster": "https://www.reelearn.ai/Books/Canon%20EOS%20Rebel%20T2i/EOS%20550D/icon.jpg",
-        "title": "Canon EOS Rebel T2i/EOS 550D",
-        "titleColor": "#fff",
-        "bgColor": "#222024"
-      }
+      "poster": "https://www.reelearn.ai/Books/Canon%20EOS%20Rebel%20T2i/EOS%20550D%20by%20Michael%20A.%20Guncheon/icon.jpg",
+      "title": "Canon EOS Rebel T2i/EOS 550D",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 1: Introduction to the Canon EOS Rebel T2i/EOS 550D",
-        "text": "In this first part, we will dive into the introduction of the Canon EOS Rebel T2i/EOS 550D. This camera is a powerful DSLR that offers high-quality images and advanced features. It is perfect for both beginners and enthusiasts who want to take their photography to the next level. We will explore the key specifications of the camera, including its 18-megapixel sensor, DIGIC 4 image processor, and ISO range. Additionally, we will discuss the camera's design and ergonomics, as well as its various shooting modes and creative filters.",
-        "audioSrc": "https://www.reelearn.ai/Books/Canon%20EOS%20Rebel%20T2i/EOS%20550D%20by%20Michael%20A.%20Guncheon/1.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: Introduction to the Canon EOS Rebel T2i/EOS 550D",
+      "text": "In this first part, we will dive into the introduction of the Canon EOS Rebel T2i/EOS 550D. This camera is a powerful DSLR that offers high-quality images and advanced features. It is perfect for both beginners and enthusiasts who want to take their photography to the next level. We will explore the key specifications of the camera, including its 18-megapixel sensor, DIGIC 4 image processor, and ISO range. Additionally, we will discuss the camera's design and ergonomics, as well as its various shooting modes and creative filters.",
+      "audioSrc": "https://www.reelearn.ai/Books/Canon%20EOS%20Rebel%20T2i/EOS%20550D%20by%20Michael%20A.%20Guncheon/1.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 2: Understanding Exposure and Metering",
-        "text": "In this second part, we will focus on understanding exposure and metering with the Canon EOS Rebel T2i/EOS 550D. Exposure is a fundamental concept in photography, and mastering it is essential for capturing well-exposed images. We will explain the three components of exposure: aperture, shutter speed, and ISO. You will learn how to adjust these settings on the camera to achieve the desired exposure. Additionally, we will explore the different metering modes available on the camera and how they affect the exposure readings. By the end of this part, you will have a solid understanding of exposure and metering with the Canon EOS Rebel T2i/EOS 550D.",
-        "audioSrc": "https://www.reelearn.ai/Books/Canon%20EOS%20Rebel%20T2i/EOS%20550D%20by%20Michael%20A.%20Guncheon/2.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Understanding Exposure and Metering",
+      "text": "In this second part, we will focus on understanding exposure and metering with the Canon EOS Rebel T2i/EOS 550D. Exposure is a fundamental concept in photography, and mastering it is essential for capturing well-exposed images. We will explain the three components of exposure: aperture, shutter speed, and ISO. You will learn how to adjust these settings on the camera to achieve the desired exposure. Additionally, we will explore the different metering modes available on the camera and how they affect the exposure readings. By the end of this part, you will have a solid understanding of exposure and metering with the Canon EOS Rebel T2i/EOS 550D.",
+      "audioSrc": "https://www.reelearn.ai/Books/Canon%20EOS%20Rebel%20T2i/EOS%20550D%20by%20Michael%20A.%20Guncheon/2.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 3: Mastering Autofocus and Focusing Modes",
-        "text": "In this third part, we will delve into mastering autofocus and focusing modes with the Canon EOS Rebel T2i/EOS 550D. Autofocus is crucial for capturing sharp and well-focused images. We will explain the various autofocus points and modes available on the camera, including single-point autofocus, zone autofocus, and automatic selection autofocus. You will learn how to select the appropriate autofocus mode for different shooting scenarios. Additionally, we will discuss manual focus and when it might be advantageous to use it. By the end of this part, you will be able to confidently use autofocus and select the right focusing mode with your Canon EOS Rebel T2i/EOS 550D.",
-        "audioSrc": "https://www.reelearn.ai/Books/Canon%20EOS%20Rebel%20T2i/EOS%20550D%20by%20Michael%20A.%20Guncheon/3.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Mastering Autofocus and Focusing Modes",
+      "text": "In this third part, we will delve into mastering autofocus and focusing modes with the Canon EOS Rebel T2i/EOS 550D. Autofocus is crucial for capturing sharp and well-focused images. We will explain the various autofocus points and modes available on the camera, including single-point autofocus, zone autofocus, and automatic selection autofocus. You will learn how to select the appropriate autofocus mode for different shooting scenarios. Additionally, we will discuss manual focus and when it might be advantageous to use it. By the end of this part, you will be able to confidently use autofocus and select the right focusing mode with your Canon EOS Rebel T2i/EOS 550D.",
+      "audioSrc": "https://www.reelearn.ai/Books/Canon%20EOS%20Rebel%20T2i/EOS%20550D%20by%20Michael%20A.%20Guncheon/3.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 4: Exploring Creative Shooting Modes and Picture Styles",
-        "text": "In this fourth part, we will explore the creative shooting modes and picture styles of the Canon EOS Rebel T2i/EOS 550D. The camera offers a range of shooting modes, including Program, Shutter Priority, Aperture Priority, and Manual. We will explain how each mode works and when to use them. Additionally, we will discuss the picture styles available on the camera, such as Standard, Portrait, Landscape, and Monochrome. You will learn how to customize these styles to achieve your desired look. By the end of this part, you will have a solid understanding of the creative shooting modes and picture styles of the Canon EOS Rebel T2i/EOS 550D.",
-        "audioSrc": "https://www.reelearn.ai/Books/Canon%20EOS%20Rebel%20T2i/EOS%20550D%20by%20Michael%20A.%20Guncheon/4.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Exploring Creative Shooting Modes and Picture Styles",
+      "text": "In this fourth part, we will explore the creative shooting modes and picture styles of the Canon EOS Rebel T2i/EOS 550D. The camera offers a range of shooting modes, including Program, Shutter Priority, Aperture Priority, and Manual. We will explain how each mode works and when to use them. Additionally, we will discuss the picture styles available on the camera, such as Standard, Portrait, Landscape, and Monochrome. You will learn how to customize these styles to achieve your desired look. By the end of this part, you will have a solid understanding of the creative shooting modes and picture styles of the Canon EOS Rebel T2i/EOS 550D.",
+      "audioSrc": "https://www.reelearn.ai/Books/Canon%20EOS%20Rebel%20T2i/EOS%20550D%20by%20Michael%20A.%20Guncheon/4.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 5: Advanced Features and Accessories",
-        "text": "In this fifth part, we will dive into the advanced features and accessories of the Canon EOS Rebel T2i/EOS 550D. The camera offers a range of advanced features, including high-definition video recording, continuous shooting, and in-camera editing. We will explore each of these features in detail, providing tips and techniques for getting the most out of them. Additionally, we will discuss the various accessories available for the camera, such as lenses, external flashes, and remote controls. By the end of this part, you will be familiar with the advanced features and accessories that can enhance your photography with the Canon EOS Rebel T2i/EOS 550D.",
-        "audioSrc": "https://www.reelearn.ai/Books/Canon%20EOS%20Rebel%20T2i/EOS%20550D%20by%20Michael%20A.%20Guncheon/5.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Advanced Features and Accessories",
+      "text": "In this fifth part, we will dive into the advanced features and accessories of the Canon EOS Rebel T2i/EOS 550D. The camera offers a range of advanced features, including high-definition video recording, continuous shooting, and in-camera editing. We will explore each of these features in detail, providing tips and techniques for getting the most out of them. Additionally, we will discuss the various accessories available for the camera, such as lenses, external flashes, and remote controls. By the end of this part, you will be familiar with the advanced features and accessories that can enhance your photography with the Canon EOS Rebel T2i/EOS 550D.",
+      "audioSrc": "https://www.reelearn.ai/Books/Canon%20EOS%20Rebel%20T2i/EOS%20550D%20by%20Michael%20A.%20Guncheon/5.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 6: Tips and Techniques for Better Photography",
-        "text": "In this final part, we will share some tips and techniques for better photography with the Canon EOS Rebel T2i/EOS 550D. We will cover topics such as composition, lighting, and post-processing. You will learn how to frame your shots effectively, use natural and artificial lighting to your advantage, and enhance your images in post-production. Additionally, we will provide some practical tips for shooting in different scenarios, such as landscapes, portraits, and action photography. By the end of this part, you will have a wealth of knowledge to improve your photography skills with the Canon EOS Rebel T2i/EOS 550D.",
-        "audioSrc": "https://www.reelearn.ai/Books/Canon%20EOS%20Rebel%20T2i/EOS%20550D%20by%20Michael%20A.%20Guncheon/6.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Tips and Techniques for Better Photography",
+      "text": "In this final part, we will share some tips and techniques for better photography with the Canon EOS Rebel T2i/EOS 550D. We will cover topics such as composition, lighting, and post-processing. You will learn how to frame your shots effectively, use natural and artificial lighting to your advantage, and enhance your images in post-production. Additionally, we will provide some practical tips for shooting in different scenarios, such as landscapes, portraits, and action photography. By the end of this part, you will have a wealth of knowledge to improve your photography skills with the Canon EOS Rebel T2i/EOS 550D.",
+      "audioSrc": "https://www.reelearn.ai/Books/Canon%20EOS%20Rebel%20T2i/EOS%20550D%20by%20Michael%20A.%20Guncheon/6.mp3"
     }
   ],
   "user": {
     "name": "Michael A. Guncheon"
-  }
+  },
+  "name": "Canon EOS Rebel T2i/EOS 550D",
+  "id": "OL24452234M"
 }

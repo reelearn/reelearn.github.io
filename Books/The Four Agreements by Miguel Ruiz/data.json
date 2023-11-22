@@ -1,0 +1,56 @@
+{
+  "name": "The Four Agreements",
+  "id": "OL672225M",
+  "pages": [
+    {
+      "type": "POSTER",
+      "poster": "https://www.reelearn.ai/Books/The%20Four%20Agreements%20by%20Miguel%20Ruiz/icon.jpg",
+      "title": "The Four Agreements",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: Be Impeccable with Your Word",
+      "text": "In the first part of The Four Agreements, Miguel Ruiz introduces the concept of being impeccable with your word. He explains that our words have the power to create and destroy, and that being mindful of how we use our words can greatly impact our lives. Ruiz emphasizes the importance of speaking with integrity, avoiding gossip and self-judgment, and using our words to spread love and positivity. By being impeccable with our word, we can create a world of harmony and happiness.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Four%20Agreements%20by%20Miguel%20Ruiz/1.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Don't Take Anything Personally",
+      "text": "In the second part, Ruiz explores the agreement of not taking anything personally. He explains that most of the time, what others say and do is a projection of their own reality, influenced by their own beliefs and experiences. By not taking things personally, we free ourselves from unnecessary suffering and emotional pain. Ruiz encourages us to develop a strong sense of self-worth and not allow the opinions and actions of others to define us.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Four%20Agreements%20by%20Miguel%20Ruiz/2.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Don't Make Assumptions",
+      "text": "The third agreement focuses on not making assumptions. Ruiz highlights how assumptions can lead to misunderstandings, conflicts, and unnecessary drama in our lives. He encourages us to ask questions and seek clarity instead of assuming we know the intentions and thoughts of others. By practicing this agreement, we can improve our communication, build stronger relationships, and avoid unnecessary conflicts.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Four%20Agreements%20by%20Miguel%20Ruiz/3.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Always Do Your Best",
+      "text": "In the fourth and final part, Ruiz introduces the agreement of always doing your best. He explains that our best will vary from moment to moment, depending on our energy levels and circumstances. The key is to give our best effort in each situation, without judgment or self-criticism. By doing our best, we can live a life free from regrets and find inner peace and fulfillment.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Four%20Agreements%20by%20Miguel%20Ruiz/4.mp3"
+    },
+    {
+      "type": "TEXT",
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Conclusion",
+      "text": "The Four Agreements is a powerful book that offers practical wisdom for living a more authentic and fulfilling life. Miguel Ruiz's teachings remind us of the importance of self-awareness, mindful communication, and personal responsibility. By incorporating these four agreements into our lives, we can transform our relationships, improve our well-being, and create a world of love and harmony.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Four%20Agreements%20by%20Miguel%20Ruiz/5.mp3"
+    }
+  ],
+  "user": {
+    "name": "Miguel Ruiz"
+  }
+}

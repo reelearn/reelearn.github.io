@@ -2,75 +2,63 @@
   "pages": [
     {
       "type": "POSTER",
-      "content": {
-        "poster": "https://www.reelearn.ai/Books/The%20Return%20of%20the%20King/icon.jpg",
-        "title": "The Return of the King",
-        "titleColor": "#fff",
-        "bgColor": "#222024"
-      }
+      "poster": "https://www.reelearn.ai/Books/The%20Return%20of%20the%20King%20by%20J.R.R.%20Tolkien/icon.jpg",
+      "title": "The Return of the King",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 1: The Fellowship Divided",
-        "text": "In the first part of The Return of the King, we find the Fellowship of the Ring divided. Frodo and Sam continue their journey towards Mount Doom, while Aragorn, Legolas, and Gimli embark on a mission to save Merry and Pippin from the orcs. Meanwhile, Gandalf and Pippin arrive at the city of Minas Tirith, where they learn of the impending war against Sauron. The stage is set for the final battle between good and evil.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Return%20of%20the%20King%20by%20J.R.R.%20Tolkien/1.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: The Fellowship Divided",
+      "text": "In the first part of The Return of the King, we find the Fellowship of the Ring divided. Frodo and Sam continue their journey towards Mount Doom, while Aragorn, Legolas, and Gimli embark on a mission to save Merry and Pippin from the orcs. Meanwhile, Gandalf and Pippin arrive at the city of Minas Tirith, where they learn of the impending war against Sauron. The stage is set for the final battle between good and evil.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Return%20of%20the%20King%20by%20J.R.R.%20Tolkien/1.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 2: The Battle for Gondor",
-        "text": "The second part of the book focuses on the epic Battle for Gondor. The forces of Sauron, led by the fearsome Witch-king, launch a massive assault on the city. Aragorn, Gandalf, and the remaining members of the Fellowship join the fight, alongside the people of Gondor. The battle is intense and filled with heroic sacrifices. Ultimately, the forces of good prevail, but at a great cost.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Return%20of%20the%20King%20by%20J.R.R.%20Tolkien/2.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: The Battle for Gondor",
+      "text": "The second part of the book focuses on the epic Battle for Gondor. The forces of Sauron, led by the fearsome Witch-king, launch a massive assault on the city. Aragorn, Gandalf, and the remaining members of the Fellowship join the fight, alongside the people of Gondor. The battle is intense and filled with heroic sacrifices. Ultimately, the forces of good prevail, but at a great cost.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Return%20of%20the%20King%20by%20J.R.R.%20Tolkien/2.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 3: The Journey to Mount Doom",
-        "text": "In this part, Frodo and Sam face numerous challenges as they continue their perilous journey to Mount Doom. They encounter the treacherous Gollum, who seeks to reclaim the One Ring for himself. Despite Gollum's interference, Frodo and Sam manage to reach the volcano. However, Frodo is tempted by the power of the Ring and decides to keep it for himself. The fate of Middle-earth hangs in the balance.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Return%20of%20the%20King%20by%20J.R.R.%20Tolkien/3.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: The Journey to Mount Doom",
+      "text": "In this part, Frodo and Sam face numerous challenges as they continue their perilous journey to Mount Doom. They encounter the treacherous Gollum, who seeks to reclaim the One Ring for himself. Despite Gollum's interference, Frodo and Sam manage to reach the volcano. However, Frodo is tempted by the power of the Ring and decides to keep it for himself. The fate of Middle-earth hangs in the balance.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Return%20of%20the%20King%20by%20J.R.R.%20Tolkien/3.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 4: The Battle of the Pelennor Fields",
-        "text": "The Battle of the Pelennor Fields takes center stage in this part. The combined forces of Gondor and Rohan, led by Aragorn and King Théoden, face off against Sauron's army. The battle is fierce and chaotic, with incredible feats of bravery from both sides. The arrival of the mysterious Army of the Dead turns the tide in favor of the Free Peoples, leading to a decisive victory.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Return%20of%20the%20King%20by%20J.R.R.%20Tolkien/4.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: The Battle of the Pelennor Fields",
+      "text": "The Battle of the Pelennor Fields takes center stage in this part. The combined forces of Gondor and Rohan, led by Aragorn and King Théoden, face off against Sauron's army. The battle is fierce and chaotic, with incredible feats of bravery from both sides. The arrival of the mysterious Army of the Dead turns the tide in favor of the Free Peoples, leading to a decisive victory.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Return%20of%20the%20King%20by%20J.R.R.%20Tolkien/4.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 5: The Destruction of the Ring",
-        "text": "In this part, Frodo finally reaches the Cracks of Doom, where he intends to destroy the One Ring. However, Gollum reappears and attacks Frodo, causing him to lose the Ring. Gollum, in his obsession, falls into the fiery chasm along with the Ring, destroying both. The destruction of the Ring marks the end of Sauron's power, and the darkness begins to recede.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Return%20of%20the%20King%20by%20J.R.R.%20Tolkien/5.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: The Destruction of the Ring",
+      "text": "In this part, Frodo finally reaches the Cracks of Doom, where he intends to destroy the One Ring. However, Gollum reappears and attacks Frodo, causing him to lose the Ring. Gollum, in his obsession, falls into the fiery chasm along with the Ring, destroying both. The destruction of the Ring marks the end of Sauron's power, and the darkness begins to recede.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Return%20of%20the%20King%20by%20J.R.R.%20Tolkien/5.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 6: The Return of the King",
-        "text": "The final part of the book focuses on the aftermath of the War of the Ring. Aragorn is crowned as the rightful King of Gondor and marries Arwen. The hobbits return to the Shire, only to find it corrupted by Saruman. They lead a rebellion and restore peace to their homeland. The book concludes with the departure of the elves, as the age of Men begins. The Return of the King brings closure to the epic tale of Middle-earth and celebrates the triumph of good over evil.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Return%20of%20the%20King%20by%20J.R.R.%20Tolkien/6.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: The Return of the King",
+      "text": "The final part of the book focuses on the aftermath of the War of the Ring. Aragorn is crowned as the rightful King of Gondor and marries Arwen. The hobbits return to the Shire, only to find it corrupted by Saruman. They lead a rebellion and restore peace to their homeland. The book concludes with the departure of the elves, as the age of Men begins. The Return of the King brings closure to the epic tale of Middle-earth and celebrates the triumph of good over evil.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Return%20of%20the%20King%20by%20J.R.R.%20Tolkien/6.mp3"
     }
   ],
   "user": {
     "name": "J.R.R. Tolkien"
-  }
+  },
+  "name": "The Return of the King",
+  "id": "OL36619867M"
 }

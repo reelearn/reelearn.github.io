@@ -2,75 +2,63 @@
   "pages": [
     {
       "type": "POSTER",
-      "content": {
-        "poster": "https://www.reelearn.ai/Books/Yakugai%20wa%20naze%20nakunaranai%20ka/icon.jpg",
-        "title": "Yakugai wa naze nakunaranai ka",
-        "titleColor": "#fff",
-        "bgColor": "#222024"
-      }
+      "poster": "https://www.reelearn.ai/Books/Yakugai%20wa%20naze%20nakunaranai%20ka%20by%20Rokuro%20Hama/icon.jpg",
+      "title": "Yakugai wa naze nakunaranai ka",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 1: The Introduction of Yakugai",
-        "text": "Yakugai wa naze nakunaranai ka, written by Rokuro Hama, is a thought-provoking book that explores the reasons behind the absence of harm caused by medicine. The author begins by discussing the paradoxical nature of medicine, which is meant to heal but can also cause harm. He introduces the concept of iatrogenesis, which refers to the unintended harm caused by medical treatment. Hama raises questions about why medicine, despite its potential risks, continues to be trusted by society.",
-        "audioSrc": "https://www.reelearn.ai/Books/Yakugai%20wa%20naze%20nakunaranai%20ka%20by%20Rokuro%20Hama/1.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: The Introduction of Yakugai",
+      "text": "Yakugai wa naze nakunaranai ka, written by Rokuro Hama, is a thought-provoking book that explores the reasons behind the absence of harm caused by medicine. The author begins by discussing the paradoxical nature of medicine, which is meant to heal but can also cause harm. He introduces the concept of iatrogenesis, which refers to the unintended harm caused by medical treatment. Hama raises questions about why medicine, despite its potential risks, continues to be trusted by society.",
+      "audioSrc": "https://www.reelearn.ai/Books/Yakugai%20wa%20naze%20nakunaranai%20ka%20by%20Rokuro%20Hama/1.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 2: The Historical Perspective",
-        "text": "In this part, Hama delves into the historical perspective of medicine and its relationship with harm. He explores how ancient medical practices often relied on trial and error, leading to harmful outcomes for patients. The author highlights the advancements in medicine over time, such as the discovery of antibiotics and vaccines, which have undoubtedly saved countless lives. However, he also acknowledges the dark side of medical history, with examples of medical experiments and unethical practices. Hama emphasizes the importance of learning from past mistakes to prevent future harm.",
-        "audioSrc": "https://www.reelearn.ai/Books/Yakugai%20wa%20naze%20nakunaranai%20ka%20by%20Rokuro%20Hama/2.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: The Historical Perspective",
+      "text": "In this part, Hama delves into the historical perspective of medicine and its relationship with harm. He explores how ancient medical practices often relied on trial and error, leading to harmful outcomes for patients. The author highlights the advancements in medicine over time, such as the discovery of antibiotics and vaccines, which have undoubtedly saved countless lives. However, he also acknowledges the dark side of medical history, with examples of medical experiments and unethical practices. Hama emphasizes the importance of learning from past mistakes to prevent future harm.",
+      "audioSrc": "https://www.reelearn.ai/Books/Yakugai%20wa%20naze%20nakunaranai%20ka%20by%20Rokuro%20Hama/2.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 3: The Role of Pharmaceutical Companies",
-        "text": "Moving forward, Hama focuses on the role of pharmaceutical companies in the context of medicine and harm. He discusses the influence of profit-driven motives on the development and marketing of drugs. The author raises concerns about the potential conflicts of interest between pharmaceutical companies, healthcare providers, and patients. Hama emphasizes the need for transparency and ethical decision-making in the pharmaceutical industry to ensure the safety and well-being of patients.",
-        "audioSrc": "https://www.reelearn.ai/Books/Yakugai%20wa%20naze%20nakunaranai%20ka%20by%20Rokuro%20Hama/3.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: The Role of Pharmaceutical Companies",
+      "text": "Moving forward, Hama focuses on the role of pharmaceutical companies in the context of medicine and harm. He discusses the influence of profit-driven motives on the development and marketing of drugs. The author raises concerns about the potential conflicts of interest between pharmaceutical companies, healthcare providers, and patients. Hama emphasizes the need for transparency and ethical decision-making in the pharmaceutical industry to ensure the safety and well-being of patients.",
+      "audioSrc": "https://www.reelearn.ai/Books/Yakugai%20wa%20naze%20nakunaranai%20ka%20by%20Rokuro%20Hama/3.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 4: The Power of Information",
-        "text": "In this part, Hama highlights the power of information in the realm of medicine. He discusses how access to accurate and reliable information is crucial for patients to make informed decisions about their healthcare. The author emphasizes the importance of patient autonomy and the need for healthcare professionals to communicate effectively with their patients. Hama also addresses the issue of misinformation and the impact it can have on healthcare outcomes.",
-        "audioSrc": "https://www.reelearn.ai/Books/Yakugai%20wa%20naze%20nakunaranai%20ka%20by%20Rokuro%20Hama/4.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: The Power of Information",
+      "text": "In this part, Hama highlights the power of information in the realm of medicine. He discusses how access to accurate and reliable information is crucial for patients to make informed decisions about their healthcare. The author emphasizes the importance of patient autonomy and the need for healthcare professionals to communicate effectively with their patients. Hama also addresses the issue of misinformation and the impact it can have on healthcare outcomes.",
+      "audioSrc": "https://www.reelearn.ai/Books/Yakugai%20wa%20naze%20nakunaranai%20ka%20by%20Rokuro%20Hama/4.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 5: The Role of Patients",
-        "text": "Continuing the discussion, Hama explores the role of patients in preventing harm in medicine. He encourages patients to be proactive in their healthcare, asking questions, seeking second opinions, and advocating for their own well-being. The author emphasizes the importance of patient empowerment and shared decision-making between patients and healthcare professionals.",
-        "audioSrc": "https://www.reelearn.ai/Books/Yakugai%20wa%20naze%20nakunaranai%20ka%20by%20Rokuro%20Hama/5.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: The Role of Patients",
+      "text": "Continuing the discussion, Hama explores the role of patients in preventing harm in medicine. He encourages patients to be proactive in their healthcare, asking questions, seeking second opinions, and advocating for their own well-being. The author emphasizes the importance of patient empowerment and shared decision-making between patients and healthcare professionals.",
+      "audioSrc": "https://www.reelearn.ai/Books/Yakugai%20wa%20naze%20nakunaranai%20ka%20by%20Rokuro%20Hama/5.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 6: Towards a Safer Future",
-        "text": "In the final part of the book, Hama discusses the steps that can be taken to create a safer future in medicine. He emphasizes the need for continuous education and training for healthcare professionals, as well as the importance of robust regulatory systems. The author also calls for increased collaboration between healthcare providers, patients, and policymakers to address the complex issues surrounding medicine and harm. Hama concludes by highlighting the potential for positive change and the role that each individual can play in promoting safer healthcare practices.",
-        "audioSrc": "https://www.reelearn.ai/Books/Yakugai%20wa%20naze%20nakunaranai%20ka%20by%20Rokuro%20Hama/6.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Towards a Safer Future",
+      "text": "In the final part of the book, Hama discusses the steps that can be taken to create a safer future in medicine. He emphasizes the need for continuous education and training for healthcare professionals, as well as the importance of robust regulatory systems. The author also calls for increased collaboration between healthcare providers, patients, and policymakers to address the complex issues surrounding medicine and harm. Hama concludes by highlighting the potential for positive change and the role that each individual can play in promoting safer healthcare practices.",
+      "audioSrc": "https://www.reelearn.ai/Books/Yakugai%20wa%20naze%20nakunaranai%20ka%20by%20Rokuro%20Hama/6.mp3"
     }
   ],
   "user": {
     "name": "Rokuro Hama"
-  }
+  },
+  "name": "Yakugai wa naze nakunaranai ka",
+  "id": "OL12417931M"
 }

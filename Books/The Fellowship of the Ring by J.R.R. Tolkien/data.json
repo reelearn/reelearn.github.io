@@ -2,75 +2,63 @@
   "pages": [
     {
       "type": "POSTER",
-      "content": {
-        "poster": "https://www.reelearn.ai/Books/The%20Fellowship%20of%20the%20Ring/icon.jpg",
-        "title": "The Fellowship of the Ring",
-        "titleColor": "#fff",
-        "bgColor": "#222024"
-      }
+      "poster": "https://www.reelearn.ai/Books/The%20Fellowship%20of%20the%20Ring%20by%20J.R.R.%20Tolkien/icon.jpg",
+      "title": "The Fellowship of the Ring",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 1: The Shire and the Ring",
-        "text": "The story begins in the peaceful land of the Shire, where Frodo Baggins, a hobbit, inherits a mysterious ring from his uncle Bilbo. Little does Frodo know that this ring is the One Ring, a powerful artifact that the dark lord Sauron desperately seeks. With the help of the wizard Gandalf, Frodo embarks on a perilous journey to destroy the ring in the fires of Mount Doom. Along the way, they encounter various dangers and meet other members of the Fellowship, a group of individuals who are bound together by their quest to protect Frodo and destroy the ring.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Fellowship%20of%20the%20Ring%20by%20J.R.R.%20Tolkien/1.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: The Shire and the Ring",
+      "text": "The story begins in the peaceful land of the Shire, where Frodo Baggins, a hobbit, inherits a mysterious ring from his uncle Bilbo. Little does Frodo know that this ring is the One Ring, a powerful artifact that the dark lord Sauron desperately seeks. With the help of the wizard Gandalf, Frodo embarks on a perilous journey to destroy the ring in the fires of Mount Doom. Along the way, they encounter various dangers and meet other members of the Fellowship, a group of individuals who are bound together by their quest to protect Frodo and destroy the ring.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Fellowship%20of%20the%20Ring%20by%20J.R.R.%20Tolkien/1.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 2: The Council of Elrond",
-        "text": "In the elven city of Rivendell, Frodo and his companions attend the Council of Elrond. Here, they learn about the history of the ring and the importance of their mission. The council decides that the ring must be destroyed and a fellowship is formed to accompany Frodo on his journey. The fellowship consists of nine members, including Frodo, Gandalf, Aragorn, Legolas, Gimli, Boromir, and the hobbits Sam, Merry, and Pippin. Together, they set out on their dangerous quest, with Frodo as the ring-bearer.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Fellowship%20of%20the%20Ring%20by%20J.R.R.%20Tolkien/2.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: The Council of Elrond",
+      "text": "In the elven city of Rivendell, Frodo and his companions attend the Council of Elrond. Here, they learn about the history of the ring and the importance of their mission. The council decides that the ring must be destroyed and a fellowship is formed to accompany Frodo on his journey. The fellowship consists of nine members, including Frodo, Gandalf, Aragorn, Legolas, Gimli, Boromir, and the hobbits Sam, Merry, and Pippin. Together, they set out on their dangerous quest, with Frodo as the ring-bearer.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Fellowship%20of%20the%20Ring%20by%20J.R.R.%20Tolkien/2.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 3: The Journey Begins",
-        "text": "The fellowship starts their journey through the treacherous lands of Middle-earth. They face numerous challenges, including encounters with the deadly Ringwraiths, who are servants of Sauron. Frodo begins to feel the burden of the ring, as its power corrupts those who possess it. The fellowship seeks refuge in the mines of Moria, but they are attacked by orcs and a terrifying creature known as the Balrog. Gandalf sacrifices himself to save the others, falling into the abyss. The fellowship is devastated by this loss, but they must continue their journey without him.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Fellowship%20of%20the%20Ring%20by%20J.R.R.%20Tolkien/3.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: The Journey Begins",
+      "text": "The fellowship starts their journey through the treacherous lands of Middle-earth. They face numerous challenges, including encounters with the deadly Ringwraiths, who are servants of Sauron. Frodo begins to feel the burden of the ring, as its power corrupts those who possess it. The fellowship seeks refuge in the mines of Moria, but they are attacked by orcs and a terrifying creature known as the Balrog. Gandalf sacrifices himself to save the others, falling into the abyss. The fellowship is devastated by this loss, but they must continue their journey without him.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Fellowship%20of%20the%20Ring%20by%20J.R.R.%20Tolkien/3.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 4: The Breaking of the Fellowship",
-        "text": "As the fellowship continues their journey, tensions rise within the group. Boromir, influenced by the power of the ring, tries to take it from Frodo. Frodo decides to leave the fellowship and continue the quest alone, fearing that the ring's influence will lead to their destruction. Sam, however, refuses to let Frodo go alone and insists on accompanying him. The fellowship is broken, and each member goes their separate ways. Aragorn, Legolas, and Gimli vow to rescue Merry and Pippin, who were captured by orcs, while Frodo and Sam head towards Mordor.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Fellowship%20of%20the%20Ring%20by%20J.R.R.%20Tolkien/4.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: The Breaking of the Fellowship",
+      "text": "As the fellowship continues their journey, tensions rise within the group. Boromir, influenced by the power of the ring, tries to take it from Frodo. Frodo decides to leave the fellowship and continue the quest alone, fearing that the ring's influence will lead to their destruction. Sam, however, refuses to let Frodo go alone and insists on accompanying him. The fellowship is broken, and each member goes their separate ways. Aragorn, Legolas, and Gimli vow to rescue Merry and Pippin, who were captured by orcs, while Frodo and Sam head towards Mordor.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Fellowship%20of%20the%20Ring%20by%20J.R.R.%20Tolkien/4.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 5: The Battle of Helm's Deep",
-        "text": "While Frodo and Sam make their way towards Mordor, the remaining members of the fellowship join forces with the people of Rohan to defend the fortress of Helm's Deep against the forces of Saruman. The battle is intense, but with the help of Gandalf, who returns as Gandalf the White, they emerge victorious. Meanwhile, Frodo and Sam encounter Gollum, a creature who was once in possession of the ring. Gollum becomes obsessed with the ring and starts following them, hoping to take it for himself.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Fellowship%20of%20the%20Ring%20by%20J.R.R.%20Tolkien/5.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: The Battle of Helm's Deep",
+      "text": "While Frodo and Sam make their way towards Mordor, the remaining members of the fellowship join forces with the people of Rohan to defend the fortress of Helm's Deep against the forces of Saruman. The battle is intense, but with the help of Gandalf, who returns as Gandalf the White, they emerge victorious. Meanwhile, Frodo and Sam encounter Gollum, a creature who was once in possession of the ring. Gollum becomes obsessed with the ring and starts following them, hoping to take it for himself.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Fellowship%20of%20the%20Ring%20by%20J.R.R.%20Tolkien/5.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 6: The Journey to Mount Doom",
-        "text": "Frodo, Sam, and Gollum continue their journey towards Mount Doom, facing various challenges along the way. Gollum's presence becomes increasingly dangerous as his desire for the ring grows stronger. Eventually, Frodo and Sam reach Mount Doom, but Frodo is unable to destroy the ring. Gollum attacks Frodo, biting off his finger and taking the ring. In the struggle, Gollum falls into the fires of Mount Doom, destroying both himself and the ring. Frodo and Sam are rescued and the ring is destroyed, bringing an end to Sauron's reign of terror. The story concludes with Frodo and Sam returning to the Shire, forever changed by their experiences.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20Fellowship%20of%20the%20Ring%20by%20J.R.R.%20Tolkien/6.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: The Journey to Mount Doom",
+      "text": "Frodo, Sam, and Gollum continue their journey towards Mount Doom, facing various challenges along the way. Gollum's presence becomes increasingly dangerous as his desire for the ring grows stronger. Eventually, Frodo and Sam reach Mount Doom, but Frodo is unable to destroy the ring. Gollum attacks Frodo, biting off his finger and taking the ring. In the struggle, Gollum falls into the fires of Mount Doom, destroying both himself and the ring. Frodo and Sam are rescued and the ring is destroyed, bringing an end to Sauron's reign of terror. The story concludes with Frodo and Sam returning to the Shire, forever changed by their experiences.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20Fellowship%20of%20the%20Ring%20by%20J.R.R.%20Tolkien/6.mp3"
     }
   ],
   "user": {
     "name": "J.R.R. Tolkien"
-  }
+  },
+  "name": "The Fellowship of the Ring",
+  "id": "OL32559371M"
 }

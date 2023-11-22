@@ -2,75 +2,63 @@
   "pages": [
     {
       "type": "POSTER",
-      "content": {
-        "poster": "https://www.reelearn.ai/Books/Montana%20State%20Fund/icon.jpg",
-        "title": "Montana State Fund",
-        "titleColor": "#fff",
-        "bgColor": "#222024"
-      }
+      "poster": "https://www.reelearn.ai/Books/Montana%20State%20Fund%20by%20Montana%20Legislature%20Legislative%20Audit%20Division/icon.jpg",
+      "title": "Montana State Fund",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 1: Introduction to Montana State Fund",
-        "text": "Montana State Fund is a state-operated workers' compensation insurance company in Montana. It was established in 1990 to provide affordable and reliable workers' compensation coverage to employers in the state. The fund is governed by a board of directors and is overseen by the Montana Department of Labor and Industry. Its primary goal is to ensure that injured workers receive appropriate medical care and wage replacement benefits, while also promoting workplace safety and preventing accidents. Montana State Fund plays a crucial role in supporting the economic well-being of Montana's workforce and businesses by providing a stable and efficient workers' compensation system.",
-        "audioSrc": "https://www.reelearn.ai/Books/Montana%20State%20Fund%20by%20Montana%20Legislature%20Legislative%20Audit%20Division/1.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: Introduction to Montana State Fund",
+      "text": "Montana State Fund is a state-operated workers' compensation insurance company in Montana. It was established in 1990 to provide affordable and reliable workers' compensation coverage to employers in the state. The fund is governed by a board of directors and is overseen by the Montana Department of Labor and Industry. Its primary goal is to ensure that injured workers receive appropriate medical care and wage replacement benefits, while also promoting workplace safety and preventing accidents. Montana State Fund plays a crucial role in supporting the economic well-being of Montana's workforce and businesses by providing a stable and efficient workers' compensation system.",
+      "audioSrc": "https://www.reelearn.ai/Books/Montana%20State%20Fund%20by%20Montana%20Legislature%20Legislative%20Audit%20Division/1.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 2: Functions and Services of Montana State Fund",
-        "text": "Montana State Fund offers a range of functions and services to employers and injured workers. It provides workers' compensation insurance coverage to employers, ensuring that they have the necessary protection in case of workplace injuries or illnesses. The fund also manages claims filed by injured workers, processing medical bills and wage replacement benefits. Additionally, Montana State Fund offers safety training and resources to employers, helping them create safer work environments and reduce the risk of accidents. The fund also collaborates with healthcare providers to ensure injured workers receive appropriate and timely medical treatment. Through its various functions and services, Montana State Fund strives to support both employers and injured workers in their recovery and return to work.",
-        "audioSrc": "https://www.reelearn.ai/Books/Montana%20State%20Fund%20by%20Montana%20Legislature%20Legislative%20Audit%20Division/2.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Functions and Services of Montana State Fund",
+      "text": "Montana State Fund offers a range of functions and services to employers and injured workers. It provides workers' compensation insurance coverage to employers, ensuring that they have the necessary protection in case of workplace injuries or illnesses. The fund also manages claims filed by injured workers, processing medical bills and wage replacement benefits. Additionally, Montana State Fund offers safety training and resources to employers, helping them create safer work environments and reduce the risk of accidents. The fund also collaborates with healthcare providers to ensure injured workers receive appropriate and timely medical treatment. Through its various functions and services, Montana State Fund strives to support both employers and injured workers in their recovery and return to work.",
+      "audioSrc": "https://www.reelearn.ai/Books/Montana%20State%20Fund%20by%20Montana%20Legislature%20Legislative%20Audit%20Division/2.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 3: Financial Management of Montana State Fund",
-        "text": "Montana State Fund operates on a self-funded model, meaning it does not rely on taxpayer dollars for its operations. Instead, it generates revenue through premiums paid by employers for workers' compensation coverage. These premiums are based on the size of the employer's payroll and the level of risk associated with their industry. The fund also invests its assets to generate additional income, which helps maintain its financial stability. Montana State Fund is subject to regular financial audits to ensure transparency and accountability. The fund's financial management practices are aimed at maintaining a strong financial position to fulfill its obligations to injured workers and employers.",
-        "audioSrc": "https://www.reelearn.ai/Books/Montana%20State%20Fund%20by%20Montana%20Legislature%20Legislative%20Audit%20Division/3.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Financial Management of Montana State Fund",
+      "text": "Montana State Fund operates on a self-funded model, meaning it does not rely on taxpayer dollars for its operations. Instead, it generates revenue through premiums paid by employers for workers' compensation coverage. These premiums are based on the size of the employer's payroll and the level of risk associated with their industry. The fund also invests its assets to generate additional income, which helps maintain its financial stability. Montana State Fund is subject to regular financial audits to ensure transparency and accountability. The fund's financial management practices are aimed at maintaining a strong financial position to fulfill its obligations to injured workers and employers.",
+      "audioSrc": "https://www.reelearn.ai/Books/Montana%20State%20Fund%20by%20Montana%20Legislature%20Legislative%20Audit%20Division/3.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 4: Achievements and Impact of Montana State Fund",
-        "text": "Since its establishment, Montana State Fund has made significant achievements in improving workers' compensation in the state. It has successfully reduced workplace injuries and illnesses through its emphasis on workplace safety and prevention programs. The fund has also implemented effective claims management practices, ensuring injured workers receive timely and appropriate care. Montana State Fund has played a crucial role in supporting injured workers in their recovery and facilitating their return to work. Additionally, the fund has contributed to the overall economic stability of Montana by providing affordable workers' compensation insurance coverage to employers, enabling them to focus on their business operations with confidence.",
-        "audioSrc": "https://www.reelearn.ai/Books/Montana%20State%20Fund%20by%20Montana%20Legislature%20Legislative%20Audit%20Division/4.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Achievements and Impact of Montana State Fund",
+      "text": "Since its establishment, Montana State Fund has made significant achievements in improving workers' compensation in the state. It has successfully reduced workplace injuries and illnesses through its emphasis on workplace safety and prevention programs. The fund has also implemented effective claims management practices, ensuring injured workers receive timely and appropriate care. Montana State Fund has played a crucial role in supporting injured workers in their recovery and facilitating their return to work. Additionally, the fund has contributed to the overall economic stability of Montana by providing affordable workers' compensation insurance coverage to employers, enabling them to focus on their business operations with confidence.",
+      "audioSrc": "https://www.reelearn.ai/Books/Montana%20State%20Fund%20by%20Montana%20Legislature%20Legislative%20Audit%20Division/4.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 5: Challenges and Future Outlook for Montana State Fund",
-        "text": "Despite its successes, Montana State Fund faces several challenges and has to adapt to changing circumstances. One of the key challenges is the rising healthcare costs, which impact the fund's ability to provide comprehensive medical care to injured workers. Additionally, the fund needs to continually assess and address emerging workplace safety issues to ensure the well-being of Montana's workforce. The future outlook for Montana State Fund involves exploring innovative approaches to enhance its services and maintain its financial stability. This includes leveraging technology to streamline claims processing, expanding safety training programs, and collaborating with stakeholders to address industry-specific risks. By proactively addressing challenges and embracing opportunities, Montana State Fund aims to continue its mission of supporting injured workers and promoting workplace safety in Montana.",
-        "audioSrc": "https://www.reelearn.ai/Books/Montana%20State%20Fund%20by%20Montana%20Legislature%20Legislative%20Audit%20Division/5.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Challenges and Future Outlook for Montana State Fund",
+      "text": "Despite its successes, Montana State Fund faces several challenges and has to adapt to changing circumstances. One of the key challenges is the rising healthcare costs, which impact the fund's ability to provide comprehensive medical care to injured workers. Additionally, the fund needs to continually assess and address emerging workplace safety issues to ensure the well-being of Montana's workforce. The future outlook for Montana State Fund involves exploring innovative approaches to enhance its services and maintain its financial stability. This includes leveraging technology to streamline claims processing, expanding safety training programs, and collaborating with stakeholders to address industry-specific risks. By proactively addressing challenges and embracing opportunities, Montana State Fund aims to continue its mission of supporting injured workers and promoting workplace safety in Montana.",
+      "audioSrc": "https://www.reelearn.ai/Books/Montana%20State%20Fund%20by%20Montana%20Legislature%20Legislative%20Audit%20Division/5.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 6: Conclusion",
-        "text": "Montana State Fund is a vital institution in Montana's workers' compensation system. It provides essential insurance coverage, claims management, and safety resources to employers and injured workers. The fund's commitment to workplace safety and its focus on timely and appropriate care for injured workers have led to significant improvements in Montana's workers' compensation landscape. However, challenges such as rising healthcare costs and emerging safety issues require ongoing attention and adaptation. Montana State Fund remains dedicated to its mission and will continue to evolve and innovate to meet the needs of Montana's workforce and businesses.",
-        "audioSrc": "https://www.reelearn.ai/Books/Montana%20State%20Fund%20by%20Montana%20Legislature%20Legislative%20Audit%20Division/6.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Conclusion",
+      "text": "Montana State Fund is a vital institution in Montana's workers' compensation system. It provides essential insurance coverage, claims management, and safety resources to employers and injured workers. The fund's commitment to workplace safety and its focus on timely and appropriate care for injured workers have led to significant improvements in Montana's workers' compensation landscape. However, challenges such as rising healthcare costs and emerging safety issues require ongoing attention and adaptation. Montana State Fund remains dedicated to its mission and will continue to evolve and innovate to meet the needs of Montana's workforce and businesses.",
+      "audioSrc": "https://www.reelearn.ai/Books/Montana%20State%20Fund%20by%20Montana%20Legislature%20Legislative%20Audit%20Division/6.mp3"
     }
   ],
   "user": {
     "name": "Montana Legislature Legislative Audit Division"
-  }
+  },
+  "name": "Montana State Fund",
+  "id": "OL24654456M"
 }

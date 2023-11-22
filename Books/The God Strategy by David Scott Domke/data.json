@@ -2,75 +2,63 @@
   "pages": [
     {
       "type": "POSTER",
-      "content": {
-        "poster": "https://www.reelearn.ai/Books/The%20God%20Strategy/icon.jpg",
-        "title": "The God Strategy",
-        "titleColor": "#fff",
-        "bgColor": "#222024"
-      }
+      "poster": "https://www.reelearn.ai/Books/The%20God%20Strategy%20by%20David%20Scott%20Domke/icon.jpg",
+      "title": "The God Strategy",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 1: Understanding the God Strategy",
-        "text": "In the first part of 'The God Strategy' by David Scott Domke, the author introduces the concept of the God Strategy in American politics. He explains that the God Strategy is a political tactic used by candidates to appeal to religious voters and gain their support. Domke argues that the God Strategy has become increasingly prevalent in recent years, with candidates using religious language and imagery to connect with voters and shape public opinion. He explores the historical roots of the God Strategy and its impact on American politics.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20God%20Strategy%20by%20David%20Scott%20Domke/1.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: Understanding the God Strategy",
+      "text": "In the first part of 'The God Strategy' by David Scott Domke, the author introduces the concept of the God Strategy in American politics. He explains that the God Strategy is a political tactic used by candidates to appeal to religious voters and gain their support. Domke argues that the God Strategy has become increasingly prevalent in recent years, with candidates using religious language and imagery to connect with voters and shape public opinion. He explores the historical roots of the God Strategy and its impact on American politics.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20God%20Strategy%20by%20David%20Scott%20Domke/1.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 2: The Role of Religion in American Politics",
-        "text": "In this part, Domke delves deeper into the role of religion in American politics. He discusses the influence of religious beliefs on voters' political preferences and the ways in which candidates utilize religious rhetoric to appeal to different religious groups. Domke also examines the intersection of religion and policy issues, such as abortion and same-sex marriage, and how these issues have been used to mobilize religious voters. He highlights the complexities and controversies surrounding the use of religion in politics.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20God%20Strategy%20by%20David%20Scott%20Domke/2.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: The Role of Religion in American Politics",
+      "text": "In this part, Domke delves deeper into the role of religion in American politics. He discusses the influence of religious beliefs on voters' political preferences and the ways in which candidates utilize religious rhetoric to appeal to different religious groups. Domke also examines the intersection of religion and policy issues, such as abortion and same-sex marriage, and how these issues have been used to mobilize religious voters. He highlights the complexities and controversies surrounding the use of religion in politics.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20God%20Strategy%20by%20David%20Scott%20Domke/2.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 3: Examining Successful God Strategy Campaigns",
-        "text": "In this section, Domke analyzes several successful political campaigns that have effectively employed the God Strategy. He provides case studies of candidates who have used religious messaging to connect with voters and win elections. Domke explores the strategies and tactics employed by these candidates, including the use of religious symbols, references to scripture, and appeals to moral values. He also discusses the potential risks and challenges associated with using the God Strategy.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20God%20Strategy%20by%20David%20Scott%20Domke/3.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Examining Successful God Strategy Campaigns",
+      "text": "In this section, Domke analyzes several successful political campaigns that have effectively employed the God Strategy. He provides case studies of candidates who have used religious messaging to connect with voters and win elections. Domke explores the strategies and tactics employed by these candidates, including the use of religious symbols, references to scripture, and appeals to moral values. He also discusses the potential risks and challenges associated with using the God Strategy.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20God%20Strategy%20by%20David%20Scott%20Domke/3.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 4: Critiques and Controversies of the God Strategy",
-        "text": "In this part, Domke examines the critiques and controversies surrounding the God Strategy. He explores the concerns raised by critics who argue that the use of religion in politics can be divisive and exclusionary. Domke also discusses the ethical implications of using religious rhetoric for political gain and the potential impact on the separation of church and state. He presents different perspectives on the God Strategy and encourages readers to critically evaluate its implications.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20God%20Strategy%20by%20David%20Scott%20Domke/4.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Critiques and Controversies of the God Strategy",
+      "text": "In this part, Domke examines the critiques and controversies surrounding the God Strategy. He explores the concerns raised by critics who argue that the use of religion in politics can be divisive and exclusionary. Domke also discusses the ethical implications of using religious rhetoric for political gain and the potential impact on the separation of church and state. He presents different perspectives on the God Strategy and encourages readers to critically evaluate its implications.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20God%20Strategy%20by%20David%20Scott%20Domke/4.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 5: The Future of the God Strategy",
-        "text": "In this section, Domke speculates on the future of the God Strategy in American politics. He discusses the potential shifts in religious demographics and the evolving attitudes towards religion in society. Domke also explores the impact of changing media landscapes and the role of social media in shaping political discourse. He offers insights into how the God Strategy might adapt and evolve in response to these changes.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20God%20Strategy%20by%20David%20Scott%20Domke/5.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: The Future of the God Strategy",
+      "text": "In this section, Domke speculates on the future of the God Strategy in American politics. He discusses the potential shifts in religious demographics and the evolving attitudes towards religion in society. Domke also explores the impact of changing media landscapes and the role of social media in shaping political discourse. He offers insights into how the God Strategy might adapt and evolve in response to these changes.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20God%20Strategy%20by%20David%20Scott%20Domke/5.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 6: Conclusion and Key Takeaways",
-        "text": "In the final part of the book, Domke concludes by summarizing the key takeaways from his analysis of the God Strategy. He emphasizes the importance of understanding the role of religion in politics and the potential consequences of using religious rhetoric for political gain. Domke encourages readers to critically evaluate the use of the God Strategy and its impact on democracy. He leaves readers with a call to action to engage in informed and thoughtful political discourse.",
-        "audioSrc": "https://www.reelearn.ai/Books/The%20God%20Strategy%20by%20David%20Scott%20Domke/6.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Conclusion and Key Takeaways",
+      "text": "In the final part of the book, Domke concludes by summarizing the key takeaways from his analysis of the God Strategy. He emphasizes the importance of understanding the role of religion in politics and the potential consequences of using religious rhetoric for political gain. Domke encourages readers to critically evaluate the use of the God Strategy and its impact on democracy. He leaves readers with a call to action to engage in informed and thoughtful political discourse.",
+      "audioSrc": "https://www.reelearn.ai/Books/The%20God%20Strategy%20by%20David%20Scott%20Domke/6.mp3"
     }
   ],
   "user": {
     "name": "David Scott Domke"
-  }
+  },
+  "name": "The God Strategy",
+  "id": "OL24452252M"
 }

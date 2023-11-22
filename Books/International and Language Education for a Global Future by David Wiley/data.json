@@ -2,75 +2,63 @@
   "pages": [
     {
       "type": "POSTER",
-      "content": {
-        "poster": "https://www.reelearn.ai/Books/International%20and%20Language%20Education%20for%20a%20Global%20Future/icon.jpg",
-        "title": "International and Language Education for a Global Future",
-        "titleColor": "#fff",
-        "bgColor": "#222024"
-      }
+      "poster": "https://www.reelearn.ai/Books/International%20and%20Language%20Education%20for%20a%20Global%20Future%20by%20David%20Wiley/icon.jpg",
+      "title": "International and Language Education for a Global Future",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 1: Introduction",
-        "text": "In the book 'International and Language Education for a Global Future' by David Wiley, the author explores the importance of international and language education in preparing individuals for a globalized world. He highlights the need for individuals to develop intercultural competence and language proficiency to thrive in an interconnected society. Wiley emphasizes that international education is not just about studying abroad, but also about fostering global perspectives and understanding different cultures in one's own country. He argues that language education plays a crucial role in promoting communication and building bridges between people from diverse backgrounds.",
-        "audioSrc": "https://www.reelearn.ai/Books/International%20and%20Language%20Education%20for%20a%20Global%20Future%20by%20David%20Wiley/1.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: Introduction",
+      "text": "In the book 'International and Language Education for a Global Future' by David Wiley, the author explores the importance of international and language education in preparing individuals for a globalized world. He highlights the need for individuals to develop intercultural competence and language proficiency to thrive in an interconnected society. Wiley emphasizes that international education is not just about studying abroad, but also about fostering global perspectives and understanding different cultures in one's own country. He argues that language education plays a crucial role in promoting communication and building bridges between people from diverse backgrounds.",
+      "audioSrc": "https://www.reelearn.ai/Books/International%20and%20Language%20Education%20for%20a%20Global%20Future%20by%20David%20Wiley/1.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 2: Benefits of International Education",
-        "text": "In this part, Wiley discusses the numerous benefits of international education. He explains how studying abroad can enhance a person's cultural awareness, adaptability, and problem-solving skills. It provides opportunities for personal growth, self-discovery, and the development of a global mindset. Wiley also highlights the positive impact of international education on career prospects, as employers increasingly value individuals with international experiences and cross-cultural competencies.",
-        "audioSrc": "https://www.reelearn.ai/Books/International%20and%20Language%20Education%20for%20a%20Global%20Future%20by%20David%20Wiley/2.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: Benefits of International Education",
+      "text": "In this part, Wiley discusses the numerous benefits of international education. He explains how studying abroad can enhance a person's cultural awareness, adaptability, and problem-solving skills. It provides opportunities for personal growth, self-discovery, and the development of a global mindset. Wiley also highlights the positive impact of international education on career prospects, as employers increasingly value individuals with international experiences and cross-cultural competencies.",
+      "audioSrc": "https://www.reelearn.ai/Books/International%20and%20Language%20Education%20for%20a%20Global%20Future%20by%20David%20Wiley/2.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 3: Challenges in International Education",
-        "text": "Wiley acknowledges that international education also faces several challenges. He addresses issues such as accessibility, affordability, and the lack of diversity in study abroad programs. He emphasizes the need for inclusive and equitable opportunities for all individuals, regardless of their socioeconomic background. Wiley also discusses the importance of addressing cultural biases and stereotypes in international education to ensure a truly inclusive and enriching experience for all students.",
-        "audioSrc": "https://www.reelearn.ai/Books/International%20and%20Language%20Education%20for%20a%20Global%20Future%20by%20David%20Wiley/3.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: Challenges in International Education",
+      "text": "Wiley acknowledges that international education also faces several challenges. He addresses issues such as accessibility, affordability, and the lack of diversity in study abroad programs. He emphasizes the need for inclusive and equitable opportunities for all individuals, regardless of their socioeconomic background. Wiley also discusses the importance of addressing cultural biases and stereotypes in international education to ensure a truly inclusive and enriching experience for all students.",
+      "audioSrc": "https://www.reelearn.ai/Books/International%20and%20Language%20Education%20for%20a%20Global%20Future%20by%20David%20Wiley/3.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 4: Language Education and its Significance",
-        "text": "In this part, Wiley delves into the significance of language education in a global context. He highlights how language proficiency fosters effective communication, cultural understanding, and empathy. Wiley argues that language education should go beyond mere grammar and vocabulary, emphasizing the importance of cultural competence and intercultural communication skills. He also discusses the role of technology in language learning, providing examples of innovative language learning platforms and resources.",
-        "audioSrc": "https://www.reelearn.ai/Books/International%20and%20Language%20Education%20for%20a%20Global%20Future%20by%20David%20Wiley/4.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: Language Education and its Significance",
+      "text": "In this part, Wiley delves into the significance of language education in a global context. He highlights how language proficiency fosters effective communication, cultural understanding, and empathy. Wiley argues that language education should go beyond mere grammar and vocabulary, emphasizing the importance of cultural competence and intercultural communication skills. He also discusses the role of technology in language learning, providing examples of innovative language learning platforms and resources.",
+      "audioSrc": "https://www.reelearn.ai/Books/International%20and%20Language%20Education%20for%20a%20Global%20Future%20by%20David%20Wiley/4.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 5: Approaches to International and Language Education",
-        "text": "Wiley explores different approaches to international and language education in this part. He discusses immersion programs, bilingual education, and content-based language instruction as effective methods for language acquisition. Wiley also explores the concept of global citizenship education, which aims to develop individuals who are knowledgeable, empathetic, and actively engaged in addressing global challenges. He emphasizes the need for collaborative partnerships between educators, policymakers, and communities to create meaningful and impactful international and language education programs.",
-        "audioSrc": "https://www.reelearn.ai/Books/International%20and%20Language%20Education%20for%20a%20Global%20Future%20by%20David%20Wiley/5.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Approaches to International and Language Education",
+      "text": "Wiley explores different approaches to international and language education in this part. He discusses immersion programs, bilingual education, and content-based language instruction as effective methods for language acquisition. Wiley also explores the concept of global citizenship education, which aims to develop individuals who are knowledgeable, empathetic, and actively engaged in addressing global challenges. He emphasizes the need for collaborative partnerships between educators, policymakers, and communities to create meaningful and impactful international and language education programs.",
+      "audioSrc": "https://www.reelearn.ai/Books/International%20and%20Language%20Education%20for%20a%20Global%20Future%20by%20David%20Wiley/5.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 6: Future Directions and Conclusion",
-        "text": "In the final part of the book, Wiley discusses future directions for international and language education. He emphasizes the need for continuous innovation, research, and professional development in this field. Wiley also emphasizes the importance of integrating international and language education into the broader curriculum, rather than treating them as separate entities. He concludes by highlighting the transformative power of international and language education in shaping individuals who are prepared to thrive in an interconnected and diverse world.",
-        "audioSrc": "https://www.reelearn.ai/Books/International%20and%20Language%20Education%20for%20a%20Global%20Future%20by%20David%20Wiley/6.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: Future Directions and Conclusion",
+      "text": "In the final part of the book, Wiley discusses future directions for international and language education. He emphasizes the need for continuous innovation, research, and professional development in this field. Wiley also emphasizes the importance of integrating international and language education into the broader curriculum, rather than treating them as separate entities. He concludes by highlighting the transformative power of international and language education in shaping individuals who are prepared to thrive in an interconnected and diverse world.",
+      "audioSrc": "https://www.reelearn.ai/Books/International%20and%20Language%20Education%20for%20a%20Global%20Future%20by%20David%20Wiley/6.mp3"
     }
   ],
   "user": {
     "name": "David Wiley"
-  }
+  },
+  "name": "International and Language Education for a Global Future",
+  "id": "OL24452454M"
 }

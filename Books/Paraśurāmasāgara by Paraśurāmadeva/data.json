@@ -2,75 +2,63 @@
   "pages": [
     {
       "type": "POSTER",
-      "content": {
-        "poster": "https://www.reelearn.ai/Books/Paraśurāmasāgara/icon.jpg",
-        "title": "Paraśurāmasāgara",
-        "titleColor": "#fff",
-        "bgColor": "#222024"
-      }
+      "poster": "https://www.reelearn.ai/Books/Paraśurāmasāgara%20by%20Paraśurāmadeva/icon.jpg",
+      "title": "Paraśurāmasāgara",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 1: The Legend of Paraśurāma",
-        "text": "Paraśurāmasāgara is an epic tale written by Paraśurāmadeva. The story revolves around the legendary figure of Paraśurāma, who is believed to be the sixth avatar of Lord Vishnu. Part 1 introduces us to the legend of Paraśurāma. Born as the son of sage Jamadagni and Renuka, Paraśurāma grows up to become a skilled warrior. He embarks on a journey to avenge his father's death and eradicate the evil Kshatriyas from the earth. With his mighty axe, Paraśurāma slays thousands of Kshatriyas and creates a sea of blood, hence earning the title of 'Paraśurāma', which means 'Rama with the Axe'.",
-        "audioSrc": "https://www.reelearn.ai/Books/Paraśurāmasāgara%20by%20Paraśurāmadeva/1.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: The Legend of Paraśurāma",
+      "text": "Paraśurāmasāgara is an epic tale written by Paraśurāmadeva. The story revolves around the legendary figure of Paraśurāma, who is believed to be the sixth avatar of Lord Vishnu. Part 1 introduces us to the legend of Paraśurāma. Born as the son of sage Jamadagni and Renuka, Paraśurāma grows up to become a skilled warrior. He embarks on a journey to avenge his father's death and eradicate the evil Kshatriyas from the earth. With his mighty axe, Paraśurāma slays thousands of Kshatriyas and creates a sea of blood, hence earning the title of 'Paraśurāma', which means 'Rama with the Axe'.",
+      "audioSrc": "https://www.reelearn.ai/Books/Paraśurāmasāgara%20by%20Paraśurāmadeva/1.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 2: The Battle with Kartavirya Arjuna",
-        "text": "In Part 2, we witness the epic battle between Paraśurāma and Kartavirya Arjuna, the powerful king of Haihaya dynasty. Kartavirya Arjuna, who possessed a thousand arms, was known for his arrogance and oppression of the Brahmins. Paraśurāma challenges him and defeats him in a fierce battle, cutting off all his thousand arms. This victory establishes Paraśurāma as the greatest warrior of his time and a symbol of justice and righteousness.",
-        "audioSrc": "https://www.reelearn.ai/Books/Paraśurāmasāgara%20by%20Paraśurāmadeva/2.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: The Battle with Kartavirya Arjuna",
+      "text": "In Part 2, we witness the epic battle between Paraśurāma and Kartavirya Arjuna, the powerful king of Haihaya dynasty. Kartavirya Arjuna, who possessed a thousand arms, was known for his arrogance and oppression of the Brahmins. Paraśurāma challenges him and defeats him in a fierce battle, cutting off all his thousand arms. This victory establishes Paraśurāma as the greatest warrior of his time and a symbol of justice and righteousness.",
+      "audioSrc": "https://www.reelearn.ai/Books/Paraśurāmasāgara%20by%20Paraśurāmadeva/2.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 3: The Curse of Paraśurāma",
-        "text": "Part 3 of the story explores the curse of Paraśurāma. After his victorious battles, Paraśurāma becomes proud and starts considering himself as the ultimate warrior. This arrogance leads him to clash with Lord Shiva, who disguises himself as a wandering mendicant. In a test of strength, Paraśurāma challenges Lord Shiva to lift his axe. However, Lord Shiva effortlessly lifts the axe, humbling Paraśurāma. As a result, Paraśurāma is cursed by Lord Shiva to wander the earth as a penitent until the end of the Kali Yuga.",
-        "audioSrc": "https://www.reelearn.ai/Books/Paraśurāmasāgara%20by%20Paraśurāmadeva/3.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: The Curse of Paraśurāma",
+      "text": "Part 3 of the story explores the curse of Paraśurāma. After his victorious battles, Paraśurāma becomes proud and starts considering himself as the ultimate warrior. This arrogance leads him to clash with Lord Shiva, who disguises himself as a wandering mendicant. In a test of strength, Paraśurāma challenges Lord Shiva to lift his axe. However, Lord Shiva effortlessly lifts the axe, humbling Paraśurāma. As a result, Paraśurāma is cursed by Lord Shiva to wander the earth as a penitent until the end of the Kali Yuga.",
+      "audioSrc": "https://www.reelearn.ai/Books/Paraśurāmasāgara%20by%20Paraśurāmadeva/3.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 4: The Teachings of Paraśurāma",
-        "text": "In Part 4, we delve into the teachings of Paraśurāma. During his penance, Paraśurāma imparts his knowledge and wisdom to his disciples. He teaches them the importance of humility, righteousness, and devotion to God. Paraśurāma emphasizes the need for balance in life and the pursuit of knowledge. His teachings inspire generations of warriors and sages, and his name becomes synonymous with valor and wisdom.",
-        "audioSrc": "https://www.reelearn.ai/Books/Paraśurāmasāgara%20by%20Paraśurāmadeva/4.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: The Teachings of Paraśurāma",
+      "text": "In Part 4, we delve into the teachings of Paraśurāma. During his penance, Paraśurāma imparts his knowledge and wisdom to his disciples. He teaches them the importance of humility, righteousness, and devotion to God. Paraśurāma emphasizes the need for balance in life and the pursuit of knowledge. His teachings inspire generations of warriors and sages, and his name becomes synonymous with valor and wisdom.",
+      "audioSrc": "https://www.reelearn.ai/Books/Paraśurāmasāgara%20by%20Paraśurāmadeva/4.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 5: The Final Battle",
-        "text": "Part 5 takes us to the final battle of Paraśurāma. As the Kali Yuga approaches its end, Paraśurāma is destined to fight his last battle against Kalki, the tenth avatar of Lord Vishnu. This battle is said to bring an end to the cycle of destruction and rejuvenation. Paraśurāma, with his immense power and wisdom, faces Kalki in a fierce duel. The outcome of this battle determines the fate of the world and the beginning of a new era.",
-        "audioSrc": "https://www.reelearn.ai/Books/Paraśurāmasāgara%20by%20Paraśurāmadeva/5.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: The Final Battle",
+      "text": "Part 5 takes us to the final battle of Paraśurāma. As the Kali Yuga approaches its end, Paraśurāma is destined to fight his last battle against Kalki, the tenth avatar of Lord Vishnu. This battle is said to bring an end to the cycle of destruction and rejuvenation. Paraśurāma, with his immense power and wisdom, faces Kalki in a fierce duel. The outcome of this battle determines the fate of the world and the beginning of a new era.",
+      "audioSrc": "https://www.reelearn.ai/Books/Paraśurāmasāgara%20by%20Paraśurāmadeva/5.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 6: The Legacy of Paraśurāma",
-        "text": "The final part of the story explores the legacy of Paraśurāma. Despite his eventual defeat in the battle with Kalki, Paraśurāma's legacy lives on. He is revered as a great warrior, a sage, and an embodiment of Lord Vishnu's divine power. His teachings continue to inspire people to strive for righteousness and to fight against injustice. The story of Paraśurāma serves as a reminder of the eternal struggle between good and evil and the importance of upholding dharma in the face of adversity.",
-        "audioSrc": "https://www.reelearn.ai/Books/Paraśurāmasāgara%20by%20Paraśurāmadeva/6.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: The Legacy of Paraśurāma",
+      "text": "The final part of the story explores the legacy of Paraśurāma. Despite his eventual defeat in the battle with Kalki, Paraśurāma's legacy lives on. He is revered as a great warrior, a sage, and an embodiment of Lord Vishnu's divine power. His teachings continue to inspire people to strive for righteousness and to fight against injustice. The story of Paraśurāma serves as a reminder of the eternal struggle between good and evil and the importance of upholding dharma in the face of adversity.",
+      "audioSrc": "https://www.reelearn.ai/Books/Paraśurāmasāgara%20by%20Paraśurāmadeva/6.mp3"
     }
   ],
   "user": {
     "name": "Paraśurāmadeva"
-  }
+  },
+  "name": "Paraśurāmasāgara",
+  "id": "OL24765M"
 }

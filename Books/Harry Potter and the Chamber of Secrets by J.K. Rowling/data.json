@@ -2,75 +2,63 @@
   "pages": [
     {
       "type": "POSTER",
-      "content": {
-        "poster": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets/icon.jpg",
-        "title": "Harry Potter and the Chamber of Secrets",
-        "titleColor": "#fff",
-        "bgColor": "#222024"
-      }
+      "poster": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20by%20J.K.%20Rowling/icon.jpg",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "titleColor": "#fff",
+      "bgColor": "#222024"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 1: The Dobby Dilemma",
-        "text": "Harry Potter is back for his second year at Hogwarts School of Witchcraft and Wizardry. However, his summer break has been far from magical. He is locked in his room by the Dursleys, his horrible relatives, and receives a warning from a house-elf named Dobby, who tells him not to return to Hogwarts because there is great danger awaiting him. Ignoring Dobby's warning, Harry and his friends Ron and Hermione make their way to Hogwarts. Strange things start happening, including students being mysteriously petrified and ominous messages appearing on the walls. Harry becomes suspicious of Draco Malfoy, who seems to be involved. With the help of Ron's sister Ginny, Harry discovers the entrance to the Chamber of Secrets, where a terrifying monster resides.",
-        "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20by%20J.K.%20Rowling/1.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 1: The Dobby Dilemma",
+      "text": "Harry Potter is back for his second year at Hogwarts School of Witchcraft and Wizardry. However, his summer break has been far from magical. He is locked in his room by the Dursleys, his horrible relatives, and receives a warning from a house-elf named Dobby, who tells him not to return to Hogwarts because there is great danger awaiting him. Ignoring Dobby's warning, Harry and his friends Ron and Hermione make their way to Hogwarts. Strange things start happening, including students being mysteriously petrified and ominous messages appearing on the walls. Harry becomes suspicious of Draco Malfoy, who seems to be involved. With the help of Ron's sister Ginny, Harry discovers the entrance to the Chamber of Secrets, where a terrifying monster resides.",
+      "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20by%20J.K.%20Rowling/1.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 2: The Heir of Slytherin",
-        "text": "As the petrifications continue, rumors spread that the Chamber of Secrets has been opened and that the heir of Slytherin is responsible. Harry, Ron, and Hermione suspect that Draco Malfoy is the heir, but they need evidence to prove it. They brew Polyjuice Potion to disguise themselves as Slytherin students and interrogate Malfoy, but their plan fails. Meanwhile, Harry starts hearing a mysterious voice that only he can hear, and it leads him to the petrified victims. The trio discovers that the monster in the Chamber is a basilisk, a giant serpent. They learn that only a true Gryffindor can defeat it, and Harry realizes that he is the one who can save Hogwarts.",
-        "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20by%20J.K.%20Rowling/2.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 2: The Heir of Slytherin",
+      "text": "As the petrifications continue, rumors spread that the Chamber of Secrets has been opened and that the heir of Slytherin is responsible. Harry, Ron, and Hermione suspect that Draco Malfoy is the heir, but they need evidence to prove it. They brew Polyjuice Potion to disguise themselves as Slytherin students and interrogate Malfoy, but their plan fails. Meanwhile, Harry starts hearing a mysterious voice that only he can hear, and it leads him to the petrified victims. The trio discovers that the monster in the Chamber is a basilisk, a giant serpent. They learn that only a true Gryffindor can defeat it, and Harry realizes that he is the one who can save Hogwarts.",
+      "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20by%20J.K.%20Rowling/2.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 3: The Secrets Unveiled",
-        "text": "Harry and Ron find a diary belonging to Tom Riddle, a former student who later became Lord Voldemort. Through the diary, Riddle communicates with Ginny and possesses her, using her to open the Chamber of Secrets. Harry and Ron rush to the Chamber to rescue Ginny and confront the basilisk. In the Chamber, Harry encounters Tom Riddle's memory, who reveals that he is the true heir of Slytherin and that he framed Hagrid for opening the Chamber fifty years ago. With the help of Fawkes, Dumbledore's phoenix, Harry defeats the basilisk and destroys the diary, which in turn destroys the memory of Tom Riddle. Ginny is saved, and the petrified victims are revived. Harry is hailed as a hero once again.",
-        "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20by%20J.K.%20Rowling/3.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 3: The Secrets Unveiled",
+      "text": "Harry and Ron find a diary belonging to Tom Riddle, a former student who later became Lord Voldemort. Through the diary, Riddle communicates with Ginny and possesses her, using her to open the Chamber of Secrets. Harry and Ron rush to the Chamber to rescue Ginny and confront the basilisk. In the Chamber, Harry encounters Tom Riddle's memory, who reveals that he is the true heir of Slytherin and that he framed Hagrid for opening the Chamber fifty years ago. With the help of Fawkes, Dumbledore's phoenix, Harry defeats the basilisk and destroys the diary, which in turn destroys the memory of Tom Riddle. Ginny is saved, and the petrified victims are revived. Harry is hailed as a hero once again.",
+      "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20by%20J.K.%20Rowling/3.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 4: The Mystery Solved",
-        "text": "With the Chamber of Secrets closed and the culprit revealed, Hogwarts returns to normal. Harry receives a special award for his bravery and skill. However, he is left with lingering questions about the diary and the connection between himself and Lord Voldemort. Dumbledore explains that a piece of Voldemort's soul latched onto Harry when he survived the killing curse as a baby. This connection allows Harry to speak Parseltongue and explains why he hears the basilisk's voice. Harry realizes that he must confront Voldemort in the future, and that his destiny as the Boy Who Lived is far from over.",
-        "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20by%20J.K.%20Rowling/4.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 4: The Mystery Solved",
+      "text": "With the Chamber of Secrets closed and the culprit revealed, Hogwarts returns to normal. Harry receives a special award for his bravery and skill. However, he is left with lingering questions about the diary and the connection between himself and Lord Voldemort. Dumbledore explains that a piece of Voldemort's soul latched onto Harry when he survived the killing curse as a baby. This connection allows Harry to speak Parseltongue and explains why he hears the basilisk's voice. Harry realizes that he must confront Voldemort in the future, and that his destiny as the Boy Who Lived is far from over.",
+      "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20by%20J.K.%20Rowling/4.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 5: Lessons Learned",
-        "text": "Harry learns valuable lessons throughout his second year at Hogwarts. He learns the importance of loyalty and friendship through Ron and Hermione's unwavering support. He also learns to trust his instincts and not let fear hold him back. Harry discovers the power of love through Ginny's possession and the sacrifices made by his parents. He realizes that he is not alone in his fight against Voldemort and that he has a network of friends who will stand by him. Harry also gains a deeper understanding of the dark magic that Voldemort is capable of and the lengths he will go to achieve his goals.",
-        "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20by%20J.K.%20Rowling/5.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 5: Lessons Learned",
+      "text": "Harry learns valuable lessons throughout his second year at Hogwarts. He learns the importance of loyalty and friendship through Ron and Hermione's unwavering support. He also learns to trust his instincts and not let fear hold him back. Harry discovers the power of love through Ginny's possession and the sacrifices made by his parents. He realizes that he is not alone in his fight against Voldemort and that he has a network of friends who will stand by him. Harry also gains a deeper understanding of the dark magic that Voldemort is capable of and the lengths he will go to achieve his goals.",
+      "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20by%20J.K.%20Rowling/5.mp3"
     },
     {
       "type": "TEXT",
-      "content": {
-        "textColor": "black",
-        "bgColor": "white",
-        "title": "Part 6: The Continuing Journey",
-        "text": "As Harry prepares for his third year at Hogwarts, he knows that more challenges and adventures await him. He is determined to uncover the truth about his connection to Voldemort and protect those he cares about. With the support of his friends and mentors, Harry is ready to face whatever comes his way. The Chamber of Secrets may be closed, but the world of magic is vast and full of mysteries. Harry's journey is far from over, and he is ready to embrace his destiny as the Chosen One.",
-        "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20by%20J.K.%20Rowling/6.mp3"
-      }
+      "textColor": "black",
+      "bgColor": "white",
+      "title": "Part 6: The Continuing Journey",
+      "text": "As Harry prepares for his third year at Hogwarts, he knows that more challenges and adventures await him. He is determined to uncover the truth about his connection to Voldemort and protect those he cares about. With the support of his friends and mentors, Harry is ready to face whatever comes his way. The Chamber of Secrets may be closed, but the world of magic is vast and full of mysteries. Harry's journey is far from over, and he is ready to embrace his destiny as the Chosen One.",
+      "audioSrc": "https://www.reelearn.ai/Books/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20by%20J.K.%20Rowling/6.mp3"
     }
   ],
   "user": {
     "name": "J.K. Rowling"
-  }
+  },
+  "name": "Harry Potter and the Chamber of Secrets",
+  "id": "OL48061946M"
 }
